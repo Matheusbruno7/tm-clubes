@@ -27,8 +27,10 @@ INESPERADAS = [
     (100, 149, 16, 12), (50, 99, 14, 11), (25, 49, 12, 10), (0, 24, 11, 9),
 ]
 PESOS_EVENTO = [  # ordem importa: o primeiro que casar vale
-    (r"BRASILEIR", 18), (r"SELETIVA", 12), (r"OURO", 9), (r"PRATA", 6),
-    (r"ESTADUAL|PAULIST|CATARINENSE|GAUCHO|MINEIRO|CARIOCA|PARANAENSE|DISTRITAL", 3),
+    (r"BRASILEIR(A|Ã)O", 18),  # "Liga Nipo Brasileira" é regional
+    (r"COPA BRASIL.*OURO|OURO.*COPA BRASIL", 9), (r"COPA BRASIL.*PRATA|PRATA.*COPA BRASIL", 6),
+    (r"ESTADUAL|PAULIST|CATARINENSE|GAUCHO|MINEIRO|CARIOCA|PARANAENSE|DISTRITAL", 3),  # inclui "SÉRIE OURO/PRATA"
+    (r"SELETIVA", 12),
     (r"REGIONAL|LIGA", 1),
 ]
 

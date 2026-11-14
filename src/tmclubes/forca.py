@@ -37,6 +37,7 @@ PESOS = {"elite": 0.5, "profundidade": 0.3, "volume": 0.2}
 N_ELITE = 5
 N_PROFUNDIDADE = 10  # do 6º ao 15º
 TETO_VOLUME = 50
+TOP_RATING = 100  # "atletas no top 100 do rating nacional" (por sexo)
 N_REFERENCIA = 10  # referência do índice: média dos 10 melhores ratings ativos do sexo
 
 
@@ -141,6 +142,27 @@ def forca(indices: list[float]) -> dict:
     }
 
 
+def absoluto(atleta: dict) -> dict | None:
+    """Categoria do Absoluto mais alta em que o atleta aparece (A é a mais forte) e a posição nela."""
+    abs_ = [x for x in atleta["rankings"] if x["tipo"] == "olimpico" and x["categoria"].upper().startswith("ABSOLUTO")]
+    if not abs_:
+        return None
+    melhor = min(abs_, key=lambda x: (x["categoria"].split()[1] if len(x["categoria"].split()) > 1 else "Z", x["posicao"] or 9999))
+    letra = melhor["categoria"].split()[1] if len(melhor["categoria"].split()) > 1 else "?"
+    return {"categoria": letra, "posicao": melhor["posicao"]}
+
+
+def posicoes_no_rating(atletas: list[dict]) -> None:
+    """Posição de cada atleta no rating nacional do seu sexo (todos os atletas do rating)."""
+    for sexo in ("M", "F"):
+        grupo = sorted((a for a in atletas if a["sexo"] == sexo), key=lambda a: -a["rating"])
+        anterior, pos = None, 0
+        for i, a in enumerate(grupo, 1):
+            if a["rating"] != anterior:
+                pos, anterior = i, a["rating"]
+            a["posicao_rating"] = pos
+
+
 def resumo_grupo(nome: str, uf: str, origem_uf: str, membros: list[dict], ordem_classes: dict) -> dict:
     ativos = [a for a in membros if a["ativo"]]
     masc = [a for a in ativos if a["sexo"] == "M"]
@@ -151,7 +173,9 @@ def resumo_grupo(nome: str, uf: str, origem_uf: str, membros: list[dict], ordem_
         for f in {faixa_etaria(x["categoria"]) for x in a["rankings"] if x["tipo"] == "olimpico"} - {None}:
             faixas[f] += 1
 
-    top10_nacional = sum(1 for a in ativos if any(x["posicao"] and x["posicao"] <= 10 for x in a["rankings"]))
+    # Mesma régua para todos: posição no rating nacional (por sexo), e não a
+    # melhor posição em qualquer categoria (2º no Absoluto B ≠ 2º no Absoluto A).
+    top100_rating = sum(1 for a in ativos if a.get("posicao_rating") and a["posicao_rating"] <= TOP_RATING)
     melhores = sorted(ativos, key=lambda a: a.get("indice", 0), reverse=True)
 
     def dist(lista, sexo):
@@ -168,7 +192,7 @@ def resumo_grupo(nome: str, uf: str, origem_uf: str, membros: list[dict], ordem_
         "atletas_feminino": len(fem),
         "atletas_paralimpicos": sum(1 for a in ativos if a["paralimpico"]),
         "atletas_cadastrados": len(membros),
-        "top10_nacional": top10_nacional,
+        "top100_rating": top100_rating,
         **forca([a.get("indice", 0) for a in ativos]),
         "forca_masculino": forca([a.get("indice", 0) for a in masc])["forca"] if masc else 0,
         "forca_feminino": forca([a.get("indice", 0) for a in fem])["forca"] if fem else 0,
@@ -187,7 +211,8 @@ def resumo_grupo(nome: str, uf: str, origem_uf: str, membros: list[dict], ordem_
                 "classe": a["classe"],
                 "indice": a.get("indice", 0),
                 "paralimpico": a["paralimpico"],
-                "melhor_posicao": min((x["posicao"] for x in a["rankings"] if x["posicao"]), default=None),
+                "posicao_rating": a.get("posicao_rating"),
+                "absoluto": absoluto(a),
             }
             for a in melhores
         ],
@@ -203,6 +228,7 @@ def ranking_de_clubes(
 ) -> dict:
     atletas = montar_atletas(rating, rankings, resolvedor, uf_atleta)
     referencias = indices_por_sexo(atletas)
+    posicoes_no_rating(atletas)
 
     ordem_classes = {
         "M": list("ABCDEFGHIJLMNO"),
