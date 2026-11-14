@@ -136,15 +136,7 @@ def main() -> None:
     for f in res["federacoes"]["itens"]:
         atletas_por_clube[f["id"]] = f.pop("atletas")
 
-    meta = {
-        "gerado_em": agora,
-        "ano_ranking": args.ano,
-        "fonte": "CBTM – rankings e rating públicos (live.cbtm.org.br) e clubes federados (cbtm.org.br)",
-        "aviso": "Os dados usam os números dos atletas do último ano (últimas 52 semanas).",
-    }
-    salvar(PUBLICO / "ranking_clubes.json", {"meta": meta, **res})
-    salvar(PUBLICO / "atletas_por_clube.json", {"meta": meta, "clubes": atletas_por_clube}, compacto=True)
-
+    # Modelo de vitória: perfis de uma amostra de atletas ativos
     jogos_brutos = None
     if args.reusar_jogos and (BRUTO / "jogos_perfis.json").exists():
         jogos_brutos = ler(BRUTO / "jogos_perfis.json")
@@ -154,7 +146,22 @@ def main() -> None:
         print("perfis para o modelo...", flush=True)
         jogos_brutos = amostrar_perfis(cli, rating, ativos, args.perfis)
         salvar(BRUTO / "jogos_perfis.json", jogos_brutos, compacto=True)
-    if jogos_brutos:
+    elif (BRUTO / "jogos_perfis.json").exists():
+        jogos_brutos = ler(BRUTO / "jogos_perfis.json")
+
+    # até que dia o rating oficial já inclui os jogos (o worker de pontos ao vivo usa como corte)
+    oficial_ate = max((str(j.get("DataHorario") or "")[:10] for j in jogos_brutos or []), default=None)
+
+    meta = {
+        "gerado_em": agora,
+        "rating_oficial_ate": oficial_ate,
+        "ano_ranking": args.ano,
+        "fonte": "CBTM – rankings e rating públicos (live.cbtm.org.br) e clubes federados (cbtm.org.br)",
+        "aviso": "Os dados usam os números dos atletas do último ano (últimas 52 semanas).",
+    }
+    salvar(PUBLICO / "ranking_clubes.json", {"meta": meta, **res})
+    salvar(PUBLICO / "atletas_por_clube.json", {"meta": meta, "clubes": atletas_por_clube}, compacto=True)
+    if jogos_brutos and (args.perfis > 0 or args.reusar_jogos):
         modelo = ajustar(jogos_para_modelo(jogos_brutos))
         salvar(PUBLICO / "modelo_vitoria.json", {"meta": {**meta, "perfis_amostrados": args.perfis}, **modelo})
         print(f"modelo: b0={modelo['b0']} b1={modelo['b1']} ({modelo['jogos']} jogos)")
