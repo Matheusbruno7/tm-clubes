@@ -1,6 +1,6 @@
 {
  "meta": {
-  "gerado_em": "2026-11-14T19:38:10+00:00",
+  "gerado_em": "2026-11-14T19:49:09+00:00",
   "rating_oficial_ate": "2026-09-27",
   "ano_ranking": 2026,
   "fonte": "CBTM – rankings e rating públicos (live.cbtm.org.br) e clubes federados (cbtm.org.br)",
@@ -665,7 +665,7 @@
    "atletas_feminino": 12,
    "atletas_paralimpicos": 0,
    "atletas_cadastrados": 38,
-   "top10_nacional": 9,
+   "top10_nacional": 8,
    "forca": 711.6,
    "elite": 74.4,
    "profundidade": 51.5,
@@ -1411,9 +1411,9 @@
     "J": 2
    },
    "faixas_etarias": {
+    "Master": 20,
     "Adulto": 9,
     "Absoluto": 43,
-    "Master": 20,
     "Base (Sub)": 21
    },
    "posicao_brasil": 24,
@@ -1824,8 +1824,8 @@
     "J": 6
    },
    "faixas_etarias": {
-    "Absoluto": 50,
     "Master": 12,
+    "Absoluto": 50,
     "Base (Sub)": 40,
     "Adulto": 19
    },
@@ -2471,8 +2471,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 23,
     "Master": 10,
+    "Absoluto": 23,
     "Base (Sub)": 14,
     "Adulto": 1
    },
@@ -2903,7 +2903,7 @@
    "atletas_feminino": 14,
    "atletas_paralimpicos": 0,
    "atletas_cadastrados": 157,
-   "top10_nacional": 7,
+   "top10_nacional": 6,
    "forca": 533.9,
    "elite": 50.5,
    "profundidade": 27.2,
@@ -2943,8 +2943,8 @@
     "J": 8
    },
    "faixas_etarias": {
-    "Absoluto": 44,
     "Master": 25,
+    "Absoluto": 44,
     "Adulto": 9,
     "Base (Sub)": 41
    },
@@ -3120,8 +3120,8 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 36,
     "Master": 25,
+    "Absoluto": 36,
     "Base (Sub)": 12,
     "Adulto": 4
    },
@@ -3415,8 +3415,8 @@
     "J": 2
    },
    "faixas_etarias": {
-    "Absoluto": 14,
     "Master": 25,
+    "Absoluto": 14,
     "Base (Sub)": 35,
     "Adulto": 9
    },
@@ -3535,8 +3535,8 @@
    "faixas_etarias": {
     "Base (Sub)": 16,
     "Absoluto": 47,
-    "Adulto": 12,
-    "Master": 30
+    "Master": 30,
+    "Adulto": 12
    },
    "posicao_brasil": 60,
    "posicao_estado": 1,
@@ -3592,8 +3592,8 @@
     "J": 3
    },
    "faixas_etarias": {
-    "Absoluto": 30,
     "Master": 32,
+    "Absoluto": 30,
     "Base (Sub)": 12,
     "Adulto": 6
    },
@@ -3828,8 +3828,8 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 52,
     "Master": 20,
+    "Absoluto": 52,
     "Base (Sub)": 20,
     "Adulto": 11
    },
@@ -3947,8 +3947,8 @@
    },
    "faixas_etarias": {
     "Absoluto": 26,
-    "Adulto": 7,
     "Master": 21,
+    "Adulto": 7,
     "Base (Sub)": 4
    },
    "posicao_brasil": 67,
@@ -4123,8 +4123,8 @@
     "J": 5
    },
    "faixas_etarias": {
-    "Absoluto": 37,
     "Master": 16,
+    "Absoluto": 37,
     "Adulto": 9,
     "Base (Sub)": 27
    },
@@ -4418,8 +4418,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 11,
     "Master": 17,
+    "Absoluto": 11,
     "Adulto": 1,
     "Base (Sub)": 1
    },
@@ -4477,8 +4477,8 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 50,
     "Master": 25,
+    "Absoluto": 50,
     "Base (Sub)": 21,
     "Adulto": 4
    },
@@ -4538,8 +4538,8 @@
    "faixas_etarias": {
     "Base (Sub)": 36,
     "Absoluto": 21,
-    "Adulto": 15,
-    "Master": 26
+    "Master": 26,
+    "Adulto": 15
    },
    "posicao_brasil": 77,
    "posicao_estado": 23,
@@ -4595,8 +4595,8 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 11,
     "Master": 27,
+    "Absoluto": 11,
     "Base (Sub)": 18,
     "Adulto": 1
    },
@@ -4831,9 +4831,9 @@
     "J": 3
    },
    "faixas_etarias": {
+    "Master": 14,
     "Adulto": 8,
     "Absoluto": 38,
-    "Master": 14,
     "Base (Sub)": 15
    },
    "posicao_brasil": 82,
@@ -5067,8 +5067,8 @@
     "J": 2
    },
    "faixas_etarias": {
-    "Absoluto": 32,
     "Master": 20,
+    "Absoluto": 32,
     "Base (Sub)": 27,
     "Adulto": 5
    },
@@ -5185,8 +5185,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 18,
     "Master": 12,
+    "Absoluto": 18,
     "Base (Sub)": 8,
     "Adulto": 6
    },
@@ -5244,8 +5244,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 29,
     "Master": 19,
+    "Absoluto": 29,
     "Adulto": 4,
     "Base (Sub)": 1
    },
@@ -5361,9 +5361,9 @@
     "J": 0
    },
    "faixas_etarias": {
+    "Master": 17,
     "Adulto": 7,
     "Absoluto": 9,
-    "Master": 17,
     "Base (Sub)": 4
    },
    "posicao_brasil": 91,
@@ -5479,9 +5479,9 @@
     "J": 0
    },
    "faixas_etarias": {
+    "Master": 18,
     "Adulto": 8,
     "Absoluto": 39,
-    "Master": 18,
     "Base (Sub)": 18
    },
    "posicao_brasil": 93,
@@ -5774,8 +5774,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 25,
     "Master": 17,
+    "Absoluto": 25,
     "Base (Sub)": 19,
     "Adulto": 2
    },
@@ -5833,9 +5833,9 @@
     "J": 4
    },
    "faixas_etarias": {
+    "Master": 23,
     "Adulto": 7,
     "Absoluto": 35,
-    "Master": 23,
     "Base (Sub)": 12
    },
    "posicao_brasil": 99,
@@ -6068,8 +6068,8 @@
     "J": 6
    },
    "faixas_etarias": {
-    "Absoluto": 42,
     "Master": 10,
+    "Absoluto": 42,
     "Base (Sub)": 27,
     "Adulto": 1
    },
@@ -6127,8 +6127,8 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 23,
     "Master": 14,
+    "Absoluto": 23,
     "Base (Sub)": 31,
     "Adulto": 3
    },
@@ -6188,8 +6188,8 @@
    "faixas_etarias": {
     "Absoluto": 20,
     "Base (Sub)": 15,
-    "Adulto": 4,
-    "Master": 6
+    "Master": 6,
+    "Adulto": 4
    },
    "posicao_brasil": 105,
    "posicao_estado": 2,
@@ -6245,9 +6245,9 @@
     "J": 1
    },
    "faixas_etarias": {
+    "Master": 10,
     "Adulto": 4,
     "Absoluto": 30,
-    "Master": 10,
     "Base (Sub)": 33
    },
    "posicao_brasil": 106,
@@ -6481,8 +6481,8 @@
     "J": 4
    },
    "faixas_etarias": {
-    "Absoluto": 38,
     "Master": 17,
+    "Absoluto": 38,
     "Base (Sub)": 20,
     "Adulto": 3
    },
@@ -6776,9 +6776,9 @@
     "J": 7
    },
    "faixas_etarias": {
+    "Master": 19,
     "Adulto": 10,
     "Absoluto": 40,
-    "Master": 19,
     "Base (Sub)": 36
    },
    "posicao_brasil": 115,
@@ -7070,8 +7070,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 11,
     "Master": 4,
+    "Absoluto": 11,
     "Adulto": 1,
     "Base (Sub)": 11
    },
@@ -7188,9 +7188,9 @@
     "J": 2
    },
    "faixas_etarias": {
+    "Master": 13,
     "Adulto": 10,
     "Absoluto": 15,
-    "Master": 13,
     "Base (Sub)": 12
    },
    "posicao_brasil": 122,
@@ -7483,8 +7483,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 28,
     "Master": 19,
+    "Absoluto": 28,
     "Base (Sub)": 3,
     "Adulto": 5
    },
@@ -7660,8 +7660,8 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 27,
     "Master": 10,
+    "Absoluto": 27,
     "Adulto": 12,
     "Base (Sub)": 6
    },
@@ -8073,8 +8073,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 15,
     "Master": 10,
+    "Absoluto": 15,
     "Adulto": 4,
     "Base (Sub)": 3
    },
@@ -8191,8 +8191,8 @@
     "J": 2
    },
    "faixas_etarias": {
-    "Absoluto": 25,
     "Master": 19,
+    "Absoluto": 25,
     "Base (Sub)": 7,
     "Adulto": 6
    },
@@ -8833,8 +8833,8 @@
    "faixas_etarias": {
     "Base (Sub)": 10,
     "Absoluto": 19,
-    "Adulto": 5,
-    "Master": 6
+    "Master": 6,
+    "Adulto": 5
    },
    "posicao_brasil": 150,
    "posicao_estado": 2,
@@ -9067,9 +9067,9 @@
     "J": 1
    },
    "faixas_etarias": {
+    "Master": 5,
     "Adulto": 3,
     "Absoluto": 20,
-    "Master": 5,
     "Base (Sub)": 15
    },
    "posicao_brasil": 154,
@@ -9362,8 +9362,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 35,
     "Master": 48,
+    "Absoluto": 35,
     "Base (Sub)": 4,
     "Adulto": 4
    },
@@ -9538,8 +9538,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 21,
     "Master": 11,
+    "Absoluto": 21,
     "Base (Sub)": 6,
     "Adulto": 4
    },
@@ -9656,8 +9656,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 21,
     "Master": 17,
+    "Absoluto": 21,
     "Adulto": 2,
     "Base (Sub)": 2
    },
@@ -9715,8 +9715,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 5,
     "Master": 5,
+    "Absoluto": 5,
     "Adulto": 1
    },
    "posicao_brasil": 165,
@@ -9948,8 +9948,8 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 6,
     "Master": 2,
+    "Absoluto": 6,
     "Base (Sub)": 7
    },
    "posicao_brasil": 169,
@@ -10083,7 +10083,7 @@
    "atletas_feminino": 2,
    "atletas_paralimpicos": 0,
    "atletas_cadastrados": 22,
-   "top10_nacional": 0,
+   "top10_nacional": 1,
    "forca": 333.5,
    "elite": 32.2,
    "profundidade": 7.6,
@@ -10124,9 +10124,9 @@
    },
    "faixas_etarias": {
     "Base (Sub)": 13,
+    "Master": 3,
     "Adulto": 3,
-    "Absoluto": 14,
-    "Master": 3
+    "Absoluto": 14
    },
    "posicao_brasil": 172,
    "posicao_estado": 5,
@@ -10301,8 +10301,8 @@
    },
    "faixas_etarias": {
     "Base (Sub)": 4,
-    "Absoluto": 9,
     "Master": 2,
+    "Absoluto": 9,
     "Adulto": 4
    },
    "posicao_brasil": 175,
@@ -10361,8 +10361,8 @@
    "faixas_etarias": {
     "Base (Sub)": 10,
     "Absoluto": 16,
-    "Adulto": 3,
-    "Master": 7
+    "Master": 7,
+    "Adulto": 3
    },
    "posicao_brasil": 176,
    "posicao_estado": 6,
@@ -10594,8 +10594,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 7,
     "Master": 11,
+    "Absoluto": 7,
     "Adulto": 4,
     "Base (Sub)": 6
    },
@@ -10712,8 +10712,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 9,
     "Master": 9,
+    "Absoluto": 9,
     "Base (Sub)": 2
    },
    "posicao_brasil": 182,
@@ -11122,8 +11122,8 @@
    },
    "faixas_etarias": {
     "Base (Sub)": 23,
-    "Absoluto": 12,
-    "Master": 3
+    "Master": 3,
+    "Absoluto": 12
    },
    "posicao_brasil": 189,
    "posicao_estado": 18,
@@ -11238,8 +11238,8 @@
     "J": 3
    },
    "faixas_etarias": {
-    "Absoluto": 12,
     "Master": 12,
+    "Absoluto": 12,
     "Base (Sub)": 24,
     "Adulto": 1
    },
@@ -11414,8 +11414,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 15,
     "Master": 5,
+    "Absoluto": 15,
     "Base (Sub)": 11
    },
    "posicao_brasil": 194,
@@ -11533,8 +11533,8 @@
    "faixas_etarias": {
     "Base (Sub)": 27,
     "Absoluto": 5,
-    "Adulto": 2,
-    "Master": 8
+    "Master": 8,
+    "Adulto": 2
    },
    "posicao_brasil": 196,
    "posicao_estado": 55,
@@ -11651,8 +11651,8 @@
    "faixas_etarias": {
     "Base (Sub)": 9,
     "Absoluto": 12,
-    "Adulto": 2,
-    "Master": 6
+    "Master": 6,
+    "Adulto": 2
    },
    "posicao_brasil": 198,
    "posicao_estado": 4,
@@ -12231,8 +12231,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 14,
     "Master": 15,
+    "Absoluto": 14,
     "Adulto": 2,
     "Base (Sub)": 2
    },
@@ -12349,9 +12349,9 @@
     "J": 0
    },
    "faixas_etarias": {
+    "Master": 10,
     "Adulto": 4,
     "Absoluto": 14,
-    "Master": 10,
     "Base (Sub)": 4
    },
    "posicao_brasil": 210,
@@ -12585,8 +12585,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 9,
     "Master": 3,
+    "Absoluto": 9,
     "Base (Sub)": 6,
     "Adulto": 1
    },
@@ -13113,8 +13113,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 14,
     "Master": 12,
+    "Absoluto": 14,
     "Base (Sub)": 9,
     "Adulto": 4
    },
@@ -13231,8 +13231,8 @@
     "J": 2
    },
    "faixas_etarias": {
-    "Absoluto": 15,
     "Master": 9,
+    "Absoluto": 15,
     "Base (Sub)": 4,
     "Adulto": 4
    },
@@ -13538,7 +13538,7 @@
    "atletas_feminino": 0,
    "atletas_paralimpicos": 0,
    "atletas_cadastrados": 50,
-   "top10_nacional": 0,
+   "top10_nacional": 1,
    "forca": 256.5,
    "elite": 25.0,
    "profundidade": 4.7,
@@ -13695,8 +13695,8 @@
     "J": 6
    },
    "faixas_etarias": {
-    "Absoluto": 15,
     "Master": 3,
+    "Absoluto": 15,
     "Base (Sub)": 14,
     "Adulto": 8
    },
@@ -14101,9 +14101,9 @@
     "J": 1
    },
    "faixas_etarias": {
+    "Master": 10,
     "Adulto": 5,
     "Absoluto": 7,
-    "Master": 10,
     "Base (Sub)": 13
    },
    "posicao_brasil": 240,
@@ -14160,8 +14160,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 8,
     "Master": 6,
+    "Absoluto": 8,
     "Base (Sub)": 1
    },
    "posicao_brasil": 241,
@@ -14681,8 +14681,8 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 15,
-    "Master": 7
+    "Master": 7,
+    "Absoluto": 15
    },
    "posicao_brasil": 250,
    "posicao_estado": 11,
@@ -14799,8 +14799,8 @@
    "faixas_etarias": {
     "Base (Sub)": 3,
     "Absoluto": 8,
-    "Adulto": 1,
-    "Master": 7
+    "Master": 7,
+    "Adulto": 1
    },
    "posicao_brasil": 252,
    "posicao_estado": 6,
@@ -14912,9 +14912,9 @@
     "J": 0
    },
    "faixas_etarias": {
+    "Master": 5,
     "Adulto": 1,
     "Absoluto": 7,
-    "Master": 5,
     "Base (Sub)": 3
    },
    "posicao_brasil": 254,
@@ -15086,8 +15086,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 6,
     "Master": 5,
+    "Absoluto": 6,
     "Adulto": 2,
     "Base (Sub)": 9
    },
@@ -15145,9 +15145,9 @@
     "J": 1
    },
    "faixas_etarias": {
+    "Master": 8,
     "Adulto": 1,
     "Absoluto": 7,
-    "Master": 8,
     "Base (Sub)": 9
    },
    "posicao_brasil": 258,
@@ -15204,9 +15204,9 @@
     "J": 0
    },
    "faixas_etarias": {
+    "Master": 6,
     "Adulto": 2,
-    "Absoluto": 6,
-    "Master": 6
+    "Absoluto": 6
    },
    "posicao_brasil": 259,
    "posicao_estado": 11,
@@ -15262,9 +15262,9 @@
     "J": 0
    },
    "faixas_etarias": {
+    "Master": 5,
     "Adulto": 1,
     "Absoluto": 5,
-    "Master": 5,
     "Base (Sub)": 2
    },
    "posicao_brasil": 260,
@@ -15438,8 +15438,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 3,
     "Master": 1,
+    "Absoluto": 3,
     "Base (Sub)": 12
    },
    "posicao_brasil": 263,
@@ -15496,8 +15496,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 6,
     "Master": 7,
+    "Absoluto": 6,
     "Adulto": 1
    },
    "posicao_brasil": 264,
@@ -15613,8 +15613,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 8,
     "Master": 9,
+    "Absoluto": 8,
     "Base (Sub)": 11
    },
    "posicao_brasil": 266,
@@ -16478,8 +16478,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 7,
     "Master": 6,
+    "Absoluto": 7,
     "Adulto": 2
    },
    "posicao_brasil": 281,
@@ -16536,8 +16536,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 9,
     "Master": 6,
+    "Absoluto": 9,
     "Base (Sub)": 4,
     "Adulto": 1
    },
@@ -16595,9 +16595,9 @@
     "J": 0
    },
    "faixas_etarias": {
+    "Master": 3,
     "Adulto": 2,
     "Absoluto": 4,
-    "Master": 3,
     "Base (Sub)": 5
    },
    "posicao_brasil": 283,
@@ -17292,8 +17292,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 14,
     "Master": 7,
+    "Absoluto": 14,
     "Base (Sub)": 4,
     "Adulto": 2
    },
@@ -17521,8 +17521,8 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 7,
     "Master": 2,
+    "Absoluto": 7,
     "Base (Sub)": 5,
     "Adulto": 1
    },
@@ -17925,8 +17925,8 @@
     "J": 2
    },
    "faixas_etarias": {
-    "Absoluto": 11,
     "Master": 5,
+    "Absoluto": 11,
     "Base (Sub)": 7,
     "Adulto": 3
    },
@@ -18161,8 +18161,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 10,
     "Master": 7,
+    "Absoluto": 10,
     "Base (Sub)": 3
    },
    "posicao_brasil": 310,
@@ -18277,8 +18277,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 6,
     "Master": 6,
+    "Absoluto": 6,
     "Adulto": 1,
     "Base (Sub)": 5
    },
@@ -18797,8 +18797,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 11,
     "Master": 9,
+    "Absoluto": 11,
     "Base (Sub)": 3
    },
    "posicao_brasil": 321,
@@ -19668,8 +19668,8 @@
    },
    "faixas_etarias": {
     "Base (Sub)": 5,
-    "Absoluto": 8,
-    "Master": 6
+    "Master": 6,
+    "Absoluto": 8
    },
    "posicao_brasil": 336,
    "posicao_estado": 16,
@@ -19725,8 +19725,8 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 9,
     "Master": 7,
+    "Absoluto": 9,
     "Base (Sub)": 2
    },
    "posicao_brasil": 337,
@@ -20070,8 +20070,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 4,
     "Master": 3,
+    "Absoluto": 4,
     "Base (Sub)": 9
    },
    "posicao_brasil": 343,
@@ -20129,8 +20129,8 @@
    },
    "faixas_etarias": {
     "Base (Sub)": 1,
-    "Absoluto": 9,
     "Master": 7,
+    "Absoluto": 9,
     "Adulto": 1
    },
    "posicao_brasil": 344,
@@ -20475,8 +20475,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 2,
     "Master": 2,
+    "Absoluto": 2,
     "Base (Sub)": 6,
     "Adulto": 3
    },
@@ -22197,8 +22197,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 2,
     "Master": 6,
+    "Absoluto": 2,
     "Base (Sub)": 1
    },
    "posicao_brasil": 380,
@@ -22312,8 +22312,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 3,
     "Master": 2,
+    "Absoluto": 3,
     "Base (Sub)": 3
    },
    "posicao_brasil": 382,
@@ -22370,8 +22370,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 7,
     "Master": 2,
+    "Absoluto": 7,
     "Base (Sub)": 6,
     "Adulto": 1
    },
@@ -22487,8 +22487,8 @@
    },
    "faixas_etarias": {
     "Base (Sub)": 7,
-    "Absoluto": 3,
     "Master": 3,
+    "Absoluto": 3,
     "Adulto": 1
    },
    "posicao_brasil": 385,
@@ -22772,8 +22772,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 3,
     "Master": 4,
+    "Absoluto": 3,
     "Adulto": 1,
     "Base (Sub)": 1
    },
@@ -23177,8 +23177,8 @@
     "J": 3
    },
    "faixas_etarias": {
-    "Absoluto": 1,
     "Master": 4,
+    "Absoluto": 1,
     "Base (Sub)": 3,
     "Adulto": 1
    },
@@ -23583,8 +23583,8 @@
    },
    "faixas_etarias": {
     "Base (Sub)": 3,
-    "Absoluto": 2,
-    "Master": 2
+    "Master": 2,
+    "Absoluto": 2
    },
    "posicao_brasil": 404,
    "posicao_estado": 7,
@@ -23812,8 +23812,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 5,
     "Master": 1,
+    "Absoluto": 5,
     "Base (Sub)": 4
    },
    "posicao_brasil": 408,
@@ -23871,8 +23871,8 @@
    },
    "faixas_etarias": {
     "Adulto": 4,
-    "Base (Sub)": 2,
-    "Master": 1
+    "Master": 1,
+    "Base (Sub)": 2
    },
    "posicao_brasil": 409,
    "posicao_estado": 8,
@@ -24270,8 +24270,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 6,
     "Master": 2,
+    "Absoluto": 6,
     "Base (Sub)": 4
    },
    "posicao_brasil": 416,
@@ -24949,8 +24949,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 4,
     "Master": 3,
+    "Absoluto": 4,
     "Base (Sub)": 1
    },
    "posicao_brasil": 428,
@@ -25007,8 +25007,8 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 1,
-    "Master": 2
+    "Master": 2,
+    "Absoluto": 1
    },
    "posicao_brasil": 429,
    "posicao_estado": 7,
@@ -25409,8 +25409,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 3,
     "Master": 2,
+    "Absoluto": 3,
     "Adulto": 1
    },
    "posicao_brasil": 436,
@@ -25868,8 +25868,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 5,
     "Master": 2,
+    "Absoluto": 5,
     "Base (Sub)": 2
    },
    "posicao_brasil": 444,
@@ -25984,8 +25984,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 3,
     "Master": 2,
+    "Absoluto": 3,
     "Adulto": 1
    },
    "posicao_brasil": 446,
@@ -26099,8 +26099,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 2,
-    "Master": 3
+    "Master": 3,
+    "Absoluto": 2
    },
    "posicao_brasil": 448,
    "posicao_estado": 3,
@@ -26156,8 +26156,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 3,
-    "Master": 3
+    "Master": 3,
+    "Absoluto": 3
    },
    "posicao_brasil": 449,
    "posicao_estado": 10,
@@ -26270,8 +26270,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 2,
-    "Master": 1
+    "Master": 1,
+    "Absoluto": 2
    },
    "posicao_brasil": 451,
    "posicao_estado": 9,
@@ -26383,8 +26383,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 3,
     "Master": 2,
+    "Absoluto": 3,
     "Base (Sub)": 2
    },
    "posicao_brasil": 453,
@@ -26613,8 +26613,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 2,
     "Master": 2,
+    "Absoluto": 2,
     "Adulto": 1
    },
    "posicao_brasil": 457,
@@ -26671,8 +26671,8 @@
     "J": 2
    },
    "faixas_etarias": {
-    "Absoluto": 4,
-    "Master": 2
+    "Master": 2,
+    "Absoluto": 4
    },
    "posicao_brasil": 458,
    "posicao_estado": 162,
@@ -27746,8 +27746,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 2,
     "Master": 1,
+    "Absoluto": 2,
     "Base (Sub)": 1,
     "Adulto": 1
    },
@@ -28030,8 +28030,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 1,
     "Master": 1,
+    "Absoluto": 1,
     "Base (Sub)": 2
    },
    "posicao_brasil": 482,
@@ -29051,8 +29051,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 1,
     "Master": 1,
+    "Absoluto": 1,
     "Base (Sub)": 1
    },
    "posicao_brasil": 500,
@@ -29789,8 +29789,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 1,
-    "Master": 1
+    "Master": 1,
+    "Absoluto": 1
    },
    "posicao_brasil": 513,
    "posicao_estado": 43,
@@ -30635,8 +30635,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 1,
-    "Master": 1
+    "Master": 1,
+    "Absoluto": 1
    },
    "posicao_brasil": 528,
    "posicao_estado": 30,
@@ -30804,8 +30804,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 2,
-    "Master": 1
+    "Master": 1,
+    "Absoluto": 2
    },
    "posicao_brasil": 531,
    "posicao_estado": 27,
@@ -31427,8 +31427,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 1,
-    "Master": 1
+    "Master": 1,
+    "Absoluto": 1
    },
    "posicao_brasil": 542,
    "posicao_estado": 184,
@@ -31824,8 +31824,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 1,
-    "Master": 1
+    "Master": 1,
+    "Absoluto": 1
    },
    "posicao_brasil": 549,
    "posicao_estado": 187,
@@ -32501,8 +32501,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 1,
-    "Master": 1
+    "Master": 1,
+    "Absoluto": 1
    },
    "posicao_brasil": 561,
    "posicao_estado": 39,
@@ -35372,8 +35372,8 @@
      "J": 5
     },
     "faixas_etarias": {
-     "Absoluto": 10,
      "Master": 7,
+     "Absoluto": 10,
      "Base (Sub)": 25
     },
     "id": "federacao-catarinense-de-tenis-de-mesa-sc"
@@ -35434,6 +35434,63 @@
     "id": "federacao-de-tenis-de-mesa-do-parana-pr"
    },
    {
+    "nome": "FEDERAÇÃO MINEIRA DE T.M. OLIMPICO E PARALIMPICA",
+    "nome_cbtm": "FEDERAÇÃO MINEIRA DE T.M. OLIMPICO E PARALIMPICA - MG",
+    "uf": "MG",
+    "origem_uf": "atletas",
+    "atletas_ativos": 22,
+    "atletas_masculino": 15,
+    "atletas_feminino": 7,
+    "atletas_paralimpicos": 0,
+    "atletas_cadastrados": 374,
+    "top10_nacional": 0,
+    "forca": 211.2,
+    "elite": 6.8,
+    "profundidade": 6.0,
+    "volume": 79.7,
+    "forca_masculino": 188.8,
+    "forca_feminino": 141.1,
+    "rating_medio_masculino": 241,
+    "rating_mediano_masculino": 248,
+    "rating_medio_feminino": 251,
+    "rating_mediano_feminino": 250,
+    "classes_masculino": {
+     "A": 0,
+     "B": 0,
+     "C": 0,
+     "D": 0,
+     "E": 0,
+     "F": 0,
+     "G": 0,
+     "H": 0,
+     "I": 0,
+     "J": 0,
+     "L": 0,
+     "M": 0,
+     "N": 3,
+     "O": 12
+    },
+    "classes_feminino": {
+     "A": 0,
+     "B": 0,
+     "C": 0,
+     "D": 0,
+     "E": 0,
+     "F": 0,
+     "G": 0,
+     "H": 0,
+     "I": 2,
+     "J": 5
+    },
+    "faixas_etarias": {
+     "Base (Sub)": 16,
+     "Adulto": 2,
+     "Master": 4,
+     "Absoluto": 8
+    },
+    "id": "federacao-mineira-de-t-m-olimpico-e-paralimpica-mg"
+   },
+   {
     "nome": "FEDERAÇÃO DOS MESATENISTAS DO CEARÁ",
     "nome_cbtm": "FEDERAÇÃO DOS MESATENISTAS DO CEARÁ - CE",
     "uf": "CE",
@@ -35483,8 +35540,8 @@
      "J": 5
     },
     "faixas_etarias": {
-     "Absoluto": 11,
      "Master": 5,
+     "Absoluto": 11,
      "Base (Sub)": 8,
      "Adulto": 1
     },
@@ -35544,63 +35601,6 @@
      "Absoluto": 7
     },
     "id": "federacao-de-tenis-de-mesa-do-piaui-pi"
-   },
-   {
-    "nome": "FEDERAÇÃO MINEIRA DE T.M. OLIMPICO E PARALIMPICA",
-    "nome_cbtm": "FEDERAÇÃO MINEIRA DE T.M. OLIMPICO E PARALIMPICA - MG",
-    "uf": "MG",
-    "origem_uf": "atletas",
-    "atletas_ativos": 21,
-    "atletas_masculino": 15,
-    "atletas_feminino": 6,
-    "atletas_paralimpicos": 0,
-    "atletas_cadastrados": 374,
-    "top10_nacional": 0,
-    "forca": 208.8,
-    "elite": 6.8,
-    "profundidade": 5.9,
-    "volume": 78.6,
-    "forca_masculino": 188.8,
-    "forca_feminino": 132.4,
-    "rating_medio_masculino": 241,
-    "rating_mediano_masculino": 248,
-    "rating_medio_feminino": 251,
-    "rating_mediano_feminino": 250,
-    "classes_masculino": {
-     "A": 0,
-     "B": 0,
-     "C": 0,
-     "D": 0,
-     "E": 0,
-     "F": 0,
-     "G": 0,
-     "H": 0,
-     "I": 0,
-     "J": 0,
-     "L": 0,
-     "M": 0,
-     "N": 3,
-     "O": 12
-    },
-    "classes_feminino": {
-     "A": 0,
-     "B": 0,
-     "C": 0,
-     "D": 0,
-     "E": 0,
-     "F": 0,
-     "G": 0,
-     "H": 0,
-     "I": 2,
-     "J": 4
-    },
-    "faixas_etarias": {
-     "Base (Sub)": 16,
-     "Absoluto": 8,
-     "Master": 4,
-     "Adulto": 1
-    },
-    "id": "federacao-mineira-de-t-m-olimpico-e-paralimpica-mg"
    },
    {
     "nome": "FEDERAÇÃO DE TÊNIS DE MESA DO AMAZONAS",
@@ -35763,8 +35763,8 @@
      "J": 7
     },
     "faixas_etarias": {
-     "Absoluto": 5,
      "Master": 1,
+     "Absoluto": 5,
      "Base (Sub)": 11,
      "Adulto": 1
     },
@@ -35934,8 +35934,8 @@
     },
     "faixas_etarias": {
      "Base (Sub)": 6,
-     "Absoluto": 9,
-     "Master": 5
+     "Master": 5,
+     "Absoluto": 9
     },
     "id": "federacao-de-tenis-de-mesa-do-para-pa"
    },
@@ -35989,8 +35989,8 @@
      "J": 3
     },
     "faixas_etarias": {
-     "Adulto": 2,
      "Master": 1,
+     "Adulto": 2,
      "Base (Sub)": 9,
      "Absoluto": 2
     },
@@ -36158,8 +36158,8 @@
      "J": 1
     },
     "faixas_etarias": {
-     "Absoluto": 5,
      "Master": 2,
+     "Absoluto": 5,
      "Base (Sub)": 5
     },
     "id": "federacao-de-tenis-de-mesa-do-estado-de-goias-go"
@@ -36605,9 +36605,9 @@
  },
  "resumo": {
   "atletas_no_rating": 41585,
-  "atletas_ativos": 12529,
+  "atletas_ativos": 12530,
   "atletas_ativos_em_clubes": 12004,
-  "atletas_ativos_em_federacoes": 525,
+  "atletas_ativos_em_federacoes": 526,
   "clubes_no_ranking": 608,
   "clubes_sem_estado": 0,
   "origem_uf": {
