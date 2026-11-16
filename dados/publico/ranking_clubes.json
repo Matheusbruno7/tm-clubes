@@ -1,6 +1,6 @@
 {
  "meta": {
-  "gerado_em": "2026-11-14T20:03:15+00:00",
+  "gerado_em": "2026-11-16T23:11:30+00:00",
   "rating_oficial_ate": "2026-09-27",
   "ano_ranking": 2026,
   "fonte": "CBTM – rankings e rating públicos (live.cbtm.org.br) e clubes federados (cbtm.org.br)",
@@ -177,7 +177,7 @@
     "Base (Sub)": 18,
     "Absoluto": 34,
     "Master": 9,
-    "Adulto": 4
+    "Adulto": 5
    },
    "posicao_brasil": 3,
    "posicao_estado": 2,
@@ -424,8 +424,8 @@
    "nome_cbtm": "TEAM MANCINI -SP",
    "uf": "SP",
    "origem_uf": "atletas",
-   "atletas_ativos": 70,
-   "atletas_masculino": 59,
+   "atletas_ativos": 71,
+   "atletas_masculino": 60,
    "atletas_feminino": 11,
    "atletas_paralimpicos": 4,
    "atletas_cadastrados": 112,
@@ -436,8 +436,8 @@
    "volume": 100.0,
    "forca_masculino": 710.2,
    "forca_feminino": 457.5,
-   "rating_medio_masculino": 1082,
-   "rating_mediano_masculino": 837,
+   "rating_medio_masculino": 1076,
+   "rating_mediano_masculino": 820,
    "rating_medio_feminino": 1346,
    "rating_mediano_feminino": 907,
    "classes_masculino": {
@@ -450,7 +450,7 @@
     "G": 4,
     "H": 4,
     "I": 5,
-    "J": 1,
+    "J": 2,
     "L": 4,
     "M": 2,
     "N": 8,
@@ -470,7 +470,7 @@
    },
    "faixas_etarias": {
     "Base (Sub)": 42,
-    "Absoluto": 45,
+    "Absoluto": 46,
     "Master": 14,
     "Adulto": 7
    },
@@ -601,22 +601,22 @@
    "nome_cbtm": "SOGIPA PORTO ALEGRE - RS",
    "uf": "RS",
    "origem_uf": "federados",
-   "atletas_ativos": 49,
-   "atletas_masculino": 36,
-   "atletas_feminino": 13,
+   "atletas_ativos": 47,
+   "atletas_masculino": 35,
+   "atletas_feminino": 12,
    "atletas_paralimpicos": 0,
    "atletas_cadastrados": 112,
    "top100_rating": 4,
-   "forca": 721.4,
+   "forca": 719.3,
    "elite": 81.5,
    "profundidade": 38.3,
-   "volume": 99.5,
-   "forca_masculino": 567.5,
-   "forca_feminino": 482.0,
-   "rating_medio_masculino": 884,
-   "rating_mediano_masculino": 523,
-   "rating_medio_feminino": 1244,
-   "rating_mediano_feminino": 655,
+   "volume": 98.5,
+   "forca_masculino": 566.2,
+   "forca_feminino": 476.1,
+   "rating_medio_masculino": 902,
+   "rating_mediano_masculino": 524,
+   "rating_medio_feminino": 1325,
+   "rating_mediano_feminino": 874,
    "classes_masculino": {
     "A": 1,
     "B": 1,
@@ -630,7 +630,7 @@
     "J": 1,
     "L": 3,
     "M": 4,
-    "N": 5,
+    "N": 4,
     "O": 7
    },
    "classes_feminino": {
@@ -642,12 +642,12 @@
     "F": 1,
     "G": 0,
     "H": 0,
-    "I": 4,
+    "I": 3,
     "J": 2
    },
    "faixas_etarias": {
-    "Base (Sub)": 27,
-    "Absoluto": 39,
+    "Base (Sub)": 26,
+    "Absoluto": 36,
     "Adulto": 5,
     "Master": 17
    },
@@ -941,9 +941,9 @@
    },
    "faixas_etarias": {
     "Base (Sub)": 82,
-    "Absoluto": 78,
+    "Absoluto": 80,
     "Master": 57,
-    "Adulto": 13
+    "Adulto": 14
    },
    "posicao_brasil": 16,
    "posicao_estado": 8,
@@ -1252,7 +1252,7 @@
    "atletas_masculino": 52,
    "atletas_feminino": 3,
    "atletas_paralimpicos": 2,
-   "atletas_cadastrados": 157,
+   "atletas_cadastrados": 158,
    "top100_rating": 2,
    "forca": 671.1,
    "elite": 68.2,
@@ -1411,9 +1411,9 @@
     "J": 2
    },
    "faixas_etarias": {
+    "Master": 20,
     "Adulto": 9,
     "Absoluto": 43,
-    "Master": 20,
     "Base (Sub)": 21
    },
    "posicao_brasil": 24,
@@ -1471,7 +1471,7 @@
    },
    "faixas_etarias": {
     "Adulto": 16,
-    "Absoluto": 57,
+    "Absoluto": 58,
     "Base (Sub)": 35,
     "Master": 18
    },
@@ -1484,8 +1484,8 @@
    "nome_cbtm": "RIO SPIN - ESCOLA DE TÊNIS DE MESA - RJ",
    "uf": "RJ",
    "origem_uf": "federados",
-   "atletas_ativos": 76,
-   "atletas_masculino": 64,
+   "atletas_ativos": 75,
+   "atletas_masculino": 63,
    "atletas_feminino": 12,
    "atletas_paralimpicos": 7,
    "atletas_cadastrados": 142,
@@ -1496,8 +1496,8 @@
    "volume": 100.0,
    "forca_masculino": 627.8,
    "forca_feminino": 388.0,
-   "rating_medio_masculino": 880,
-   "rating_mediano_masculino": 596,
+   "rating_medio_masculino": 891,
+   "rating_mediano_masculino": 604,
    "rating_medio_feminino": 1061,
    "rating_mediano_feminino": 858,
    "classes_masculino": {
@@ -1514,7 +1514,7 @@
     "L": 2,
     "M": 3,
     "N": 7,
-    "O": 19
+    "O": 18
    },
    "classes_feminino": {
     "A": 0,
@@ -1529,9 +1529,9 @@
     "J": 3
    },
    "faixas_etarias": {
-    "Adulto": 6,
     "Base (Sub)": 22,
-    "Absoluto": 67,
+    "Absoluto": 66,
+    "Adulto": 6,
     "Master": 33
    },
    "posicao_brasil": 26,
@@ -1775,65 +1775,6 @@
    "id": "associacao-esportiva-e-cultural-nipo-brasileira-de-campo-grande-ms"
   },
   {
-   "nome": "ASSOC. VARGINHENSE DE ESPORTE",
-   "nome_cbtm": "ASSOC. VARGINHENSE DE ESPORTE-MG",
-   "uf": "MG",
-   "origem_uf": "federados",
-   "atletas_ativos": 67,
-   "atletas_masculino": 54,
-   "atletas_feminino": 13,
-   "atletas_paralimpicos": 1,
-   "atletas_cadastrados": 121,
-   "top100_rating": 2,
-   "forca": 611.9,
-   "elite": 62.7,
-   "profundidade": 32.8,
-   "volume": 100.0,
-   "forca_masculino": 577.6,
-   "forca_feminino": 339.6,
-   "rating_medio_masculino": 785,
-   "rating_mediano_masculino": 620,
-   "rating_medio_feminino": 750,
-   "rating_mediano_feminino": 260,
-   "classes_masculino": {
-    "A": 1,
-    "B": 1,
-    "C": 0,
-    "D": 3,
-    "E": 1,
-    "F": 0,
-    "G": 6,
-    "H": 4,
-    "I": 7,
-    "J": 7,
-    "L": 6,
-    "M": 2,
-    "N": 6,
-    "O": 10
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 1,
-    "C": 1,
-    "D": 2,
-    "E": 2,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 1,
-    "J": 6
-   },
-   "faixas_etarias": {
-    "Absoluto": 50,
-    "Master": 12,
-    "Adulto": 19,
-    "Base (Sub)": 40
-   },
-   "posicao_brasil": 31,
-   "posicao_estado": 1,
-   "id": "assoc-varginhense-de-esporte-mg"
-  },
-  {
    "nome": "ASSOCIAÇÃO MARINGAENSE DE TÊNIS DE MESA",
    "nome_cbtm": "ASSOCIAÇÃO MARINGAENSE DE TÊNIS DE MESA - PR",
    "uf": "PR",
@@ -1888,9 +1829,68 @@
     "Absoluto": 34,
     "Adulto": 8
    },
-   "posicao_brasil": 32,
+   "posicao_brasil": 31,
    "posicao_estado": 4,
    "id": "associacao-maringaense-de-tenis-de-mesa-pr"
+  },
+  {
+   "nome": "ASSOC. VARGINHENSE DE ESPORTE",
+   "nome_cbtm": "ASSOC. VARGINHENSE DE ESPORTE-MG",
+   "uf": "MG",
+   "origem_uf": "federados",
+   "atletas_ativos": 66,
+   "atletas_masculino": 53,
+   "atletas_feminino": 13,
+   "atletas_paralimpicos": 1,
+   "atletas_cadastrados": 121,
+   "top100_rating": 2,
+   "forca": 607.5,
+   "elite": 62.7,
+   "profundidade": 31.3,
+   "volume": 100.0,
+   "forca_masculino": 572.2,
+   "forca_feminino": 339.6,
+   "rating_medio_masculino": 768,
+   "rating_mediano_masculino": 614,
+   "rating_medio_feminino": 750,
+   "rating_mediano_feminino": 260,
+   "classes_masculino": {
+    "A": 1,
+    "B": 1,
+    "C": 0,
+    "D": 3,
+    "E": 0,
+    "F": 0,
+    "G": 6,
+    "H": 4,
+    "I": 7,
+    "J": 7,
+    "L": 6,
+    "M": 2,
+    "N": 6,
+    "O": 10
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 1,
+    "C": 1,
+    "D": 2,
+    "E": 2,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 1,
+    "J": 6
+   },
+   "faixas_etarias": {
+    "Master": 12,
+    "Absoluto": 50,
+    "Base (Sub)": 40,
+    "Adulto": 18
+   },
+   "posicao_brasil": 32,
+   "posicao_estado": 1,
+   "id": "assoc-varginhense-de-esporte-mg"
   },
   {
    "nome": "ASSOCIAÇÃO DE TENIS DE MESA DE FOZ DO IGUAÇU",
@@ -2128,65 +2128,6 @@
    "id": "aabb-fortaleza-ce"
   },
   {
-   "nome": "CENTRO DE TREINAMENTO GUEDES TT",
-   "nome_cbtm": "CENTRO DE TREINAMENTO GUEDES TT - RO",
-   "uf": "RO",
-   "origem_uf": "atletas",
-   "atletas_ativos": 71,
-   "atletas_masculino": 54,
-   "atletas_feminino": 17,
-   "atletas_paralimpicos": 3,
-   "atletas_cadastrados": 109,
-   "top100_rating": 1,
-   "forca": 579.6,
-   "elite": 59.5,
-   "profundidade": 27.4,
-   "volume": 100.0,
-   "forca_masculino": 560.0,
-   "forca_feminino": 307.3,
-   "rating_medio_masculino": 625,
-   "rating_mediano_masculino": 343,
-   "rating_medio_feminino": 498,
-   "rating_mediano_feminino": 288,
-   "classes_masculino": {
-    "A": 1,
-    "B": 2,
-    "C": 0,
-    "D": 0,
-    "E": 1,
-    "F": 2,
-    "G": 3,
-    "H": 1,
-    "I": 5,
-    "J": 2,
-    "L": 6,
-    "M": 3,
-    "N": 11,
-    "O": 17
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 1,
-    "D": 3,
-    "E": 0,
-    "F": 0,
-    "G": 1,
-    "H": 1,
-    "I": 4,
-    "J": 7
-   },
-   "faixas_etarias": {
-    "Base (Sub)": 42,
-    "Absoluto": 56,
-    "Master": 18,
-    "Adulto": 10
-   },
-   "posicao_brasil": 37,
-   "posicao_estado": 1,
-   "id": "centro-de-treinamento-guedes-tt-ro"
-  },
-  {
    "nome": "ASSOCIAÇÃO CONCORDIENSE DE TÊNIS DE MESA",
    "nome_cbtm": "ASSOCIAÇÃO CONCORDIENSE DE TÊNIS DE MESA-SC",
    "uf": "SC",
@@ -2241,7 +2182,7 @@
     "Base (Sub)": 13,
     "Master": 3
    },
-   "posicao_brasil": 38,
+   "posicao_brasil": 37,
    "posicao_estado": 9,
    "id": "associacao-concordiense-de-tenis-de-mesa-sc"
   },
@@ -2300,7 +2241,7 @@
     "Adulto": 11,
     "Master": 22
    },
-   "posicao_brasil": 39,
+   "posicao_brasil": 38,
    "posicao_estado": 1,
    "id": "independente-clube-de-tenis-de-mesa-ma"
   },
@@ -2358,9 +2299,68 @@
     "Master": 25,
     "Base (Sub)": 1
    },
-   "posicao_brasil": 40,
+   "posicao_brasil": 39,
    "posicao_estado": 13,
    "id": "academia-de-tenis-de-mesa-life-pong-sp"
+  },
+  {
+   "nome": "CENTRO DE TREINAMENTO GUEDES TT",
+   "nome_cbtm": "CENTRO DE TREINAMENTO GUEDES TT - RO",
+   "uf": "RO",
+   "origem_uf": "atletas",
+   "atletas_ativos": 57,
+   "atletas_masculino": 44,
+   "atletas_feminino": 13,
+   "atletas_paralimpicos": 2,
+   "atletas_cadastrados": 109,
+   "top100_rating": 1,
+   "forca": 571.4,
+   "elite": 58.8,
+   "profundidade": 25.7,
+   "volume": 100.0,
+   "forca_masculino": 553.6,
+   "forca_feminino": 252.2,
+   "rating_medio_masculino": 701,
+   "rating_mediano_masculino": 381,
+   "rating_medio_feminino": 443,
+   "rating_mediano_feminino": 254,
+   "classes_masculino": {
+    "A": 1,
+    "B": 2,
+    "C": 0,
+    "D": 0,
+    "E": 1,
+    "F": 2,
+    "G": 3,
+    "H": 1,
+    "I": 5,
+    "J": 2,
+    "L": 5,
+    "M": 1,
+    "N": 9,
+    "O": 12
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 3,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 4,
+    "J": 6
+   },
+   "faixas_etarias": {
+    "Base (Sub)": 36,
+    "Absoluto": 44,
+    "Master": 16,
+    "Adulto": 8
+   },
+   "posicao_brasil": 40,
+   "posicao_estado": 1,
+   "id": "centro-de-treinamento-guedes-tt-ro"
   },
   {
    "nome": "CLUBE ESP. SUZANO COSTA / CT LUA TABLE TENNIS",
@@ -2412,9 +2412,9 @@
     "J": 4
    },
    "faixas_etarias": {
-    "Adulto": 13,
     "Base (Sub)": 26,
     "Absoluto": 62,
+    "Adulto": 13,
     "Master": 31
    },
    "posicao_brasil": 41,
@@ -2471,8 +2471,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 23,
     "Master": 10,
+    "Absoluto": 23,
     "Base (Sub)": 14,
     "Adulto": 1
    },
@@ -2485,20 +2485,20 @@
    "nome_cbtm": "M2TM CENTRO DE TREINAMENTO DE TÊNIS DE MESA-SP",
    "uf": "SP",
    "origem_uf": "atletas",
-   "atletas_ativos": 58,
-   "atletas_masculino": 46,
+   "atletas_ativos": 59,
+   "atletas_masculino": 47,
    "atletas_feminino": 12,
    "atletas_paralimpicos": 0,
    "atletas_cadastrados": 85,
    "top100_rating": 1,
-   "forca": 557.9,
-   "elite": 53.7,
-   "profundidade": 29.8,
+   "forca": 568.1,
+   "elite": 54.6,
+   "profundidade": 31.7,
    "volume": 100.0,
-   "forca_masculino": 546.7,
+   "forca_masculino": 558.4,
    "forca_feminino": 236.9,
-   "rating_medio_masculino": 724,
-   "rating_mediano_masculino": 382,
+   "rating_medio_masculino": 748,
+   "rating_mediano_masculino": 404,
    "rating_medio_feminino": 460,
    "rating_mediano_feminino": 310,
    "classes_masculino": {
@@ -2506,7 +2506,7 @@
     "B": 0,
     "C": 1,
     "D": 1,
-    "E": 3,
+    "E": 4,
     "F": 3,
     "G": 3,
     "H": 2,
@@ -2531,8 +2531,8 @@
    },
    "faixas_etarias": {
     "Base (Sub)": 25,
-    "Absoluto": 32,
-    "Adulto": 19,
+    "Absoluto": 33,
+    "Adulto": 20,
     "Master": 14
    },
    "posicao_brasil": 43,
@@ -2825,9 +2825,9 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Adulto": 9,
     "Base (Sub)": 24,
     "Absoluto": 54,
+    "Adulto": 9,
     "Master": 17
    },
    "posicao_brasil": 48,
@@ -2943,8 +2943,8 @@
     "J": 8
    },
    "faixas_etarias": {
-    "Absoluto": 44,
     "Master": 25,
+    "Absoluto": 44,
     "Adulto": 9,
     "Base (Sub)": 41
    },
@@ -3002,9 +3002,9 @@
     "J": 2
    },
    "faixas_etarias": {
-    "Adulto": 15,
     "Base (Sub)": 64,
     "Absoluto": 76,
+    "Adulto": 15,
     "Master": 17
    },
    "posicao_brasil": 51,
@@ -3120,8 +3120,8 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 36,
     "Master": 25,
+    "Absoluto": 36,
     "Base (Sub)": 12,
     "Adulto": 4
    },
@@ -3238,9 +3238,9 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Adulto": 8,
     "Base (Sub)": 12,
     "Absoluto": 25,
+    "Adulto": 8,
     "Master": 8
    },
    "posicao_brasil": 55,
@@ -3315,7 +3315,7 @@
    "atletas_masculino": 51,
    "atletas_feminino": 7,
    "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 148,
+   "atletas_cadastrados": 151,
    "top100_rating": 0,
    "forca": 516.9,
    "elite": 46.3,
@@ -3370,9 +3370,9 @@
    "nome_cbtm": "POWER PONG TM/ASSOCIAÇÃO DOS MESATENISTAS DE CAMPINAS-SP",
    "uf": "SP",
    "origem_uf": "atletas",
-   "atletas_ativos": 71,
+   "atletas_ativos": 70,
    "atletas_masculino": 63,
-   "atletas_feminino": 8,
+   "atletas_feminino": 7,
    "atletas_paralimpicos": 1,
    "atletas_cadastrados": 134,
    "top100_rating": 0,
@@ -3381,11 +3381,11 @@
    "profundidade": 19.9,
    "volume": 100.0,
    "forca_masculino": 515.4,
-   "forca_feminino": 162.7,
+   "forca_feminino": 151.0,
    "rating_medio_masculino": 515,
    "rating_mediano_masculino": 263,
-   "rating_medio_feminino": 319,
-   "rating_mediano_feminino": 312,
+   "rating_medio_feminino": 305,
+   "rating_mediano_feminino": 302,
    "classes_masculino": {
     "A": 0,
     "B": 0,
@@ -3410,13 +3410,13 @@
     "E": 0,
     "F": 0,
     "G": 0,
-    "H": 2,
+    "H": 1,
     "I": 4,
     "J": 2
    },
    "faixas_etarias": {
-    "Absoluto": 14,
-    "Master": 25,
+    "Master": 24,
+    "Absoluto": 16,
     "Base (Sub)": 35,
     "Adulto": 9
    },
@@ -3535,8 +3535,8 @@
    "faixas_etarias": {
     "Base (Sub)": 16,
     "Absoluto": 47,
-    "Adulto": 12,
-    "Master": 30
+    "Master": 30,
+    "Adulto": 12
    },
    "posicao_brasil": 60,
    "posicao_estado": 1,
@@ -3592,8 +3592,8 @@
     "J": 3
    },
    "faixas_etarias": {
-    "Absoluto": 30,
     "Master": 32,
+    "Absoluto": 30,
     "Base (Sub)": 12,
     "Adulto": 6
    },
@@ -3828,8 +3828,8 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 52,
     "Master": 20,
+    "Absoluto": 52,
     "Base (Sub)": 20,
     "Adulto": 11
    },
@@ -3947,8 +3947,8 @@
    },
    "faixas_etarias": {
     "Absoluto": 26,
-    "Adulto": 7,
     "Master": 21,
+    "Adulto": 7,
     "Base (Sub)": 4
    },
    "posicao_brasil": 67,
@@ -4005,9 +4005,9 @@
     "J": 2
    },
    "faixas_etarias": {
-    "Adulto": 1,
     "Base (Sub)": 22,
     "Absoluto": 16,
+    "Adulto": 1,
     "Master": 1
    },
    "posicao_brasil": 68,
@@ -4123,8 +4123,8 @@
     "J": 5
    },
    "faixas_etarias": {
-    "Absoluto": 37,
     "Master": 16,
+    "Absoluto": 37,
     "Adulto": 9,
     "Base (Sub)": 27
    },
@@ -4418,8 +4418,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 11,
     "Master": 17,
+    "Absoluto": 11,
     "Adulto": 1,
     "Base (Sub)": 1
    },
@@ -4477,8 +4477,8 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 50,
     "Master": 25,
+    "Absoluto": 50,
     "Base (Sub)": 21,
     "Adulto": 4
    },
@@ -4491,8 +4491,8 @@
    "nome_cbtm": "ASSOCIAÇÃO RCTM - SP",
    "uf": "SP",
    "origem_uf": "atletas",
-   "atletas_ativos": 75,
-   "atletas_masculino": 65,
+   "atletas_ativos": 72,
+   "atletas_masculino": 62,
    "atletas_feminino": 10,
    "atletas_paralimpicos": 0,
    "atletas_cadastrados": 216,
@@ -4503,8 +4503,8 @@
    "volume": 100.0,
    "forca_masculino": 481.6,
    "forca_feminino": 189.5,
-   "rating_medio_masculino": 497,
-   "rating_mediano_masculino": 278,
+   "rating_medio_masculino": 510,
+   "rating_mediano_masculino": 286,
    "rating_medio_feminino": 350,
    "rating_mediano_feminino": 246,
    "classes_masculino": {
@@ -4521,7 +4521,7 @@
     "L": 10,
     "M": 1,
     "N": 14,
-    "O": 26
+    "O": 23
    },
    "classes_feminino": {
     "A": 0,
@@ -4538,8 +4538,8 @@
    "faixas_etarias": {
     "Base (Sub)": 36,
     "Absoluto": 21,
-    "Adulto": 15,
-    "Master": 26
+    "Master": 24,
+    "Adulto": 13
    },
    "posicao_brasil": 77,
    "posicao_estado": 23,
@@ -4595,8 +4595,8 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 11,
     "Master": 27,
+    "Absoluto": 11,
     "Base (Sub)": 18,
     "Adulto": 1
    },
@@ -4782,65 +4782,6 @@
    "id": "ypiranga-esporte-clube-ap"
   },
   {
-   "nome": "YPIRANGA ESPORTE CLUBE",
-   "nome_cbtm": "YPIRANGA ESPORTE CLUBE - RO",
-   "uf": "RO",
-   "origem_uf": "federados",
-   "atletas_ativos": 40,
-   "atletas_masculino": 34,
-   "atletas_feminino": 6,
-   "atletas_paralimpicos": 1,
-   "atletas_cadastrados": 121,
-   "top100_rating": 0,
-   "forca": 478.6,
-   "elite": 45.6,
-   "profundidade": 20.6,
-   "volume": 94.4,
-   "forca_masculino": 466.3,
-   "forca_feminino": 158.7,
-   "rating_medio_masculino": 684,
-   "rating_mediano_masculino": 434,
-   "rating_medio_feminino": 424,
-   "rating_mediano_feminino": 258,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 1,
-    "D": 3,
-    "E": 0,
-    "F": 0,
-    "G": 3,
-    "H": 2,
-    "I": 2,
-    "J": 3,
-    "L": 4,
-    "M": 1,
-    "N": 6,
-    "O": 9
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 1,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 1,
-    "I": 1,
-    "J": 3
-   },
-   "faixas_etarias": {
-    "Adulto": 8,
-    "Absoluto": 38,
-    "Master": 14,
-    "Base (Sub)": 15
-   },
-   "posicao_brasil": 82,
-   "posicao_estado": 2,
-   "id": "ypiranga-esporte-clube-ro"
-  },
-  {
    "nome": "ASSOCIACAO BACKHAND PING PONG",
    "nome_cbtm": "ASSOCIACAO BACKHAND PING PONG - MS",
    "uf": "MS",
@@ -4895,7 +4836,7 @@
     "Base (Sub)": 30,
     "Master": 19
    },
-   "posicao_brasil": 83,
+   "posicao_brasil": 82,
    "posicao_estado": 3,
    "id": "associacao-backhand-ping-pong-ms"
   },
@@ -4954,7 +4895,7 @@
     "Adulto": 13,
     "Master": 42
    },
-   "posicao_brasil": 84,
+   "posicao_brasil": 83,
    "posicao_estado": 2,
    "id": "associacao-cfpro-table-tennis-mg"
   },
@@ -5013,7 +4954,7 @@
     "Master": 19,
     "Adulto": 7
    },
-   "posicao_brasil": 85,
+   "posicao_brasil": 84,
    "posicao_estado": 5,
    "id": "associacao-mesatenistas-costa-do-sol-rj"
   },
@@ -5067,14 +5008,73 @@
     "J": 2
    },
    "faixas_etarias": {
-    "Absoluto": 32,
     "Master": 20,
+    "Absoluto": 34,
     "Base (Sub)": 27,
     "Adulto": 5
    },
-   "posicao_brasil": 86,
+   "posicao_brasil": 85,
    "posicao_estado": 26,
    "id": "pong-zone-centro-de-treinamento-de-tenis-de-mesa-ltda-sp"
+  },
+  {
+   "nome": "YPIRANGA ESPORTE CLUBE",
+   "nome_cbtm": "YPIRANGA ESPORTE CLUBE - RO",
+   "uf": "RO",
+   "origem_uf": "federados",
+   "atletas_ativos": 32,
+   "atletas_masculino": 28,
+   "atletas_feminino": 4,
+   "atletas_paralimpicos": 1,
+   "atletas_cadastrados": 121,
+   "top100_rating": 0,
+   "forca": 467.6,
+   "elite": 45.6,
+   "profundidade": 20.6,
+   "volume": 88.9,
+   "forca_masculino": 456.7,
+   "forca_feminino": 133.6,
+   "rating_medio_masculino": 781,
+   "rating_mediano_masculino": 567,
+   "rating_medio_feminino": 517,
+   "rating_mediano_feminino": 376,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 1,
+    "D": 3,
+    "E": 0,
+    "F": 0,
+    "G": 3,
+    "H": 2,
+    "I": 2,
+    "J": 3,
+    "L": 4,
+    "M": 0,
+    "N": 5,
+    "O": 5
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 1,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 1,
+    "I": 1,
+    "J": 1
+   },
+   "faixas_etarias": {
+    "Master": 15,
+    "Adulto": 7,
+    "Absoluto": 29,
+    "Base (Sub)": 12
+   },
+   "posicao_brasil": 86,
+   "posicao_estado": 2,
+   "id": "ypiranga-esporte-clube-ro"
   },
   {
    "nome": "CLUBE DE CAMPO DE PIRACICABA-CCP",
@@ -5126,9 +5126,9 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Adulto": 5,
     "Base (Sub)": 13,
     "Absoluto": 11,
+    "Adulto": 5,
     "Master": 2
    },
    "posicao_brasil": 87,
@@ -5185,10 +5185,10 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 18,
     "Master": 12,
-    "Adulto": 6,
-    "Base (Sub)": 8
+    "Absoluto": 18,
+    "Base (Sub)": 8,
+    "Adulto": 6
    },
    "posicao_brasil": 88,
    "posicao_estado": 2,
@@ -5244,8 +5244,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 29,
     "Master": 19,
+    "Absoluto": 29,
     "Adulto": 4,
     "Base (Sub)": 1
    },
@@ -5361,9 +5361,9 @@
     "J": 0
    },
    "faixas_etarias": {
+    "Master": 17,
     "Adulto": 7,
     "Absoluto": 9,
-    "Master": 17,
     "Base (Sub)": 4
    },
    "posicao_brasil": 91,
@@ -5479,9 +5479,9 @@
     "J": 0
    },
    "faixas_etarias": {
+    "Master": 18,
     "Adulto": 8,
     "Absoluto": 39,
-    "Master": 18,
     "Base (Sub)": 18
    },
    "posicao_brasil": 93,
@@ -5597,8 +5597,8 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Adulto": 7,
     "Base (Sub)": 20,
+    "Adulto": 7,
     "Absoluto": 23,
     "Master": 6
    },
@@ -5715,9 +5715,9 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Adulto": 5,
     "Base (Sub)": 8,
     "Absoluto": 15,
+    "Adulto": 5,
     "Master": 15
    },
    "posicao_brasil": 97,
@@ -5774,8 +5774,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 25,
     "Master": 17,
+    "Absoluto": 25,
     "Base (Sub)": 19,
     "Adulto": 2
    },
@@ -5833,9 +5833,9 @@
     "J": 4
    },
    "faixas_etarias": {
-    "Adulto": 7,
-    "Absoluto": 35,
     "Master": 23,
+    "Adulto": 8,
+    "Absoluto": 36,
     "Base (Sub)": 12
    },
    "posicao_brasil": 99,
@@ -5901,65 +5901,6 @@
    "id": "mege-ma"
   },
   {
-   "nome": "ACADEMIA BAIANA",
-   "nome_cbtm": "ACADEMIA BAIANA - BA",
-   "uf": "BA",
-   "origem_uf": "atletas",
-   "atletas_ativos": 60,
-   "atletas_masculino": 54,
-   "atletas_feminino": 6,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 154,
-   "top100_rating": 0,
-   "forca": 442.0,
-   "elite": 34.8,
-   "profundidade": 22.7,
-   "volume": 100.0,
-   "forca_masculino": 438.1,
-   "forca_feminino": 169.8,
-   "rating_medio_masculino": 540,
-   "rating_mediano_masculino": 356,
-   "rating_medio_feminino": 480,
-   "rating_mediano_feminino": 450,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 1,
-    "F": 5,
-    "G": 2,
-    "H": 4,
-    "I": 0,
-    "J": 8,
-    "L": 4,
-    "M": 3,
-    "N": 7,
-    "O": 20
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 2,
-    "F": 1,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 3
-   },
-   "faixas_etarias": {
-    "Base (Sub)": 17,
-    "Absoluto": 34,
-    "Adulto": 7,
-    "Master": 28
-   },
-   "posicao_brasil": 101,
-   "posicao_estado": 2,
-   "id": "academia-baiana-ba"
-  },
-  {
    "nome": "PREFEITURA DE TOLEDO/YARA COUNTRY CLUBE",
    "nome_cbtm": "PREFEITURA DE TOLEDO/YARA COUNTRY CLUBE - PR",
    "uf": "PR",
@@ -6014,9 +5955,68 @@
     "Master": 11,
     "Adulto": 1
    },
-   "posicao_brasil": 102,
+   "posicao_brasil": 101,
    "posicao_estado": 10,
    "id": "prefeitura-de-toledo-yara-country-clube-pr"
+  },
+  {
+   "nome": "ASSOCIAÇÃO DESPORTIVA ISRAEL BARRETO -ADIB",
+   "nome_cbtm": "ASSOCIAÇÃO DESPORTIVA ISRAEL BARRETO -ADIB - AM",
+   "uf": "AM",
+   "origem_uf": "atletas",
+   "atletas_ativos": 27,
+   "atletas_masculino": 23,
+   "atletas_feminino": 4,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 47,
+   "top100_rating": 0,
+   "forca": 438.2,
+   "elite": 40.6,
+   "profundidade": 21.9,
+   "volume": 84.7,
+   "forca_masculino": 423.7,
+   "forca_feminino": 140.6,
+   "rating_medio_masculino": 852,
+   "rating_mediano_masculino": 821,
+   "rating_medio_feminino": 587,
+   "rating_mediano_feminino": 464,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 1,
+    "D": 1,
+    "E": 1,
+    "F": 0,
+    "G": 5,
+    "H": 2,
+    "I": 3,
+    "J": 2,
+    "L": 1,
+    "M": 0,
+    "N": 4,
+    "O": 3
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 1,
+    "E": 0,
+    "F": 0,
+    "G": 1,
+    "H": 0,
+    "I": 1,
+    "J": 1
+   },
+   "faixas_etarias": {
+    "Absoluto": 21,
+    "Base (Sub)": 15,
+    "Master": 7,
+    "Adulto": 4
+   },
+   "posicao_brasil": 102,
+   "posicao_estado": 2,
+   "id": "associacao-desportiva-israel-barreto-adib-am"
   },
   {
    "nome": "ACADEMIA PING DRIVE LTDA",
@@ -6068,8 +6068,8 @@
     "J": 6
    },
    "faixas_etarias": {
-    "Absoluto": 42,
     "Master": 10,
+    "Absoluto": 42,
     "Base (Sub)": 27,
     "Adulto": 1
    },
@@ -6127,73 +6127,14 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 23,
     "Master": 14,
+    "Absoluto": 23,
     "Base (Sub)": 31,
     "Adulto": 3
    },
    "posicao_brasil": 104,
    "posicao_estado": 32,
    "id": "uceg-uniao-cultural-e-esportiva-guarulhense-sp"
-  },
-  {
-   "nome": "ASSOCIAÇÃO DESPORTIVA ISRAEL BARRETO -ADIB",
-   "nome_cbtm": "ASSOCIAÇÃO DESPORTIVA ISRAEL BARRETO -ADIB - AM",
-   "uf": "AM",
-   "origem_uf": "atletas",
-   "atletas_ativos": 26,
-   "atletas_masculino": 22,
-   "atletas_feminino": 4,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 46,
-   "top100_rating": 0,
-   "forca": 430.5,
-   "elite": 40.3,
-   "profundidade": 20.4,
-   "volume": 83.8,
-   "forca_masculino": 414.0,
-   "forca_feminino": 140.6,
-   "rating_medio_masculino": 832,
-   "rating_mediano_masculino": 810,
-   "rating_medio_feminino": 587,
-   "rating_mediano_feminino": 464,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 1,
-    "D": 1,
-    "E": 1,
-    "F": 0,
-    "G": 4,
-    "H": 2,
-    "I": 3,
-    "J": 2,
-    "L": 1,
-    "M": 0,
-    "N": 4,
-    "O": 3
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 1,
-    "E": 0,
-    "F": 0,
-    "G": 1,
-    "H": 0,
-    "I": 1,
-    "J": 1
-   },
-   "faixas_etarias": {
-    "Absoluto": 20,
-    "Base (Sub)": 15,
-    "Adulto": 4,
-    "Master": 6
-   },
-   "posicao_brasil": 105,
-   "posicao_estado": 2,
-   "id": "associacao-desportiva-israel-barreto-adib-am"
   },
   {
    "nome": "FÊNIX TT",
@@ -6245,12 +6186,12 @@
     "J": 1
    },
    "faixas_etarias": {
+    "Master": 10,
     "Adulto": 4,
     "Absoluto": 30,
-    "Master": 10,
     "Base (Sub)": 33
    },
-   "posicao_brasil": 106,
+   "posicao_brasil": 105,
    "posicao_estado": 6,
    "id": "fenix-tt-pe"
   },
@@ -6309,7 +6250,7 @@
     "Base (Sub)": 12,
     "Master": 10
    },
-   "posicao_brasil": 107,
+   "posicao_brasil": 106,
    "posicao_estado": 6,
    "id": "arena-pong-rj"
   },
@@ -6318,20 +6259,20 @@
    "nome_cbtm": "LIONS CLUBE DE ARIQUEMES CANAA - RO",
    "uf": "RO",
    "origem_uf": "federados",
-   "atletas_ativos": 51,
-   "atletas_masculino": 44,
+   "atletas_ativos": 47,
+   "atletas_masculino": 40,
    "atletas_feminino": 7,
    "atletas_paralimpicos": 1,
    "atletas_cadastrados": 109,
    "top100_rating": 0,
-   "forca": 428.4,
+   "forca": 425.4,
    "elite": 33.4,
    "profundidade": 20.4,
-   "volume": 100.0,
-   "forca_masculino": 415.2,
+   "volume": 98.5,
+   "forca_masculino": 410.5,
    "forca_feminino": 181.9,
-   "rating_medio_masculino": 506,
-   "rating_mediano_masculino": 336,
+   "rating_medio_masculino": 525,
+   "rating_mediano_masculino": 356,
    "rating_medio_feminino": 479,
    "rating_mediano_feminino": 415,
    "classes_masculino": {
@@ -6345,10 +6286,10 @@
     "H": 1,
     "I": 2,
     "J": 0,
-    "L": 7,
+    "L": 6,
     "M": 3,
-    "N": 6,
-    "O": 17
+    "N": 4,
+    "O": 16
    },
    "classes_feminino": {
     "A": 0,
@@ -6363,12 +6304,12 @@
     "J": 3
    },
    "faixas_etarias": {
-    "Base (Sub)": 41,
-    "Absoluto": 49,
+    "Base (Sub)": 38,
+    "Absoluto": 44,
     "Adulto": 6,
     "Master": 5
    },
-   "posicao_brasil": 108,
+   "posicao_brasil": 107,
    "posicao_estado": 3,
    "id": "lions-clube-de-ariquemes-canaa-ro"
   },
@@ -6427,7 +6368,7 @@
     "Base (Sub)": 11,
     "Master": 1
    },
-   "posicao_brasil": 109,
+   "posicao_brasil": 108,
    "posicao_estado": 3,
    "id": "tmi-tenis-de-mesa-icaro-rn"
   },
@@ -6481,12 +6422,12 @@
     "J": 4
    },
    "faixas_etarias": {
-    "Absoluto": 38,
     "Master": 17,
+    "Absoluto": 38,
     "Base (Sub)": 20,
     "Adulto": 3
    },
-   "posicao_brasil": 110,
+   "posicao_brasil": 109,
    "posicao_estado": 4,
    "id": "associacao-esportiva-dunas-rn"
   },
@@ -6540,12 +6481,12 @@
     "J": 8
    },
    "faixas_etarias": {
-    "Adulto": 13,
     "Base (Sub)": 48,
     "Absoluto": 47,
+    "Adulto": 13,
     "Master": 12
    },
-   "posicao_brasil": 111,
+   "posicao_brasil": 110,
    "posicao_estado": 3,
    "id": "sport-sertao-tenis-de-mesa-pb"
   },
@@ -6604,7 +6545,7 @@
     "Master": 16,
     "Adulto": 2
    },
-   "posicao_brasil": 112,
+   "posicao_brasil": 111,
    "posicao_estado": 2,
    "id": "projeto-futuro-rs"
   },
@@ -6663,7 +6604,7 @@
     "Base (Sub)": 19,
     "Adulto": 1
    },
-   "posicao_brasil": 113,
+   "posicao_brasil": 112,
    "posicao_estado": 11,
    "id": "academia-fitpong-de-tenis-de-mesa-pr"
   },
@@ -6717,12 +6658,12 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Adulto": 4,
     "Base (Sub)": 15,
+    "Adulto": 4,
     "Absoluto": 11,
     "Master": 7
    },
-   "posicao_brasil": 114,
+   "posicao_brasil": 113,
    "posicao_estado": 33,
    "id": "nosso-clube-de-limeira-sp"
   },
@@ -6776,12 +6717,12 @@
     "J": 7
    },
    "faixas_etarias": {
+    "Master": 19,
     "Adulto": 10,
     "Absoluto": 40,
-    "Master": 19,
     "Base (Sub)": 36
    },
-   "posicao_brasil": 115,
+   "posicao_brasil": 114,
    "posicao_estado": 5,
    "id": "bel-tt-caminho-do-bem-pa"
   },
@@ -6839,7 +6780,7 @@
     "Base (Sub)": 25,
     "Absoluto": 9
    },
-   "posicao_brasil": 116,
+   "posicao_brasil": 115,
    "posicao_estado": 34,
    "id": "associacao-cultural-e-desportiva-de-assis-sp"
   },
@@ -6898,7 +6839,7 @@
     "Base (Sub)": 13,
     "Master": 8
    },
-   "posicao_brasil": 117,
+   "posicao_brasil": 116,
    "posicao_estado": 3,
    "id": "associacao-anapolina-de-tenis-de-mesa-go"
   },
@@ -6957,7 +6898,7 @@
     "Base (Sub)": 13,
     "Master": 2
    },
-   "posicao_brasil": 118,
+   "posicao_brasil": 117,
    "posicao_estado": 35,
    "id": "clube-de-tenis-de-mesa-alves-tt-caieiras-sp"
   },
@@ -7016,7 +6957,7 @@
     "Base (Sub)": 33,
     "Master": 5
    },
-   "posicao_brasil": 119,
+   "posicao_brasil": 118,
    "posicao_estado": 3,
    "id": "atmr-mt"
   },
@@ -7070,12 +7011,12 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 11,
     "Master": 4,
+    "Absoluto": 11,
     "Adulto": 1,
     "Base (Sub)": 11
    },
-   "posicao_brasil": 120,
+   "posicao_brasil": 119,
    "posicao_estado": 12,
    "id": "academia-bestpong-aabb-fme-balneario-camboriu-sc"
   },
@@ -7134,7 +7075,7 @@
     "Base (Sub)": 12,
     "Master": 3
    },
-   "posicao_brasil": 121,
+   "posicao_brasil": 120,
    "posicao_estado": 13,
    "id": "associacao-rio-do-sul-sc"
   },
@@ -7188,14 +7129,132 @@
     "J": 2
    },
    "faixas_etarias": {
+    "Master": 13,
     "Adulto": 10,
     "Absoluto": 15,
-    "Master": 13,
     "Base (Sub)": 12
    },
-   "posicao_brasil": 122,
+   "posicao_brasil": 121,
    "posicao_estado": 36,
    "id": "acemv-prefeitura-de-votorantim-sedesp-sp"
+  },
+  {
+   "nome": "ACADEMIA BAIANA",
+   "nome_cbtm": "ACADEMIA BAIANA - BA",
+   "uf": "BA",
+   "origem_uf": "atletas",
+   "atletas_ativos": 54,
+   "atletas_masculino": 48,
+   "atletas_feminino": 6,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 148,
+   "top100_rating": 0,
+   "forca": 403.8,
+   "elite": 29.6,
+   "profundidade": 18.6,
+   "volume": 100.0,
+   "forca_masculino": 396.6,
+   "forca_feminino": 169.8,
+   "rating_medio_masculino": 470,
+   "rating_mediano_masculino": 312,
+   "rating_medio_feminino": 480,
+   "rating_mediano_feminino": 450,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 3,
+    "G": 2,
+    "H": 3,
+    "I": 0,
+    "J": 7,
+    "L": 3,
+    "M": 3,
+    "N": 7,
+    "O": 20
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 2,
+    "F": 1,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 3
+   },
+   "faixas_etarias": {
+    "Base (Sub)": 17,
+    "Absoluto": 29,
+    "Adulto": 7,
+    "Master": 22
+   },
+   "posicao_brasil": 122,
+   "posicao_estado": 2,
+   "id": "academia-baiana-ba"
+  },
+  {
+   "nome": "TIME JUNDIAÍ",
+   "nome_cbtm": "TIME JUNDIAÍ - SP",
+   "uf": "SP",
+   "origem_uf": "atletas",
+   "atletas_ativos": 25,
+   "atletas_masculino": 21,
+   "atletas_feminino": 4,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 61,
+   "top100_rating": 0,
+   "forca": 402.7,
+   "elite": 37.5,
+   "profundidade": 16.4,
+   "volume": 82.9,
+   "forca_masculino": 393.3,
+   "forca_feminino": 116.7,
+   "rating_medio_masculino": 813,
+   "rating_mediano_masculino": 699,
+   "rating_medio_feminino": 348,
+   "rating_mediano_feminino": 394,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 1,
+    "D": 0,
+    "E": 1,
+    "F": 2,
+    "G": 2,
+    "H": 0,
+    "I": 4,
+    "J": 1,
+    "L": 3,
+    "M": 3,
+    "N": 4,
+    "O": 0
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 2,
+    "I": 1,
+    "J": 1
+   },
+   "faixas_etarias": {
+    "Base (Sub)": 13,
+    "Absoluto": 15,
+    "Master": 11,
+    "Adulto": 5
+   },
+   "posicao_brasil": 123,
+   "posicao_estado": 37,
+   "id": "time-jundiai-sp"
   },
   {
    "nome": "NIKKEI CURITIBA",
@@ -7252,7 +7311,7 @@
     "Absoluto": 14,
     "Adulto": 1
    },
-   "posicao_brasil": 123,
+   "posicao_brasil": 124,
    "posicao_estado": 12,
    "id": "nikkei-curitiba-pr"
   },
@@ -7311,8 +7370,8 @@
     "Master": 20,
     "Adulto": 4
    },
-   "posicao_brasil": 124,
-   "posicao_estado": 37,
+   "posicao_brasil": 125,
+   "posicao_estado": 38,
    "id": "itaquera-nikkei-clube-sp"
   },
   {
@@ -7370,7 +7429,7 @@
     "Adulto": 6,
     "Master": 14
    },
-   "posicao_brasil": 125,
+   "posicao_brasil": 126,
    "posicao_estado": 2,
    "id": "associacao-palmense-de-tenis-de-mesa-to"
   },
@@ -7429,7 +7488,7 @@
     "Master": 5,
     "Adulto": 1
    },
-   "posicao_brasil": 126,
+   "posicao_brasil": 127,
    "posicao_estado": 13,
    "id": "gp-tenis-de-mesa-performance-pr"
   },
@@ -7483,12 +7542,12 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 28,
     "Master": 19,
+    "Absoluto": 28,
     "Base (Sub)": 3,
     "Adulto": 5
    },
-   "posicao_brasil": 127,
+   "posicao_brasil": 128,
    "posicao_estado": 6,
    "id": "cabana-clube-pa"
   },
@@ -7497,9 +7556,9 @@
    "nome_cbtm": "GRÊMIO NÁUTICO GAÚCHO - RS",
    "uf": "RS",
    "origem_uf": "atletas",
-   "atletas_ativos": 65,
-   "atletas_masculino": 46,
-   "atletas_feminino": 19,
+   "atletas_ativos": 62,
+   "atletas_masculino": 44,
+   "atletas_feminino": 18,
    "atletas_paralimpicos": 0,
    "atletas_cadastrados": 92,
    "top100_rating": 0,
@@ -7507,12 +7566,12 @@
    "elite": 30.0,
    "profundidade": 15.0,
    "volume": 100.0,
-   "forca_masculino": 345.2,
-   "forca_feminino": 289.2,
-   "rating_medio_masculino": 401,
-   "rating_mediano_masculino": 344,
-   "rating_medio_feminino": 406,
-   "rating_mediano_feminino": 273,
+   "forca_masculino": 342.9,
+   "forca_feminino": 285.8,
+   "rating_medio_masculino": 413,
+   "rating_mediano_masculino": 352,
+   "rating_medio_feminino": 416,
+   "rating_mediano_feminino": 286,
    "classes_masculino": {
     "A": 0,
     "B": 0,
@@ -7527,7 +7586,7 @@
     "L": 8,
     "M": 7,
     "N": 8,
-    "O": 15
+    "O": 13
    },
    "classes_feminino": {
     "A": 0,
@@ -7539,76 +7598,17 @@
     "G": 1,
     "H": 0,
     "I": 6,
-    "J": 9
+    "J": 8
    },
    "faixas_etarias": {
     "Adulto": 16,
     "Absoluto": 47,
-    "Master": 25,
-    "Base (Sub)": 22
-   },
-   "posicao_brasil": 128,
-   "posicao_estado": 3,
-   "id": "gremio-nautico-gaucho-rs"
-  },
-  {
-   "nome": "TIME JUNDIAÍ",
-   "nome_cbtm": "TIME JUNDIAÍ - SP",
-   "uf": "SP",
-   "origem_uf": "atletas",
-   "atletas_ativos": 24,
-   "atletas_masculino": 20,
-   "atletas_feminino": 4,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 61,
-   "top100_rating": 0,
-   "forca": 393.9,
-   "elite": 37.3,
-   "profundidade": 14.6,
-   "volume": 81.9,
-   "forca_masculino": 383.8,
-   "forca_feminino": 116.7,
-   "rating_medio_masculino": 791,
-   "rating_mediano_masculino": 622,
-   "rating_medio_feminino": 348,
-   "rating_mediano_feminino": 394,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 1,
-    "D": 0,
-    "E": 1,
-    "F": 2,
-    "G": 1,
-    "H": 0,
-    "I": 4,
-    "J": 1,
-    "L": 3,
-    "M": 3,
-    "N": 4,
-    "O": 0
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 2,
-    "I": 1,
-    "J": 1
-   },
-   "faixas_etarias": {
-    "Base (Sub)": 13,
-    "Absoluto": 14,
-    "Master": 11,
-    "Adulto": 4
+    "Master": 24,
+    "Base (Sub)": 20
    },
    "posicao_brasil": 129,
-   "posicao_estado": 38,
-   "id": "time-jundiai-sp"
+   "posicao_estado": 3,
+   "id": "gremio-nautico-gaucho-rs"
   },
   {
    "nome": "TONANTEAMT.MESA",
@@ -7660,9 +7660,9 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 27,
     "Master": 10,
-    "Adulto": 12,
+    "Absoluto": 27,
+    "Adulto": 13,
     "Base (Sub)": 6
    },
    "posicao_brasil": 130,
@@ -7955,9 +7955,9 @@
     "J": 9
    },
    "faixas_etarias": {
-    "Adulto": 4,
     "Base (Sub)": 50,
     "Absoluto": 44,
+    "Adulto": 4,
     "Master": 6
    },
    "posicao_brasil": 135,
@@ -8073,8 +8073,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 15,
     "Master": 10,
+    "Absoluto": 15,
     "Adulto": 4,
     "Base (Sub)": 3
    },
@@ -8191,8 +8191,8 @@
     "J": 2
    },
    "faixas_etarias": {
-    "Absoluto": 25,
     "Master": 19,
+    "Absoluto": 25,
     "Base (Sub)": 7,
     "Adulto": 6
    },
@@ -8425,73 +8425,14 @@
     "J": 3
    },
    "faixas_etarias": {
-    "Adulto": 3,
-    "Absoluto": 18,
+    "Adulto": 4,
+    "Absoluto": 19,
     "Master": 6,
-    "Base (Sub)": 13
+    "Base (Sub)": 14
    },
    "posicao_brasil": 143,
    "posicao_estado": 41,
    "id": "aceas-nikkei-suzano-sp"
-  },
-  {
-   "nome": "ASSOCIAÇÃO LAZER LIVRE",
-   "nome_cbtm": "ASSOCIAÇÃO LAZER LIVRE - RO",
-   "uf": "RO",
-   "origem_uf": "federados",
-   "atletas_ativos": 24,
-   "atletas_masculino": 21,
-   "atletas_feminino": 3,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 38,
-   "top100_rating": 0,
-   "forca": 371.2,
-   "elite": 32.3,
-   "profundidade": 15.2,
-   "volume": 81.9,
-   "forca_masculino": 364.2,
-   "forca_feminino": 97.1,
-   "rating_medio_masculino": 710,
-   "rating_mediano_masculino": 613,
-   "rating_medio_feminino": 354,
-   "rating_mediano_feminino": 409,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 1,
-    "E": 0,
-    "F": 1,
-    "G": 2,
-    "H": 2,
-    "I": 3,
-    "J": 4,
-    "L": 2,
-    "M": 0,
-    "N": 2,
-    "O": 4
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 2,
-    "I": 0,
-    "J": 1
-   },
-   "faixas_etarias": {
-    "Adulto": 6,
-    "Absoluto": 24,
-    "Base (Sub)": 8,
-    "Master": 12
-   },
-   "posicao_brasil": 144,
-   "posicao_estado": 4,
-   "id": "associacao-lazer-livre-ro"
   },
   {
    "nome": "ASSOCIAÇÃO DOS DEFICIENTE FÍSICOS DO PARANÁ-ADFP",
@@ -8545,7 +8486,7 @@
    "faixas_etarias": {
     "Master": 2
    },
-   "posicao_brasil": 145,
+   "posicao_brasil": 144,
    "posicao_estado": 14,
    "id": "associacao-dos-deficiente-fisicos-do-parana-adfp-pr"
   },
@@ -8602,7 +8543,7 @@
     "Absoluto": 2,
     "Adulto": 1
    },
-   "posicao_brasil": 146,
+   "posicao_brasil": 145,
    "posicao_estado": 5,
    "id": "associacao-dos-deficientes-fisicos-de-goias-adfego-go"
   },
@@ -8660,7 +8601,7 @@
     "Absoluto": 25,
     "Master": 5
    },
-   "posicao_brasil": 147,
+   "posicao_brasil": 146,
    "posicao_estado": 5,
    "id": "astm-sinop-mt"
   },
@@ -8719,7 +8660,7 @@
     "Base (Sub)": 4,
     "Master": 1
    },
-   "posicao_brasil": 148,
+   "posicao_brasil": 147,
    "posicao_estado": 42,
    "id": "associacao-cultural-e-assistencial-mie-kenjin-do-brasil-sp"
   },
@@ -8775,9 +8716,9 @@
    "faixas_etarias": {
     "Master": 6,
     "Base (Sub)": 15,
-    "Absoluto": 12
+    "Absoluto": 11
    },
-   "posicao_brasil": 149,
+   "posicao_brasil": 148,
    "posicao_estado": 15,
    "id": "street-pong-pr"
   },
@@ -8833,71 +8774,12 @@
    "faixas_etarias": {
     "Base (Sub)": 10,
     "Absoluto": 19,
-    "Adulto": 5,
-    "Master": 6
+    "Master": 6,
+    "Adulto": 5
    },
-   "posicao_brasil": 150,
+   "posicao_brasil": 149,
    "posicao_estado": 2,
    "id": "clube-live-tt-rr"
-  },
-  {
-   "nome": "ASSOCIAÇÃO CAXIENSE DE TÊNIS DE MESA - ACTM",
-   "nome_cbtm": "ASSOCIAÇÃO CAXIENSE DE TÊNIS DE MESA - ACTM - RS",
-   "uf": "RS",
-   "origem_uf": "atletas",
-   "atletas_ativos": 19,
-   "atletas_masculino": 19,
-   "atletas_feminino": 0,
-   "atletas_paralimpicos": 1,
-   "atletas_cadastrados": 52,
-   "top100_rating": 0,
-   "forca": 367.2,
-   "elite": 35.6,
-   "profundidade": 12.3,
-   "volume": 76.2,
-   "forca_masculino": 367.2,
-   "forca_feminino": 0,
-   "rating_medio_masculino": 718,
-   "rating_mediano_masculino": 513,
-   "rating_medio_feminino": null,
-   "rating_mediano_feminino": null,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 1,
-    "D": 0,
-    "E": 0,
-    "F": 2,
-    "G": 1,
-    "H": 2,
-    "I": 2,
-    "J": 1,
-    "L": 2,
-    "M": 1,
-    "N": 2,
-    "O": 5
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0
-   },
-   "faixas_etarias": {
-    "Base (Sub)": 15,
-    "Absoluto": 18,
-    "Master": 2,
-    "Adulto": 1
-   },
-   "posicao_brasil": 151,
-   "posicao_estado": 4,
-   "id": "associacao-caxiense-de-tenis-de-mesa-actm-rs"
   },
   {
    "nome": "PLAY PONG / ADAC - CARAGUATATUBA",
@@ -8949,14 +8831,73 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Adulto": 7,
     "Base (Sub)": 6,
     "Absoluto": 10,
+    "Adulto": 7,
     "Master": 3
    },
-   "posicao_brasil": 152,
+   "posicao_brasil": 150,
    "posicao_estado": 43,
    "id": "play-pong-adac-caraguatatuba-sp"
+  },
+  {
+   "nome": "ASSOCIAÇÃO LAZER LIVRE",
+   "nome_cbtm": "ASSOCIAÇÃO LAZER LIVRE - RO",
+   "uf": "RO",
+   "origem_uf": "federados",
+   "atletas_ativos": 22,
+   "atletas_masculino": 19,
+   "atletas_feminino": 3,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 38,
+   "top100_rating": 0,
+   "forca": 367.0,
+   "elite": 32.3,
+   "profundidade": 15.2,
+   "volume": 79.7,
+   "forca_masculino": 359.4,
+   "forca_feminino": 97.1,
+   "rating_medio_masculino": 758,
+   "rating_mediano_masculino": 646,
+   "rating_medio_feminino": 354,
+   "rating_mediano_feminino": 409,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 1,
+    "E": 0,
+    "F": 1,
+    "G": 2,
+    "H": 2,
+    "I": 3,
+    "J": 4,
+    "L": 2,
+    "M": 0,
+    "N": 1,
+    "O": 3
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 2,
+    "I": 0,
+    "J": 1
+   },
+   "faixas_etarias": {
+    "Adulto": 6,
+    "Absoluto": 22,
+    "Base (Sub)": 6,
+    "Master": 12
+   },
+   "posicao_brasil": 151,
+   "posicao_estado": 4,
+   "id": "associacao-lazer-livre-ro"
   },
   {
    "nome": "ASSOCIAÇAO DOS MESATENISTAS DE TAUBATÉ",
@@ -9013,7 +8954,7 @@
     "Master": 17,
     "Adulto": 2
    },
-   "posicao_brasil": 153,
+   "posicao_brasil": 152,
    "posicao_estado": 44,
    "id": "associacao-dos-mesatenistas-de-taubate-sp"
   },
@@ -9067,12 +9008,12 @@
     "J": 1
    },
    "faixas_etarias": {
+    "Master": 5,
     "Adulto": 3,
     "Absoluto": 20,
-    "Master": 5,
     "Base (Sub)": 15
    },
-   "posicao_brasil": 154,
+   "posicao_brasil": 153,
    "posicao_estado": 3,
    "id": "bh-table-tennis-center-ltda"
   },
@@ -9131,7 +9072,7 @@
     "Master": 5,
     "Adulto": 1
    },
-   "posicao_brasil": 155,
+   "posicao_brasil": 154,
    "posicao_estado": 5,
    "id": "ideal-clube-ce"
   },
@@ -9185,12 +9126,12 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Adulto": 7,
     "Base (Sub)": 27,
     "Absoluto": 20,
+    "Adulto": 7,
     "Master": 4
    },
-   "posicao_brasil": 156,
+   "posicao_brasil": 155,
    "posicao_estado": 17,
    "id": "assoc-de-amadores-do-tm-de-araquari-sc"
   },
@@ -9249,7 +9190,7 @@
     "Base (Sub)": 7,
     "Master": 1
    },
-   "posicao_brasil": 157,
+   "posicao_brasil": 156,
    "posicao_estado": 16,
    "id": "liga-litoral-de-tenis-de-mesa-pr"
   },
@@ -9308,7 +9249,7 @@
     "Master": 2,
     "Base (Sub)": 4
    },
-   "posicao_brasil": 158,
+   "posicao_brasil": 157,
    "posicao_estado": 3,
    "id": "centro-desportivo-sao-joao-bosco-ap"
   },
@@ -9362,12 +9303,12 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 35,
     "Master": 48,
+    "Absoluto": 35,
     "Base (Sub)": 4,
     "Adulto": 4
    },
-   "posicao_brasil": 159,
+   "posicao_brasil": 158,
    "posicao_estado": 45,
    "id": "okinawa-santa-maria-liga-sp"
   },
@@ -9426,7 +9367,7 @@
     "Master": 5,
     "Adulto": 1
    },
-   "posicao_brasil": 160,
+   "posicao_brasil": 159,
    "posicao_estado": 46,
    "id": "unasp-engenheiro-coelho-sp"
   },
@@ -9484,7 +9425,7 @@
     "Adulto": 2,
     "Master": 4
    },
-   "posicao_brasil": 161,
+   "posicao_brasil": 160,
    "posicao_estado": 17,
    "id": "associacao-de-tenis-de-mesa-de-guarapuava-pr"
   },
@@ -9493,20 +9434,20 @@
    "nome_cbtm": "CEPE/SOC. GINASTICA S.L. - RS",
    "uf": "RS",
    "origem_uf": "atletas",
-   "atletas_ativos": 23,
-   "atletas_masculino": 20,
+   "atletas_ativos": 22,
+   "atletas_masculino": 19,
    "atletas_feminino": 3,
    "atletas_paralimpicos": 1,
    "atletas_cadastrados": 58,
    "top100_rating": 0,
-   "forca": 352.2,
+   "forca": 350.0,
    "elite": 30.4,
    "profundidade": 12.8,
-   "volume": 80.8,
-   "forca_masculino": 340.7,
+   "volume": 79.7,
+   "forca_masculino": 338.2,
    "forca_feminino": 105.2,
-   "rating_medio_masculino": 617,
-   "rating_mediano_masculino": 384,
+   "rating_medio_masculino": 641,
+   "rating_mediano_masculino": 388,
    "rating_medio_feminino": 463,
    "rating_mediano_feminino": 348,
    "classes_masculino": {
@@ -9523,7 +9464,7 @@
     "L": 0,
     "M": 2,
     "N": 4,
-    "O": 5
+    "O": 4
    },
    "classes_feminino": {
     "A": 0,
@@ -9538,73 +9479,14 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 21,
     "Master": 11,
+    "Absoluto": 19,
     "Base (Sub)": 6,
     "Adulto": 4
    },
-   "posicao_brasil": 162,
-   "posicao_estado": 5,
+   "posicao_brasil": 161,
+   "posicao_estado": 4,
    "id": "cepe-soc-ginastica-s-l-rs"
-  },
-  {
-   "nome": "ESPORTE CLUBE CASTELO - LIGA",
-   "nome_cbtm": "ESPORTE CLUBE CASTELO - LIGA/SP",
-   "uf": "SP",
-   "origem_uf": "atletas",
-   "atletas_ativos": 22,
-   "atletas_masculino": 19,
-   "atletas_feminino": 3,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 27,
-   "top100_rating": 0,
-   "forca": 350.3,
-   "elite": 30.5,
-   "profundidade": 12.7,
-   "volume": 79.7,
-   "forca_masculino": 323.8,
-   "forca_feminino": 124.1,
-   "rating_medio_masculino": 620,
-   "rating_mediano_masculino": 526,
-   "rating_medio_feminino": 714,
-   "rating_mediano_feminino": 849,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 1,
-    "E": 0,
-    "F": 1,
-    "G": 1,
-    "H": 0,
-    "I": 0,
-    "J": 4,
-    "L": 5,
-    "M": 2,
-    "N": 4,
-    "O": 1
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 2,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 1,
-    "J": 0
-   },
-   "faixas_etarias": {
-    "Adulto": 3,
-    "Absoluto": 13,
-    "Master": 9,
-    "Base (Sub)": 6
-   },
-   "posicao_brasil": 163,
-   "posicao_estado": 47,
-   "id": "esporte-clube-castelo-liga-sp"
   },
   {
    "nome": "ASSOCIACAO ACREANA DE TENIS DE MESA-AATM",
@@ -9656,51 +9538,51 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 21,
     "Master": 17,
+    "Absoluto": 21,
     "Adulto": 2,
     "Base (Sub)": 2
    },
-   "posicao_brasil": 164,
+   "posicao_brasil": 162,
    "posicao_estado": 1,
    "id": "associacao-acreana-de-tenis-de-mesa-aatm-ac"
   },
   {
-   "nome": "ASSOCIAÇÃO ESPORTIVA LASSALISTA - AM.",
-   "nome_cbtm": "ASSOCIAÇÃO ESPORTIVA LASSALISTA - AM.",
-   "uf": "AM",
-   "origem_uf": "federados",
-   "atletas_ativos": 6,
-   "atletas_masculino": 6,
+   "nome": "ASSOCIAÇÃO CAXIENSE DE TÊNIS DE MESA - ACTM",
+   "nome_cbtm": "ASSOCIAÇÃO CAXIENSE DE TÊNIS DE MESA - ACTM - RS",
+   "uf": "RS",
+   "origem_uf": "atletas",
+   "atletas_ativos": 17,
+   "atletas_masculino": 17,
    "atletas_feminino": 0,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 9,
-   "top100_rating": 1,
-   "forca": 345.2,
-   "elite": 48.1,
-   "profundidade": 2.0,
-   "volume": 49.5,
-   "forca_masculino": 345.2,
+   "atletas_paralimpicos": 1,
+   "atletas_cadastrados": 52,
+   "top100_rating": 0,
+   "forca": 348.2,
+   "elite": 34.7,
+   "profundidade": 9.2,
+   "volume": 73.5,
+   "forca_masculino": 348.2,
    "forca_feminino": 0,
-   "rating_medio_masculino": 1876,
-   "rating_mediano_masculino": 1376,
+   "rating_medio_masculino": 691,
+   "rating_mediano_masculino": 401,
    "rating_medio_feminino": null,
    "rating_mediano_feminino": null,
    "classes_masculino": {
-    "A": 1,
-    "B": 1,
-    "C": 0,
+    "A": 0,
+    "B": 0,
+    "C": 1,
     "D": 0,
     "E": 0,
-    "F": 1,
-    "G": 2,
-    "H": 0,
+    "F": 2,
+    "G": 0,
+    "H": 2,
     "I": 1,
-    "J": 0,
-    "L": 0,
-    "M": 0,
-    "N": 0,
-    "O": 0
+    "J": 1,
+    "L": 2,
+    "M": 1,
+    "N": 2,
+    "O": 5
    },
    "classes_feminino": {
     "A": 0,
@@ -9715,13 +9597,73 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 5,
-    "Master": 5,
+    "Base (Sub)": 13,
+    "Absoluto": 16,
+    "Master": 2,
     "Adulto": 1
    },
-   "posicao_brasil": 165,
+   "posicao_brasil": 163,
    "posicao_estado": 5,
-   "id": "associacao-esportiva-lassalista-am"
+   "id": "associacao-caxiense-de-tenis-de-mesa-actm-rs"
+  },
+  {
+   "nome": "ESPORTE CLUBE CASTELO - LIGA",
+   "nome_cbtm": "ESPORTE CLUBE CASTELO - LIGA/SP",
+   "uf": "SP",
+   "origem_uf": "atletas",
+   "atletas_ativos": 21,
+   "atletas_masculino": 18,
+   "atletas_feminino": 3,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 27,
+   "top100_rating": 0,
+   "forca": 348.0,
+   "elite": 30.5,
+   "profundidade": 12.7,
+   "volume": 78.6,
+   "forca_masculino": 321.2,
+   "forca_feminino": 124.1,
+   "rating_medio_masculino": 640,
+   "rating_mediano_masculino": 528,
+   "rating_medio_feminino": 714,
+   "rating_mediano_feminino": 849,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 1,
+    "E": 0,
+    "F": 1,
+    "G": 1,
+    "H": 0,
+    "I": 0,
+    "J": 4,
+    "L": 5,
+    "M": 2,
+    "N": 3,
+    "O": 1
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 2,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 1,
+    "J": 0
+   },
+   "faixas_etarias": {
+    "Adulto": 3,
+    "Absoluto": 13,
+    "Master": 8,
+    "Base (Sub)": 6
+   },
+   "posicao_brasil": 164,
+   "posicao_estado": 47,
+   "id": "esporte-clube-castelo-liga-sp"
   },
   {
    "nome": "SOC. NIPO BRASILEIRA DE CAMPO MOURÃO/SONIBRAM",
@@ -9777,7 +9719,7 @@
     "Master": 5,
     "Base (Sub)": 3
    },
-   "posicao_brasil": 166,
+   "posicao_brasil": 165,
    "posicao_estado": 18,
    "id": "soc-nipo-brasileira-de-campo-mourao-sonibram-pr"
   },
@@ -9831,12 +9773,12 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Adulto": 4,
     "Base (Sub)": 5,
     "Absoluto": 14,
+    "Adulto": 4,
     "Master": 9
    },
-   "posicao_brasil": 167,
+   "posicao_brasil": 166,
    "posicao_estado": 4,
    "id": "ipiranga-futebol-e-desporto-mg"
   },
@@ -9894,7 +9836,7 @@
     "Base (Sub)": 30,
     "Master": 20
    },
-   "posicao_brasil": 168,
+   "posicao_brasil": 167,
    "posicao_estado": 48,
    "id": "associacao-ourinhense-de-bem-estar-sp"
   },
@@ -9948,11 +9890,11 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 6,
     "Master": 2,
+    "Absoluto": 6,
     "Base (Sub)": 7
    },
-   "posicao_brasil": 169,
+   "posicao_brasil": 168,
    "posicao_estado": 8,
    "id": "instituto-faca-sua-parte-faspar-rj"
   },
@@ -10011,7 +9953,7 @@
     "Absoluto": 2,
     "Adulto": 2
    },
-   "posicao_brasil": 170,
+   "posicao_brasil": 169,
    "posicao_estado": 6,
    "id": "iate-clube-brasilia-df"
   },
@@ -10069,7 +10011,7 @@
     "Adulto": 1,
     "Base (Sub)": 21
    },
-   "posicao_brasil": 171,
+   "posicao_brasil": 170,
    "posicao_estado": 3,
    "id": "associacao-oeirense-de-tenis-de-mesa-aotm-pi"
   },
@@ -10124,11 +10066,11 @@
    },
    "faixas_etarias": {
     "Base (Sub)": 13,
+    "Master": 3,
     "Adulto": 3,
-    "Absoluto": 14,
-    "Master": 3
+    "Absoluto": 14
    },
-   "posicao_brasil": 172,
+   "posicao_brasil": 171,
    "posicao_estado": 5,
    "id": "jaragua-country-clube-mg"
   },
@@ -10187,68 +10129,9 @@
     "Master": 5,
     "Base (Sub)": 6
    },
-   "posicao_brasil": 173,
+   "posicao_brasil": 172,
    "posicao_estado": 7,
    "id": "paysandu-sport-club-pa"
-  },
-  {
-   "nome": "AVVTM-GORILLA",
-   "nome_cbtm": "AVVTM-GORILLA-ES",
-   "uf": "ES",
-   "origem_uf": "atletas",
-   "atletas_ativos": 31,
-   "atletas_masculino": 31,
-   "atletas_feminino": 0,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 51,
-   "top100_rating": 0,
-   "forca": 332.9,
-   "elite": 22.9,
-   "profundidade": 13.9,
-   "volume": 88.1,
-   "forca_masculino": 332.9,
-   "forca_feminino": 0,
-   "rating_medio_masculino": 508,
-   "rating_mediano_masculino": 414,
-   "rating_medio_feminino": null,
-   "rating_mediano_feminino": null,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 2,
-    "H": 2,
-    "I": 2,
-    "J": 7,
-    "L": 4,
-    "M": 4,
-    "N": 5,
-    "O": 5
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0
-   },
-   "faixas_etarias": {
-    "Master": 22,
-    "Adulto": 5,
-    "Absoluto": 3,
-    "Base (Sub)": 4
-   },
-   "posicao_brasil": 174,
-   "posicao_estado": 1,
-   "id": "avvtm-gorilla-es"
   },
   {
    "nome": "ASSOCIAÇÃO TOP SPIN DE TÊNIS DE MESA DE CAMPO GRANDE",
@@ -10301,11 +10184,11 @@
    },
    "faixas_etarias": {
     "Base (Sub)": 4,
-    "Absoluto": 9,
     "Master": 2,
+    "Absoluto": 9,
     "Adulto": 4
    },
-   "posicao_brasil": 175,
+   "posicao_brasil": 173,
    "posicao_estado": 5,
    "id": "associacao-top-spin-de-tenis-de-mesa-de-campo-grande-ms"
   },
@@ -10361,10 +10244,10 @@
    "faixas_etarias": {
     "Base (Sub)": 10,
     "Absoluto": 16,
-    "Adulto": 3,
-    "Master": 7
+    "Master": 7,
+    "Adulto": 3
    },
-   "posicao_brasil": 176,
+   "posicao_brasil": 174,
    "posicao_estado": 6,
    "id": "clube-kariri-tm-ce"
   },
@@ -10373,8 +10256,8 @@
    "nome_cbtm": "ASSOC. VILHENENSE DE TÊNIS DE MESA - AVTM-RO",
    "uf": "RO",
    "origem_uf": "federados",
-   "atletas_ativos": 64,
-   "atletas_masculino": 56,
+   "atletas_ativos": 57,
+   "atletas_masculino": 49,
    "atletas_feminino": 8,
    "atletas_paralimpicos": 0,
    "atletas_cadastrados": 72,
@@ -10383,10 +10266,10 @@
    "elite": 18.4,
    "profundidade": 12.0,
    "volume": 100.0,
-   "forca_masculino": 326.0,
+   "forca_masculino": 325.0,
    "forca_feminino": 168.7,
-   "rating_medio_masculino": 337,
-   "rating_mediano_masculino": 265,
+   "rating_medio_masculino": 355,
+   "rating_mediano_masculino": 301,
    "rating_medio_feminino": 347,
    "rating_mediano_feminino": 330,
    "classes_masculino": {
@@ -10403,7 +10286,7 @@
     "L": 8,
     "M": 3,
     "N": 13,
-    "O": 25
+    "O": 18
    },
    "classes_feminino": {
     "A": 0,
@@ -10418,14 +10301,71 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Adulto": 10,
-    "Absoluto": 44,
-    "Master": 8,
-    "Base (Sub)": 40
+    "Adulto": 8,
+    "Absoluto": 40,
+    "Master": 7,
+    "Base (Sub)": 39
    },
-   "posicao_brasil": 177,
+   "posicao_brasil": 175,
    "posicao_estado": 5,
    "id": "assoc-vilhenense-de-tenis-de-mesa-avtm-ro"
+  },
+  {
+   "nome": "COSTA VERDE TENNIS CLUBE",
+   "nome_cbtm": "COSTA VERDE TENNIS CLUBE - BA",
+   "uf": "BA",
+   "origem_uf": "atletas",
+   "atletas_ativos": 11,
+   "atletas_masculino": 11,
+   "atletas_feminino": 0,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 11,
+   "top100_rating": 0,
+   "forca": 326.9,
+   "elite": 35.8,
+   "profundidade": 7.2,
+   "volume": 63.2,
+   "forca_masculino": 326.9,
+   "forca_feminino": 0,
+   "rating_medio_masculino": 987,
+   "rating_mediano_masculino": 984,
+   "rating_medio_feminino": null,
+   "rating_mediano_feminino": null,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 1,
+    "E": 1,
+    "F": 2,
+    "G": 1,
+    "H": 1,
+    "I": 0,
+    "J": 1,
+    "L": 3,
+    "M": 0,
+    "N": 1,
+    "O": 0
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 0
+   },
+   "faixas_etarias": {
+    "Master": 9,
+    "Absoluto": 9
+   },
+   "posicao_brasil": 176,
+   "posicao_estado": 3,
+   "id": "costa-verde-tennis-clube-ba"
   },
   {
    "nome": "ASSOCIACAO DE TENIS DE MESA DE JARDIM ALEGRE",
@@ -10481,7 +10421,7 @@
     "Master": 3,
     "Base (Sub)": 12
    },
-   "posicao_brasil": 178,
+   "posicao_brasil": 177,
    "posicao_estado": 19,
    "id": "associacao-de-tenis-de-mesa-de-jardim-alegre-pr"
   },
@@ -10540,9 +10480,68 @@
     "Adulto": 4,
     "Master": 5
    },
-   "posicao_brasil": 179,
+   "posicao_brasil": 178,
    "posicao_estado": 6,
    "id": "adems-mt"
+  },
+  {
+   "nome": "AVVTM-GORILLA",
+   "nome_cbtm": "AVVTM-GORILLA-ES",
+   "uf": "ES",
+   "origem_uf": "atletas",
+   "atletas_ativos": 28,
+   "atletas_masculino": 28,
+   "atletas_feminino": 0,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 51,
+   "top100_rating": 0,
+   "forca": 323.8,
+   "elite": 22.9,
+   "profundidade": 12.6,
+   "volume": 85.6,
+   "forca_masculino": 323.8,
+   "forca_feminino": 0,
+   "rating_medio_masculino": 502,
+   "rating_mediano_masculino": 410,
+   "rating_medio_feminino": null,
+   "rating_mediano_feminino": null,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 2,
+    "H": 2,
+    "I": 1,
+    "J": 6,
+    "L": 4,
+    "M": 4,
+    "N": 4,
+    "O": 5
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 0
+   },
+   "faixas_etarias": {
+    "Master": 19,
+    "Adulto": 5,
+    "Absoluto": 3,
+    "Base (Sub)": 4
+   },
+   "posicao_brasil": 179,
+   "posicao_estado": 1,
+   "id": "avvtm-gorilla-es"
   },
   {
    "nome": "ASSOC. DEPORTIVA DE T.M.",
@@ -10594,14 +10593,72 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 7,
     "Master": 11,
-    "Adulto": 4,
+    "Absoluto": 7,
+    "Adulto": 3,
     "Base (Sub)": 6
    },
    "posicao_brasil": 180,
    "posicao_estado": 2,
    "id": "assoc-deportiva-de-t-m-es"
+  },
+  {
+   "nome": "ASSOCIAÇÃO ESPORTIVA LASSALISTA - AM.",
+   "nome_cbtm": "ASSOCIAÇÃO ESPORTIVA LASSALISTA - AM.",
+   "uf": "AM",
+   "origem_uf": "federados",
+   "atletas_ativos": 5,
+   "atletas_masculino": 5,
+   "atletas_feminino": 0,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 8,
+   "top100_rating": 1,
+   "forca": 321.3,
+   "elite": 46.0,
+   "profundidade": 0.0,
+   "volume": 45.6,
+   "forca_masculino": 321.3,
+   "forca_feminino": 0,
+   "rating_medio_masculino": 1993,
+   "rating_mediano_masculino": 1461,
+   "rating_medio_feminino": null,
+   "rating_mediano_feminino": null,
+   "classes_masculino": {
+    "A": 1,
+    "B": 1,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 1,
+    "G": 1,
+    "H": 0,
+    "I": 1,
+    "J": 0,
+    "L": 0,
+    "M": 0,
+    "N": 0,
+    "O": 0
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 0
+   },
+   "faixas_etarias": {
+    "Master": 4,
+    "Absoluto": 4,
+    "Adulto": 1
+   },
+   "posicao_brasil": 181,
+   "posicao_estado": 5,
+   "id": "associacao-esportiva-lassalista-am"
   },
   {
    "nome": "ASSOCIAÇÃO M. NOGUEIRA DE TÊNIS DE MESA",
@@ -10653,72 +10710,14 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Adulto": 1,
     "Base (Sub)": 1,
     "Absoluto": 4,
+    "Adulto": 1,
     "Master": 4
    },
-   "posicao_brasil": 181,
+   "posicao_brasil": 182,
    "posicao_estado": 7,
    "id": "associacao-m-nogueira-de-tenis-de-mesa-df"
-  },
-  {
-   "nome": "ASSOCIACAO C.T. DO CARNEIRO DE TENIS DE MESA",
-   "nome_cbtm": "ASSOCIACAO C.T. DO CARNEIRO DE TENIS DE MESA-BA",
-   "uf": "BA",
-   "origem_uf": "atletas",
-   "atletas_ativos": 11,
-   "atletas_masculino": 11,
-   "atletas_feminino": 0,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 18,
-   "top100_rating": 0,
-   "forca": 319.2,
-   "elite": 33.1,
-   "profundidade": 9.1,
-   "volume": 63.2,
-   "forca_masculino": 319.2,
-   "forca_feminino": 0,
-   "rating_medio_masculino": 1009,
-   "rating_mediano_masculino": 1207,
-   "rating_medio_feminino": null,
-   "rating_mediano_feminino": null,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 1,
-    "F": 3,
-    "G": 3,
-    "H": 0,
-    "I": 0,
-    "J": 2,
-    "L": 0,
-    "M": 0,
-    "N": 0,
-    "O": 2
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0
-   },
-   "faixas_etarias": {
-    "Absoluto": 9,
-    "Master": 9,
-    "Base (Sub)": 2
-   },
-   "posicao_brasil": 182,
-   "posicao_estado": 3,
-   "id": "associacao-c-t-do-carneiro-de-tenis-de-mesa-ba"
   },
   {
    "nome": "TTV MAKIUCHI - LIGA",
@@ -10772,8 +10771,8 @@
    "faixas_etarias": {
     "Absoluto": 15,
     "Master": 20,
-    "Adulto": 2,
-    "Base (Sub)": 7
+    "Base (Sub)": 7,
+    "Adulto": 2
    },
    "posicao_brasil": 183,
    "posicao_estado": 49,
@@ -11013,8 +11012,8 @@
    "id": "projeto-faca-do-deficiente-um-atleta-pfda-ce"
   },
   {
-   "nome": "BUNKA SBC/ACE SAÚDE/ISSONURA TEAM-LIGA",
-   "nome_cbtm": "BUNKA SBC/ACE SAÚDE/ISSONURA TEAM-LIGA-SP",
+   "nome": "BUNKA SBC/ACE SAÚDE/ISSONURA TEAM-xxA",
+   "nome_cbtm": "BUNKA SBC/ACE SAÚDE/ISSONURA TEAM-xxA-SP",
    "uf": "SP",
    "origem_uf": "atletas",
    "atletas_ativos": 58,
@@ -11069,7 +11068,65 @@
    },
    "posicao_brasil": 188,
    "posicao_estado": 51,
-   "id": "bunka-sbc-ace-saude-issonura-team-liga-sp"
+   "id": "bunka-sbc-ace-saude-issonura-team-xxa-sp"
+  },
+  {
+   "nome": "ASSOCIACAO C.T. DO CARNEIRO DE TENIS DE MESA",
+   "nome_cbtm": "ASSOCIACAO C.T. DO CARNEIRO DE TENIS DE MESA-BA",
+   "uf": "BA",
+   "origem_uf": "atletas",
+   "atletas_ativos": 10,
+   "atletas_masculino": 10,
+   "atletas_feminino": 0,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 17,
+   "top100_rating": 0,
+   "forca": 307.7,
+   "elite": 33.1,
+   "profundidade": 6.7,
+   "volume": 61.0,
+   "forca_masculino": 307.7,
+   "forca_feminino": 0,
+   "rating_medio_masculino": 1008,
+   "rating_mediano_masculino": 1210,
+   "rating_medio_feminino": null,
+   "rating_mediano_feminino": null,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 1,
+    "F": 3,
+    "G": 2,
+    "H": 0,
+    "I": 0,
+    "J": 2,
+    "L": 0,
+    "M": 0,
+    "N": 0,
+    "O": 2
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 0
+   },
+   "faixas_etarias": {
+    "Master": 8,
+    "Absoluto": 8,
+    "Base (Sub)": 2
+   },
+   "posicao_brasil": 189,
+   "posicao_estado": 4,
+   "id": "associacao-c-t-do-carneiro-de-tenis-de-mesa-ba"
   },
   {
    "nome": "TECHPONG ACADEMY/TIBHAR/COC SANTA CATARINA",
@@ -11122,10 +11179,10 @@
    },
    "faixas_etarias": {
     "Base (Sub)": 23,
-    "Absoluto": 12,
-    "Master": 3
+    "Master": 3,
+    "Absoluto": 12
    },
-   "posicao_brasil": 189,
+   "posicao_brasil": 190,
    "posicao_estado": 18,
    "id": "techpong-academy-tibhar-coc-santa-catarina-sc"
   },
@@ -11184,7 +11241,7 @@
     "Adulto": 10,
     "Master": 8
    },
-   "posicao_brasil": 190,
+   "posicao_brasil": 191,
    "posicao_estado": 52,
    "id": "soreviz-guaruja-liga-sp"
   },
@@ -11238,12 +11295,12 @@
     "J": 3
    },
    "faixas_etarias": {
-    "Absoluto": 12,
     "Master": 12,
+    "Absoluto": 12,
     "Base (Sub)": 24,
     "Adulto": 1
    },
-   "posicao_brasil": 191,
+   "posicao_brasil": 192,
    "posicao_estado": 53,
    "id": "t3-tenis-de-mesa-liga-sp"
   },
@@ -11297,12 +11354,12 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Adulto": 1,
     "Base (Sub)": 17,
     "Absoluto": 16,
+    "Adulto": 1,
     "Master": 3
    },
-   "posicao_brasil": 192,
+   "posicao_brasil": 193,
    "posicao_estado": 19,
    "id": "associacao-guaramirense-de-tenis-de-mesa-sc"
   },
@@ -11360,7 +11417,7 @@
     "Base (Sub)": 20,
     "Absoluto": 1
    },
-   "posicao_brasil": 193,
+   "posicao_brasil": 194,
    "posicao_estado": 54,
    "id": "tm-birigui-liga-sp"
   },
@@ -11414,11 +11471,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 15,
     "Master": 5,
+    "Absoluto": 15,
     "Base (Sub)": 11
    },
-   "posicao_brasil": 194,
+   "posicao_brasil": 195,
    "posicao_estado": 6,
    "id": "associacao-amigos-do-tenis-de-mesa-tm-minas-mg"
   },
@@ -11477,7 +11534,7 @@
     "Base (Sub)": 6,
     "Master": 2
    },
-   "posicao_brasil": 195,
+   "posicao_brasil": 196,
    "posicao_estado": 7,
    "id": "adeltt-am"
   },
@@ -11533,10 +11590,10 @@
    "faixas_etarias": {
     "Base (Sub)": 27,
     "Absoluto": 5,
-    "Adulto": 2,
-    "Master": 8
+    "Master": 8,
+    "Adulto": 2
    },
-   "posicao_brasil": 196,
+   "posicao_brasil": 197,
    "posicao_estado": 55,
    "id": "jau-pong-tenis-de-mesa-ltda-sp"
   },
@@ -11595,7 +11652,7 @@
     "Adulto": 1,
     "Base (Sub)": 1
    },
-   "posicao_brasil": 197,
+   "posicao_brasil": 198,
    "posicao_estado": 9,
    "id": "luiz-macedo-tenis-de-mesa-energia-positiva-rj"
   },
@@ -11651,10 +11708,10 @@
    "faixas_etarias": {
     "Base (Sub)": 9,
     "Absoluto": 12,
-    "Adulto": 2,
-    "Master": 6
+    "Master": 6,
+    "Adulto": 2
    },
-   "posicao_brasil": 198,
+   "posicao_brasil": 199,
    "posicao_estado": 4,
    "id": "r2-tenis-de-mesa-pb"
   },
@@ -11710,7 +11767,7 @@
    "faixas_etarias": {
     "Absoluto": 1
    },
-   "posicao_brasil": 199,
+   "posicao_brasil": 200,
    "posicao_estado": 56,
    "id": "add-associacao-desportiva-para-deficientes-sp"
   },
@@ -11769,7 +11826,7 @@
     "Master": 3,
     "Adulto": 2
    },
-   "posicao_brasil": 200,
+   "posicao_brasil": 201,
    "posicao_estado": 57,
    "id": "associacao-francana-de-voleibol-sp"
   },
@@ -11827,7 +11884,7 @@
     "Absoluto": 28,
     "Master": 3
    },
-   "posicao_brasil": 201,
+   "posicao_brasil": 202,
    "posicao_estado": 7,
    "id": "primavera-atletico-clube-mt"
   },
@@ -11884,7 +11941,7 @@
     "Adulto": 14,
     "Absoluto": 30
    },
-   "posicao_brasil": 202,
+   "posicao_brasil": 203,
    "posicao_estado": 58,
    "id": "associacao-a-a-nucleo-marques-de-castro-liga-sp"
   },
@@ -11942,7 +11999,7 @@
     "Absoluto": 14,
     "Master": 3
    },
-   "posicao_brasil": 203,
+   "posicao_brasil": 204,
    "posicao_estado": 8,
    "id": "yoshida-tt-igreja-crista-evangelica-da-amazonia-pa"
   },
@@ -12001,7 +12058,7 @@
     "Adulto": 4,
     "Master": 4
    },
-   "posicao_brasil": 204,
+   "posicao_brasil": 205,
    "posicao_estado": 6,
    "id": "leao-das-missoes-tenis-de-mesa-liga-norte-rs"
   },
@@ -12055,12 +12112,12 @@
     "J": 6
    },
    "faixas_etarias": {
-    "Adulto": 4,
     "Base (Sub)": 23,
     "Absoluto": 15,
+    "Adulto": 4,
     "Master": 3
    },
-   "posicao_brasil": 205,
+   "posicao_brasil": 206,
    "posicao_estado": 20,
    "id": "secretaria-de-eventos-esportes-e-lazer-pomerode-sc"
   },
@@ -12118,7 +12175,7 @@
     "Absoluto": 16,
     "Base (Sub)": 6
    },
-   "posicao_brasil": 206,
+   "posicao_brasil": 207,
    "posicao_estado": 59,
    "id": "nippon-country-club-liga-sp"
   },
@@ -12177,7 +12234,7 @@
     "Absoluto": 18,
     "Master": 6
    },
-   "posicao_brasil": 207,
+   "posicao_brasil": 208,
    "posicao_estado": 7,
    "id": "royal-tenis-clube-pe"
   },
@@ -12231,12 +12288,12 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 14,
     "Master": 15,
+    "Absoluto": 14,
     "Adulto": 2,
     "Base (Sub)": 2
    },
-   "posicao_brasil": 208,
+   "posicao_brasil": 209,
    "posicao_estado": 8,
    "id": "associacao-desportiva-cabense-pe"
   },
@@ -12295,7 +12352,7 @@
     "Master": 3,
     "Adulto": 1
    },
-   "posicao_brasil": 209,
+   "posicao_brasil": 210,
    "posicao_estado": 60,
    "id": "mirassol-tenis-de-mesa-sp"
   },
@@ -12349,73 +12406,14 @@
     "J": 0
    },
    "faixas_etarias": {
+    "Master": 10,
     "Adulto": 4,
     "Absoluto": 14,
-    "Master": 10,
     "Base (Sub)": 4
    },
-   "posicao_brasil": 210,
+   "posicao_brasil": 211,
    "posicao_estado": 61,
    "id": "tenis-de-mesa-maua-liga-sp"
-  },
-  {
-   "nome": "CEUB",
-   "nome_cbtm": "CEUB-ES",
-   "uf": "ES",
-   "origem_uf": "federados",
-   "atletas_ativos": 18,
-   "atletas_masculino": 18,
-   "atletas_feminino": 0,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 47,
-   "top100_rating": 0,
-   "forca": 279.0,
-   "elite": 20.9,
-   "profundidade": 8.3,
-   "volume": 74.9,
-   "forca_masculino": 279.0,
-   "forca_feminino": 0,
-   "rating_medio_masculino": 470,
-   "rating_mediano_masculino": 390,
-   "rating_medio_feminino": null,
-   "rating_mediano_feminino": null,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 2,
-    "H": 0,
-    "I": 3,
-    "J": 3,
-    "L": 1,
-    "M": 0,
-    "N": 1,
-    "O": 8
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0
-   },
-   "faixas_etarias": {
-    "Base (Sub)": 11,
-    "Master": 6,
-    "Adulto": 2,
-    "Absoluto": 1
-   },
-   "posicao_brasil": 211,
-   "posicao_estado": 3,
-   "id": "ceub-es"
   },
   {
    "nome": "ASSOCIAÇÃO DE TÊNIS DE MESA CARAZINHO",
@@ -12477,6 +12475,65 @@
    "id": "associacao-de-tenis-de-mesa-carazinho-rs"
   },
   {
+   "nome": "CEUB",
+   "nome_cbtm": "CEUB-ES",
+   "uf": "ES",
+   "origem_uf": "federados",
+   "atletas_ativos": 17,
+   "atletas_masculino": 17,
+   "atletas_feminino": 0,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 47,
+   "top100_rating": 0,
+   "forca": 276.3,
+   "elite": 20.9,
+   "profundidade": 8.3,
+   "volume": 73.5,
+   "forca_masculino": 276.3,
+   "forca_feminino": 0,
+   "rating_medio_masculino": 491,
+   "rating_mediano_masculino": 495,
+   "rating_medio_feminino": null,
+   "rating_mediano_feminino": null,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 2,
+    "H": 0,
+    "I": 3,
+    "J": 3,
+    "L": 1,
+    "M": 0,
+    "N": 1,
+    "O": 7
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 0
+   },
+   "faixas_etarias": {
+    "Base (Sub)": 10,
+    "Master": 6,
+    "Adulto": 2,
+    "Absoluto": 1
+   },
+   "posicao_brasil": 213,
+   "posicao_estado": 3,
+   "id": "ceub-es"
+  },
+  {
    "nome": "ASSOC. REGISTRENSE DE TM-ARTEME",
    "nome_cbtm": "ASSOC. REGISTRENSE DE TM-ARTEME-SP",
    "uf": "SP",
@@ -12531,7 +12588,7 @@
     "Master": 4,
     "Adulto": 1
    },
-   "posicao_brasil": 213,
+   "posicao_brasil": 214,
    "posicao_estado": 62,
    "id": "assoc-registrense-de-tm-arteme-sp"
   },
@@ -12585,73 +12642,14 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 9,
     "Master": 3,
+    "Absoluto": 9,
     "Base (Sub)": 6,
     "Adulto": 1
    },
-   "posicao_brasil": 214,
+   "posicao_brasil": 215,
    "posicao_estado": 21,
    "id": "associacao-brusquense-de-tenis-de-mesa-sc"
-  },
-  {
-   "nome": "ASSOCIAÇÃO DE TÊNIS DE MESA BENTO GONÇALVES - ATMBG",
-   "nome_cbtm": "ASSOCIAÇÃO DE TÊNIS DE MESA BENTO GONÇALVES - ATMBG - RS",
-   "uf": "RS",
-   "origem_uf": "atletas",
-   "atletas_ativos": 18,
-   "atletas_masculino": 13,
-   "atletas_feminino": 5,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 19,
-   "top100_rating": 0,
-   "forca": 271.1,
-   "elite": 19.7,
-   "profundidade": 7.6,
-   "volume": 74.9,
-   "forca_masculino": 211.3,
-   "forca_feminino": 166.5,
-   "rating_medio_masculino": 370,
-   "rating_mediano_masculino": 328,
-   "rating_medio_feminino": 603,
-   "rating_mediano_feminino": 498,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 1,
-    "J": 1,
-    "L": 2,
-    "M": 1,
-    "N": 5,
-    "O": 3
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 1,
-    "E": 1,
-    "F": 0,
-    "G": 0,
-    "H": 1,
-    "I": 0,
-    "J": 2
-   },
-   "faixas_etarias": {
-    "Base (Sub)": 13,
-    "Absoluto": 11,
-    "Master": 4,
-    "Adulto": 1
-   },
-   "posicao_brasil": 215,
-   "posicao_estado": 8,
-   "id": "associacao-de-tenis-de-mesa-bento-goncalves-atmbg-rs"
   },
   {
    "nome": "ASSOCIACAO DE TENIS DE MESA DE CAMACARI",
@@ -12709,7 +12707,7 @@
     "Adulto": 1
    },
    "posicao_brasil": 216,
-   "posicao_estado": 4,
+   "posicao_estado": 5,
    "id": "associacao-de-tenis-de-mesa-de-camacari-ba"
   },
   {
@@ -12767,7 +12765,7 @@
     "Master": 1
    },
    "posicao_brasil": 217,
-   "posicao_estado": 9,
+   "posicao_estado": 8,
    "id": "tenis-de-mesa-vale-real-rs"
   },
   {
@@ -13056,7 +13054,7 @@
    "faixas_etarias": {
     "Master": 5,
     "Base (Sub)": 22,
-    "Absoluto": 24,
+    "Absoluto": 25,
     "Adulto": 3
    },
    "posicao_brasil": 222,
@@ -13113,8 +13111,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 14,
     "Master": 12,
+    "Absoluto": 14,
     "Base (Sub)": 9,
     "Adulto": 4
    },
@@ -13182,6 +13180,65 @@
    "id": "acenbo-osasco-sp"
   },
   {
+   "nome": "ASSOCIAÇÃO DE TÊNIS DE MESA BENTO GONÇALVES - ATMBG",
+   "nome_cbtm": "ASSOCIAÇÃO DE TÊNIS DE MESA BENTO GONÇALVES - ATMBG - RS",
+   "uf": "RS",
+   "origem_uf": "atletas",
+   "atletas_ativos": 17,
+   "atletas_masculino": 12,
+   "atletas_feminino": 5,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 19,
+   "top100_rating": 0,
+   "forca": 261.5,
+   "elite": 18.7,
+   "profundidade": 7.0,
+   "volume": 73.5,
+   "forca_masculino": 197.7,
+   "forca_feminino": 166.5,
+   "rating_medio_masculino": 346,
+   "rating_mediano_masculino": 316,
+   "rating_medio_feminino": 603,
+   "rating_mediano_feminino": 498,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 1,
+    "J": 0,
+    "L": 2,
+    "M": 1,
+    "N": 5,
+    "O": 3
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 1,
+    "E": 1,
+    "F": 0,
+    "G": 0,
+    "H": 1,
+    "I": 0,
+    "J": 2
+   },
+   "faixas_etarias": {
+    "Base (Sub)": 12,
+    "Absoluto": 10,
+    "Master": 3,
+    "Adulto": 1
+   },
+   "posicao_brasil": 225,
+   "posicao_estado": 9,
+   "id": "associacao-de-tenis-de-mesa-bento-goncalves-atmbg-rs"
+  },
+  {
    "nome": "360TT - ACADEMIA DE TENIS DE MESA LTDA",
    "nome_cbtm": "360TT - ACADEMIA DE TENIS DE MESA LTDA",
    "uf": "MG",
@@ -13231,12 +13288,12 @@
     "J": 2
    },
    "faixas_etarias": {
-    "Absoluto": 15,
     "Master": 9,
+    "Absoluto": 15,
     "Base (Sub)": 4,
     "Adulto": 4
    },
-   "posicao_brasil": 225,
+   "posicao_brasil": 226,
    "posicao_estado": 7,
    "id": "360tt-academia-de-tenis-de-mesa-ltda"
   },
@@ -13295,67 +13352,9 @@
     "Adulto": 1,
     "Master": 3
    },
-   "posicao_brasil": 226,
+   "posicao_brasil": 227,
    "posicao_estado": 2,
    "id": "aabb-rio-branco-ac"
-  },
-  {
-   "nome": "ASSOCIAÇÃO ESPORTIVA SPORT PELO FUTURO-LIGA",
-   "nome_cbtm": "ASSOCIAÇÃO ESPORTIVA SPORT PELO FUTURO-LIGA-SP",
-   "uf": "SP",
-   "origem_uf": "atletas",
-   "atletas_ativos": 22,
-   "atletas_masculino": 21,
-   "atletas_feminino": 1,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 84,
-   "top100_rating": 0,
-   "forca": 258.8,
-   "elite": 15.6,
-   "profundidade": 7.0,
-   "volume": 79.7,
-   "forca_masculino": 256.5,
-   "forca_feminino": 39.4,
-   "rating_medio_masculino": 369,
-   "rating_mediano_masculino": 310,
-   "rating_medio_feminino": 165,
-   "rating_mediano_feminino": 165,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 1,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 1,
-    "L": 3,
-    "M": 1,
-    "N": 7,
-    "O": 8
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 1
-   },
-   "faixas_etarias": {
-    "Base (Sub)": 11,
-    "Adulto": 6,
-    "Master": 7
-   },
-   "posicao_brasil": 227,
-   "posicao_estado": 69,
-   "id": "associacao-esportiva-sport-pelo-futuro-liga-sp"
   },
   {
    "nome": "A. A. A. POLITÉCNICA - TEAM MANCINI -LIGA",
@@ -13411,64 +13410,8 @@
     "Adulto": 7
    },
    "posicao_brasil": 228,
-   "posicao_estado": 70,
+   "posicao_estado": 69,
    "id": "a-a-a-politecnica-team-mancini-liga-sp"
-  },
-  {
-   "nome": "COLÉGIO GABRIEL TABORIN - RS...",
-   "nome_cbtm": "COLÉGIO GABRIEL TABORIN - RS...",
-   "uf": "RS",
-   "origem_uf": "atletas",
-   "atletas_ativos": 43,
-   "atletas_masculino": 37,
-   "atletas_feminino": 6,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 59,
-   "top100_rating": 0,
-   "forca": 257.2,
-   "elite": 8.8,
-   "profundidade": 6.8,
-   "volume": 96.2,
-   "forca_masculino": 248.9,
-   "forca_feminino": 133.8,
-   "rating_medio_masculino": 269,
-   "rating_mediano_masculino": 263,
-   "rating_medio_feminino": 258,
-   "rating_mediano_feminino": 244,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0,
-    "L": 1,
-    "M": 2,
-    "N": 18,
-    "O": 16
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 2,
-    "J": 4
-   },
-   "faixas_etarias": {
-    "Base (Sub)": 43
-   },
-   "posicao_brasil": 229,
-   "posicao_estado": 10,
-   "id": "colegio-gabriel-taborin-rs"
   },
   {
    "nome": "ASSOCIAÇÃO CULTURAL E RECREATIVA DA PAULICEIA-LIGA",
@@ -13522,10 +13465,11 @@
    "faixas_etarias": {
     "Master": 13,
     "Base (Sub)": 16,
-    "Absoluto": 6
+    "Absoluto": 6,
+    "Adulto": 1
    },
-   "posicao_brasil": 230,
-   "posicao_estado": 71,
+   "posicao_brasil": 229,
+   "posicao_estado": 70,
    "id": "associacao-cultural-e-recreativa-da-pauliceia-liga-sp"
   },
   {
@@ -13583,7 +13527,7 @@
     "Base (Sub)": 5,
     "Master": 3
    },
-   "posicao_brasil": 231,
+   "posicao_brasil": 230,
    "posicao_estado": 9,
    "id": "associacao-de-mesatenistas-de-maraba-pa"
   },
@@ -13641,9 +13585,67 @@
     "Base (Sub)": 11,
     "Absoluto": 10
    },
+   "posicao_brasil": 231,
+   "posicao_estado": 71,
+   "id": "coopercotia-atletico-clube-liga-sp"
+  },
+  {
+   "nome": "ASSOCIAÇÃO ESPORTIVA SPORT PELO FUTURO-LIGA",
+   "nome_cbtm": "ASSOCIAÇÃO ESPORTIVA SPORT PELO FUTURO-LIGA-SP",
+   "uf": "SP",
+   "origem_uf": "atletas",
+   "atletas_ativos": 21,
+   "atletas_masculino": 20,
+   "atletas_feminino": 1,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 84,
+   "top100_rating": 0,
+   "forca": 256.4,
+   "elite": 15.6,
+   "profundidade": 7.0,
+   "volume": 78.6,
+   "forca_masculino": 254.0,
+   "forca_feminino": 39.4,
+   "rating_medio_masculino": 374,
+   "rating_mediano_masculino": 310,
+   "rating_medio_feminino": 165,
+   "rating_mediano_feminino": 165,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 1,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 1,
+    "L": 3,
+    "M": 1,
+    "N": 6,
+    "O": 8
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 1
+   },
+   "faixas_etarias": {
+    "Base (Sub)": 11,
+    "Adulto": 6,
+    "Master": 6
+   },
    "posicao_brasil": 232,
    "posicao_estado": 72,
-   "id": "coopercotia-atletico-clube-liga-sp"
+   "id": "associacao-esportiva-sport-pelo-futuro-liga-sp"
   },
   {
    "nome": "FME - NAVEGANTES",
@@ -13695,10 +13697,10 @@
     "J": 6
    },
    "faixas_etarias": {
-    "Absoluto": 15,
     "Master": 3,
-    "Adulto": 8,
-    "Base (Sub)": 14
+    "Absoluto": 15,
+    "Base (Sub)": 14,
+    "Adulto": 8
    },
    "posicao_brasil": 233,
    "posicao_estado": 22,
@@ -14101,9 +14103,9 @@
     "J": 1
    },
    "faixas_etarias": {
+    "Master": 10,
     "Adulto": 5,
     "Absoluto": 7,
-    "Master": 10,
     "Base (Sub)": 13
    },
    "posicao_brasil": 240,
@@ -14160,8 +14162,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 8,
     "Master": 6,
+    "Absoluto": 8,
     "Base (Sub)": 1
    },
    "posicao_brasil": 241,
@@ -14226,6 +14228,62 @@
    "id": "tenis-de-mesa-paulista-osvaldo-cruz-sp"
   },
   {
+   "nome": "COLÉGIO GABRIEL TABORIN - RS...",
+   "nome_cbtm": "COLÉGIO GABRIEL TABORIN - RS...",
+   "uf": "RS",
+   "origem_uf": "atletas",
+   "atletas_ativos": 36,
+   "atletas_masculino": 31,
+   "atletas_feminino": 5,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 59,
+   "top100_rating": 0,
+   "forca": 248.3,
+   "elite": 8.8,
+   "profundidade": 6.8,
+   "volume": 91.8,
+   "forca_masculino": 240.0,
+   "forca_feminino": 123.9,
+   "rating_medio_masculino": 273,
+   "rating_mediano_masculino": 264,
+   "rating_medio_feminino": 262,
+   "rating_mediano_feminino": 245,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 0,
+    "L": 1,
+    "M": 2,
+    "N": 15,
+    "O": 13
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 2,
+    "J": 3
+   },
+   "faixas_etarias": {
+    "Base (Sub)": 36
+   },
+   "posicao_brasil": 243,
+   "posicao_estado": 10,
+   "id": "colegio-gabriel-taborin-rs"
+  },
+  {
    "nome": "AEPA",
    "nome_cbtm": "AEPA - MT",
    "uf": "MT",
@@ -14279,7 +14337,7 @@
     "Absoluto": 25,
     "Adulto": 3
    },
-   "posicao_brasil": 243,
+   "posicao_brasil": 244,
    "posicao_estado": 8,
    "id": "aepa-mt"
   },
@@ -14337,7 +14395,7 @@
     "Absoluto": 10,
     "Master": 3
    },
-   "posicao_brasil": 244,
+   "posicao_brasil": 245,
    "posicao_estado": 10,
    "id": "gremio-recreativo-do-agreste-pe"
   },
@@ -14395,7 +14453,7 @@
     "Absoluto": 5,
     "Master": 3
    },
-   "posicao_brasil": 245,
+   "posicao_brasil": 246,
    "posicao_estado": 78,
    "id": "tt-magnus-sp"
   },
@@ -14453,7 +14511,7 @@
     "Master": 1,
     "Adulto": 2
    },
-   "posicao_brasil": 246,
+   "posicao_brasil": 247,
    "posicao_estado": 79,
    "id": "associacao-desportiva-e-cultural-arte-da-luta-sp"
   },
@@ -14509,7 +14567,7 @@
    "faixas_etarias": {
     "Base (Sub)": 42
    },
-   "posicao_brasil": 247,
+   "posicao_brasil": 248,
    "posicao_estado": 10,
    "id": "geo-isabel-salgado"
   },
@@ -14568,7 +14626,7 @@
     "Base (Sub)": 6,
     "Master": 4
    },
-   "posicao_brasil": 248,
+   "posicao_brasil": 249,
    "posicao_estado": 9,
    "id": "associacao-dos-mesatenistas-jaguaruanenses-amj"
   },
@@ -14627,7 +14685,7 @@
     "Master": 4,
     "Base (Sub)": 9
    },
-   "posicao_brasil": 249,
+   "posicao_brasil": 250,
    "posicao_estado": 80,
    "id": "tenis-de-mesa-paulinia-liga-sp"
   },
@@ -14681,10 +14739,10 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 15,
-    "Master": 7
+    "Master": 7,
+    "Absoluto": 15
    },
-   "posicao_brasil": 250,
+   "posicao_brasil": 251,
    "posicao_estado": 11,
    "id": "clube-municipal-rio-de-janeiro-rj"
   },
@@ -14697,7 +14755,7 @@
    "atletas_masculino": 16,
    "atletas_feminino": 4,
    "atletas_paralimpicos": 8,
-   "atletas_cadastrados": 80,
+   "atletas_cadastrados": 81,
    "top100_rating": 0,
    "forca": 243.7,
    "elite": 14.0,
@@ -14743,7 +14801,7 @@
     "Absoluto": 7,
     "Base (Sub)": 7
    },
-   "posicao_brasil": 251,
+   "posicao_brasil": 252,
    "posicao_estado": 23,
    "id": "associacao-itajaiense-sc"
   },
@@ -14799,10 +14857,10 @@
    "faixas_etarias": {
     "Base (Sub)": 3,
     "Absoluto": 8,
-    "Adulto": 1,
-    "Master": 7
+    "Master": 7,
+    "Adulto": 1
    },
-   "posicao_brasil": 252,
+   "posicao_brasil": 253,
    "posicao_estado": 6,
    "id": "academia-de-tenis-de-mesa-ironpong-go"
   },
@@ -14858,68 +14916,9 @@
    "faixas_etarias": {
     "Master": 2
    },
-   "posicao_brasil": 253,
+   "posicao_brasil": 254,
    "posicao_estado": 81,
    "id": "clube-inclusivo-instituto-ajinomoto-sp"
-  },
-  {
-   "nome": "AABB-SALVADOR",
-   "nome_cbtm": "AABB-SALVADOR-BA",
-   "uf": "BA",
-   "origem_uf": "atletas",
-   "atletas_ativos": 11,
-   "atletas_masculino": 10,
-   "atletas_feminino": 1,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 33,
-   "top100_rating": 0,
-   "forca": 242.1,
-   "elite": 20.1,
-   "profundidade": 5.0,
-   "volume": 63.2,
-   "forca_masculino": 233.9,
-   "forca_feminino": 47.6,
-   "rating_medio_masculino": 599,
-   "rating_mediano_masculino": 499,
-   "rating_medio_feminino": 494,
-   "rating_mediano_feminino": 494,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 2,
-    "H": 0,
-    "I": 1,
-    "J": 2,
-    "L": 2,
-    "M": 0,
-    "N": 2,
-    "O": 1
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 1,
-    "I": 0,
-    "J": 0
-   },
-   "faixas_etarias": {
-    "Adulto": 1,
-    "Absoluto": 7,
-    "Master": 5,
-    "Base (Sub)": 3
-   },
-   "posicao_brasil": 254,
-   "posicao_estado": 5,
-   "id": "aabb-salvador-ba"
   },
   {
    "nome": "GEO FÉLIX MIÉLI VENERANDO",
@@ -15086,8 +15085,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 6,
     "Master": 5,
+    "Absoluto": 6,
     "Adulto": 2,
     "Base (Sub)": 9
    },
@@ -15145,9 +15144,9 @@
     "J": 1
    },
    "faixas_etarias": {
+    "Master": 8,
     "Adulto": 1,
     "Absoluto": 7,
-    "Master": 8,
     "Base (Sub)": 9
    },
    "posicao_brasil": 258,
@@ -15204,9 +15203,9 @@
     "J": 0
    },
    "faixas_etarias": {
+    "Master": 6,
     "Adulto": 2,
-    "Absoluto": 6,
-    "Master": 6
+    "Absoluto": 6
    },
    "posicao_brasil": 259,
    "posicao_estado": 11,
@@ -15262,73 +15261,14 @@
     "J": 0
    },
    "faixas_etarias": {
+    "Master": 5,
     "Adulto": 1,
     "Absoluto": 5,
-    "Master": 5,
     "Base (Sub)": 2
    },
    "posicao_brasil": 260,
    "posicao_estado": 8,
    "id": "dojo-nic-netto-tenis-de-mesa-am"
-  },
-  {
-   "nome": "PARQUE TÊNIS CLUBE",
-   "nome_cbtm": "PARQUE TÊNIS CLUBE",
-   "uf": "RS",
-   "origem_uf": "atletas",
-   "atletas_ativos": 20,
-   "atletas_masculino": 19,
-   "atletas_feminino": 1,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 25,
-   "top100_rating": 0,
-   "forca": 239.6,
-   "elite": 13.3,
-   "profundidade": 6.0,
-   "volume": 77.4,
-   "forca_masculino": 233.4,
-   "forca_feminino": 47.4,
-   "rating_medio_masculino": 284,
-   "rating_mediano_masculino": 236,
-   "rating_medio_feminino": 484,
-   "rating_mediano_feminino": 484,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 2,
-    "L": 3,
-    "M": 1,
-    "N": 2,
-    "O": 11
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 1,
-    "I": 0,
-    "J": 0
-   },
-   "faixas_etarias": {
-    "Base (Sub)": 15,
-    "Absoluto": 13,
-    "Adulto": 3,
-    "Master": 3
-   },
-   "posicao_brasil": 261,
-   "posicao_estado": 11,
-   "id": "parque-tenis-clube"
   },
   {
    "nome": "CHIKARAISHI DOJO-LIGA",
@@ -15384,7 +15324,7 @@
     "Absoluto": 1,
     "Base (Sub)": 1
    },
-   "posicao_brasil": 262,
+   "posicao_brasil": 261,
    "posicao_estado": 83,
    "id": "chikaraishi-dojo-liga-sp"
   },
@@ -15438,11 +15378,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 3,
     "Master": 1,
+    "Absoluto": 3,
     "Base (Sub)": 12
    },
-   "posicao_brasil": 263,
+   "posicao_brasil": 262,
    "posicao_estado": 84,
    "id": "associacao-atletica-ponte-preta-country-club-sp"
   },
@@ -15496,11 +15436,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 6,
     "Master": 7,
+    "Absoluto": 6,
     "Adulto": 1
    },
-   "posicao_brasil": 264,
+   "posicao_brasil": 263,
    "posicao_estado": 9,
    "id": "clube-nipo-de-brasilia-df"
   },
@@ -15559,7 +15499,7 @@
     "Master": 5,
     "Adulto": 1
    },
-   "posicao_brasil": 265,
+   "posicao_brasil": 264,
    "posicao_estado": 85,
    "id": "sociedade-esportiva-gran-sao-joao-liga-sp"
   },
@@ -15613,11 +15553,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 8,
     "Master": 9,
+    "Absoluto": 8,
     "Base (Sub)": 11
    },
-   "posicao_brasil": 266,
+   "posicao_brasil": 265,
    "posicao_estado": 86,
    "id": "associacao-brasileira-a-hebraica-de-sao-paulo-sp"
   },
@@ -15675,7 +15615,7 @@
     "Absoluto": 27,
     "Adulto": 2
    },
-   "posicao_brasil": 267,
+   "posicao_brasil": 266,
    "posicao_estado": 9,
    "id": "norte-araguaia-mt"
   },
@@ -15732,7 +15672,7 @@
     "Adulto": 9,
     "Absoluto": 20
    },
-   "posicao_brasil": 268,
+   "posicao_brasil": 267,
    "posicao_estado": 87,
    "id": "associacao-atletica-academica-manoel-de-abreu-liga-sp"
   },
@@ -15788,9 +15728,68 @@
    "faixas_etarias": {
     "Base (Sub)": 36
    },
-   "posicao_brasil": 269,
+   "posicao_brasil": 268,
    "posicao_estado": 13,
    "id": "geo-rose-delmaso"
+  },
+  {
+   "nome": "PARQUE TÊNIS CLUBE",
+   "nome_cbtm": "PARQUE TÊNIS CLUBE",
+   "uf": "RS",
+   "origem_uf": "atletas",
+   "atletas_ativos": 19,
+   "atletas_masculino": 18,
+   "atletas_feminino": 1,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 25,
+   "top100_rating": 0,
+   "forca": 235.8,
+   "elite": 13.3,
+   "profundidade": 5.6,
+   "volume": 76.2,
+   "forca_masculino": 229.3,
+   "forca_feminino": 47.4,
+   "rating_medio_masculino": 281,
+   "rating_mediano_masculino": 219,
+   "rating_medio_feminino": 484,
+   "rating_mediano_feminino": 484,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 2,
+    "L": 3,
+    "M": 1,
+    "N": 1,
+    "O": 11
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 1,
+    "I": 0,
+    "J": 0
+   },
+   "faixas_etarias": {
+    "Base (Sub)": 14,
+    "Absoluto": 12,
+    "Adulto": 3,
+    "Master": 3
+   },
+   "posicao_brasil": 269,
+   "posicao_estado": 11,
+   "id": "parque-tenis-clube"
   },
   {
    "nome": "COLÉGIO ZEROHUM",
@@ -15907,6 +15906,65 @@
    "id": "academia-nelson-machado-yara-clube-unimed-unimar-selj-marilia-spde-marilia-liga-sp"
   },
   {
+   "nome": "AABB-SALVADOR",
+   "nome_cbtm": "AABB-SALVADOR-BA",
+   "uf": "BA",
+   "origem_uf": "atletas",
+   "atletas_ativos": 10,
+   "atletas_masculino": 9,
+   "atletas_feminino": 1,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 32,
+   "top100_rating": 0,
+   "forca": 234.7,
+   "elite": 20.1,
+   "profundidade": 4.0,
+   "volume": 61.0,
+   "forca_masculino": 226.1,
+   "forca_feminino": 47.6,
+   "rating_medio_masculino": 618,
+   "rating_mediano_masculino": 562,
+   "rating_medio_feminino": 494,
+   "rating_mediano_feminino": 494,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 2,
+    "H": 0,
+    "I": 1,
+    "J": 2,
+    "L": 1,
+    "M": 0,
+    "N": 2,
+    "O": 1
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 1,
+    "I": 0,
+    "J": 0
+   },
+   "faixas_etarias": {
+    "Master": 5,
+    "Adulto": 1,
+    "Absoluto": 6,
+    "Base (Sub)": 3
+   },
+   "posicao_brasil": 272,
+   "posicao_estado": 6,
+   "id": "aabb-salvador-ba"
+  },
+  {
    "nome": "COLÉGIO PEDRO II RJ",
    "nome_cbtm": "COLÉGIO PEDRO II RJ",
    "uf": "RJ",
@@ -15958,7 +16016,7 @@
    "faixas_etarias": {
     "Base (Sub)": 34
    },
-   "posicao_brasil": 272,
+   "posicao_brasil": 273,
    "posicao_estado": 15,
    "id": "colegio-pedro-ii-rj"
   },
@@ -16016,7 +16074,7 @@
     "Master": 6,
     "Adulto": 1
    },
-   "posicao_brasil": 273,
+   "posicao_brasil": 274,
    "posicao_estado": 89,
    "id": "tenis-de-mesa-sao-joao-sp-liga"
   },
@@ -16070,12 +16128,12 @@
     "J": 2
    },
    "faixas_etarias": {
-    "Absoluto": 8,
+    "Absoluto": 10,
     "Master": 7,
     "Base (Sub)": 9,
     "Adulto": 2
    },
-   "posicao_brasil": 274,
+   "posicao_brasil": 275,
    "posicao_estado": 90,
    "id": "associacao-nipo-brasileira-de-itapevi-liga-sp"
   },
@@ -16132,7 +16190,7 @@
     "Base (Sub)": 7,
     "Absoluto": 9
    },
-   "posicao_brasil": 275,
+   "posicao_brasil": 276,
    "posicao_estado": 24,
    "id": "assoc-amigos-do-tenis-de-mesa-de-itajai-sc"
   },
@@ -16190,7 +16248,7 @@
     "Master": 5,
     "Absoluto": 2
    },
-   "posicao_brasil": 276,
+   "posicao_brasil": 277,
    "posicao_estado": 91,
    "id": "dracena-tm-sp"
   },
@@ -16248,7 +16306,7 @@
     "Adulto": 1,
     "Absoluto": 2
    },
-   "posicao_brasil": 277,
+   "posicao_brasil": 278,
    "posicao_estado": 92,
    "id": "aitm-cva-itapetininga-liga-sp"
   },
@@ -16307,7 +16365,7 @@
     "Master": 3,
     "Adulto": 3
    },
-   "posicao_brasil": 278,
+   "posicao_brasil": 279,
    "posicao_estado": 93,
    "id": "bertioga-tenis-de-mesa-sp"
   },
@@ -16365,7 +16423,7 @@
     "Master": 5,
     "Adulto": 6
    },
-   "posicao_brasil": 279,
+   "posicao_brasil": 280,
    "posicao_estado": 94,
    "id": "americana-liga-sp"
   },
@@ -16424,7 +16482,7 @@
     "Absoluto": 5,
     "Adulto": 1
    },
-   "posicao_brasil": 280,
+   "posicao_brasil": 281,
    "posicao_estado": 25,
    "id": "fme-indaial-sc"
   },
@@ -16478,72 +16536,13 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 7,
     "Master": 6,
+    "Absoluto": 7,
     "Adulto": 2
    },
-   "posicao_brasil": 281,
+   "posicao_brasil": 282,
    "posicao_estado": 16,
    "id": "wtm-clube-nautico-volta-redonda-rj"
-  },
-  {
-   "nome": "TOPSPIN ACADEMIA DE TÊNIS DE MESA",
-   "nome_cbtm": "TOPSPIN ACADEMIA DE TÊNIS DE MESA - RS",
-   "uf": "RS",
-   "origem_uf": "atletas",
-   "atletas_ativos": 11,
-   "atletas_masculino": 11,
-   "atletas_feminino": 0,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 18,
-   "top100_rating": 0,
-   "forca": 228.9,
-   "elite": 17.3,
-   "profundidade": 5.3,
-   "volume": 63.2,
-   "forca_masculino": 228.9,
-   "forca_feminino": 0,
-   "rating_medio_masculino": 549,
-   "rating_mediano_masculino": 535,
-   "rating_medio_feminino": null,
-   "rating_mediano_feminino": null,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 1,
-    "H": 0,
-    "I": 2,
-    "J": 2,
-    "L": 3,
-    "M": 1,
-    "N": 0,
-    "O": 2
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0
-   },
-   "faixas_etarias": {
-    "Absoluto": 9,
-    "Master": 6,
-    "Base (Sub)": 4,
-    "Adulto": 1
-   },
-   "posicao_brasil": 282,
-   "posicao_estado": 12,
-   "id": "topspin-academia-de-tenis-de-mesa-rs"
   },
   {
    "nome": "AABB SERRINHA",
@@ -16595,13 +16594,13 @@
     "J": 0
    },
    "faixas_etarias": {
+    "Master": 3,
     "Adulto": 2,
     "Absoluto": 4,
-    "Master": 3,
     "Base (Sub)": 5
    },
    "posicao_brasil": 283,
-   "posicao_estado": 6,
+   "posicao_estado": 7,
    "id": "aabb-serrinha-ba"
   },
   {
@@ -17292,8 +17291,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 14,
     "Master": 7,
+    "Absoluto": 14,
     "Base (Sub)": 4,
     "Adulto": 2
    },
@@ -17360,26 +17359,26 @@
    "id": "sama-assai-pr"
   },
   {
-   "nome": "ESCOLA ESTADUAL DE ENSINO MÉDIO PRESIDENTE KENNEDY",
-   "nome_cbtm": "ESCOLA ESTADUAL DE ENSINO MÉDIO PRESIDENTE KENNEDY",
+   "nome": "TOPSPIN ACADEMIA DE TÊNIS DE MESA",
+   "nome_cbtm": "TOPSPIN ACADEMIA DE TÊNIS DE MESA - RS",
    "uf": "RS",
    "origem_uf": "atletas",
-   "atletas_ativos": 25,
-   "atletas_masculino": 13,
-   "atletas_feminino": 12,
+   "atletas_ativos": 10,
+   "atletas_masculino": 10,
+   "atletas_feminino": 0,
    "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 51,
+   "atletas_cadastrados": 18,
    "top100_rating": 0,
-   "forca": 221.3,
-   "elite": 7.7,
-   "profundidade": 5.7,
-   "volume": 82.9,
-   "forca_masculino": 175.9,
-   "forca_feminino": 179.1,
-   "rating_medio_masculino": 228,
-   "rating_mediano_masculino": 237,
-   "rating_medio_feminino": 245,
-   "rating_mediano_feminino": 219,
+   "forca": 222.9,
+   "elite": 17.3,
+   "profundidade": 4.8,
+   "volume": 61.0,
+   "forca_masculino": 222.9,
+   "forca_feminino": 0,
+   "rating_medio_masculino": 582,
+   "rating_mediano_masculino": 560,
+   "rating_medio_feminino": null,
+   "rating_mediano_feminino": null,
    "classes_masculino": {
     "A": 0,
     "B": 0,
@@ -17387,14 +17386,14 @@
     "D": 0,
     "E": 0,
     "F": 0,
-    "G": 0,
+    "G": 1,
     "H": 0,
-    "I": 0,
-    "J": 0,
-    "L": 0,
-    "M": 0,
-    "N": 4,
-    "O": 9
+    "I": 2,
+    "J": 2,
+    "L": 3,
+    "M": 1,
+    "N": 0,
+    "O": 1
    },
    "classes_feminino": {
     "A": 0,
@@ -17405,15 +17404,17 @@
     "F": 0,
     "G": 0,
     "H": 0,
-    "I": 4,
-    "J": 8
+    "I": 0,
+    "J": 0
    },
    "faixas_etarias": {
-    "Base (Sub)": 25
+    "Master": 5,
+    "Absoluto": 8,
+    "Base (Sub)": 4
    },
    "posicao_brasil": 297,
-   "posicao_estado": 13,
-   "id": "escola-estadual-de-ensino-medio-presidente-kennedy"
+   "posicao_estado": 12,
+   "id": "topspin-academia-de-tenis-de-mesa-rs"
   },
   {
    "nome": "SANTA MONICA REDE DE ENSINO",
@@ -17521,8 +17522,8 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 7,
     "Master": 2,
+    "Absoluto": 7,
     "Base (Sub)": 5,
     "Adulto": 1
    },
@@ -17704,63 +17705,6 @@
    "id": "smel-itaquaquecetuba-liga-sp"
   },
   {
-   "nome": "COLÉGIO SAGRADO CORAÇÃO DE JESUS",
-   "nome_cbtm": "COLÉGIO SAGRADO CORAÇÃO DE JESUS-RS",
-   "uf": "RS",
-   "origem_uf": "atletas",
-   "atletas_ativos": 24,
-   "atletas_masculino": 19,
-   "atletas_feminino": 5,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 49,
-   "top100_rating": 0,
-   "forca": 219.1,
-   "elite": 7.6,
-   "profundidade": 5.7,
-   "volume": 81.9,
-   "forca_masculino": 206.8,
-   "forca_feminino": 120.7,
-   "rating_medio_masculino": 247,
-   "rating_mediano_masculino": 237,
-   "rating_medio_feminino": 236,
-   "rating_mediano_feminino": 243,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0,
-    "L": 1,
-    "M": 1,
-    "N": 4,
-    "O": 13
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 5
-   },
-   "faixas_etarias": {
-    "Base (Sub)": 23,
-    "Absoluto": 1
-   },
-   "posicao_brasil": 303,
-   "posicao_estado": 14,
-   "id": "colegio-sagrado-coracao-de-jesus-rs"
-  },
-  {
    "nome": "SMEL ITIRAPINA",
    "nome_cbtm": "SMEL ITIRAPINA - SP",
    "uf": "SP",
@@ -17813,7 +17757,7 @@
     "Base (Sub)": 4,
     "Master": 10
    },
-   "posicao_brasil": 304,
+   "posicao_brasil": 303,
    "posicao_estado": 100,
    "id": "smel-itirapina-sp"
   },
@@ -17871,7 +17815,7 @@
     "Master": 1,
     "Adulto": 1
    },
-   "posicao_brasil": 305,
+   "posicao_brasil": 304,
    "posicao_estado": 13,
    "id": "associacao-paradesportiva-e-esportiva-de-belo-horizonte-mg"
   },
@@ -17925,12 +17869,12 @@
     "J": 2
    },
    "faixas_etarias": {
-    "Absoluto": 11,
     "Master": 5,
-    "Adulto": 3,
-    "Base (Sub)": 7
+    "Absoluto": 11,
+    "Base (Sub)": 7,
+    "Adulto": 3
    },
-   "posicao_brasil": 306,
+   "posicao_brasil": 305,
    "posicao_estado": 14,
    "id": "associacao-atletica-pouso-alegre-de-tenis-de-mesa-mg"
   },
@@ -17989,7 +17933,7 @@
     "Master": 1,
     "Base (Sub)": 1
    },
-   "posicao_brasil": 307,
+   "posicao_brasil": 306,
    "posicao_estado": 9,
    "id": "associacao-irandubense-de-tenis-de-mesa-am"
   },
@@ -18048,7 +17992,7 @@
     "Master": 1,
     "Adulto": 2
    },
-   "posicao_brasil": 308,
+   "posicao_brasil": 307,
    "posicao_estado": 101,
    "id": "guaruja-tenis-de-mesa-liga-sp"
   },
@@ -18107,7 +18051,7 @@
     "Adulto": 3,
     "Base (Sub)": 1
    },
-   "posicao_brasil": 309,
+   "posicao_brasil": 308,
    "posicao_estado": 102,
    "id": "assoc-cult-e-esp-tres-coroas-de-ponte-rasa-liga-sp"
   },
@@ -18161,12 +18105,12 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 10,
     "Master": 7,
+    "Absoluto": 10,
     "Base (Sub)": 3
    },
-   "posicao_brasil": 310,
-   "posicao_estado": 7,
+   "posicao_brasil": 309,
+   "posicao_estado": 8,
    "id": "associacao-feirense-de-tenis-de-mesa-ba"
   },
   {
@@ -18223,7 +18167,7 @@
     "Absoluto": 4,
     "Master": 3
    },
-   "posicao_brasil": 311,
+   "posicao_brasil": 310,
    "posicao_estado": 15,
    "id": "associacao-mais-acessivel-de-belo-horizonte-ama-mg"
   },
@@ -18277,12 +18221,12 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 6,
     "Master": 6,
+    "Absoluto": 6,
     "Adulto": 1,
     "Base (Sub)": 5
    },
-   "posicao_brasil": 312,
+   "posicao_brasil": 311,
    "posicao_estado": 103,
    "id": "tm-piracaia-liga-sp"
   },
@@ -18341,7 +18285,7 @@
     "Master": 2,
     "Adulto": 2
    },
-   "posicao_brasil": 313,
+   "posicao_brasil": 312,
    "posicao_estado": 5,
    "id": "manchester-table-tennis-sume-pb"
   },
@@ -18398,7 +18342,7 @@
     "Base (Sub)": 18,
     "Master": 2
    },
-   "posicao_brasil": 314,
+   "posicao_brasil": 313,
    "posicao_estado": 104,
    "id": "tm-oeste-paulista-presidente-venceslau-liga-sp"
   },
@@ -18453,11 +18397,11 @@
    },
    "faixas_etarias": {
     "Master": 3,
-    "Absoluto": 13,
+    "Absoluto": 15,
     "Base (Sub)": 7,
     "Adulto": 3
    },
-   "posicao_brasil": 315,
+   "posicao_brasil": 314,
    "posicao_estado": 105,
    "id": "maxpong-treinamento-de-tenis-de-mesa-e-acessorios-ltda-liga-sp"
   },
@@ -18515,7 +18459,7 @@
     "Adulto": 6,
     "Base (Sub)": 10
    },
-   "posicao_brasil": 316,
+   "posicao_brasil": 315,
    "posicao_estado": 106,
    "id": "associacao-de-judo-de-divinolandia-liga-sp"
   },
@@ -18571,67 +18515,9 @@
    "faixas_etarias": {
     "Base (Sub)": 22
    },
-   "posicao_brasil": 317,
+   "posicao_brasil": 316,
    "posicao_estado": 21,
    "id": "geo-doutor-socrates"
-  },
-  {
-   "nome": "HORTOLÂNDIA TÊNIS DE MESA-LIGA",
-   "nome_cbtm": "HORTOLÂNDIA TÊNIS DE MESA-LIGA-SP",
-   "uf": "SP",
-   "origem_uf": "atletas",
-   "atletas_ativos": 14,
-   "atletas_masculino": 13,
-   "atletas_feminino": 1,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 26,
-   "top100_rating": 0,
-   "forca": 207.7,
-   "elite": 11.0,
-   "profundidade": 5.0,
-   "volume": 68.9,
-   "forca_masculino": 202.0,
-   "forca_feminino": 42.5,
-   "rating_medio_masculino": 327,
-   "rating_mediano_masculino": 259,
-   "rating_medio_feminino": 288,
-   "rating_mediano_feminino": 288,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0,
-    "L": 4,
-    "M": 1,
-    "N": 2,
-    "O": 6
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 1,
-    "J": 0
-   },
-   "faixas_etarias": {
-    "Base (Sub)": 4,
-    "Master": 6,
-    "Adulto": 5
-   },
-   "posicao_brasil": 318,
-   "posicao_estado": 107,
-   "id": "hortolandia-tenis-de-mesa-liga-sp"
   },
   {
    "nome": "ACERB-LIGA",
@@ -18687,8 +18573,8 @@
     "Base (Sub)": 12,
     "Absoluto": 6
    },
-   "posicao_brasil": 319,
-   "posicao_estado": 108,
+   "posicao_brasil": 317,
+   "posicao_estado": 107,
    "id": "acerb-liga-sp"
   },
   {
@@ -18743,7 +18629,7 @@
    "faixas_etarias": {
     "Base (Sub)": 20
    },
-   "posicao_brasil": 320,
+   "posicao_brasil": 318,
    "posicao_estado": 22,
    "id": "geo-reverendo-martin-luther-king"
   },
@@ -18797,11 +18683,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 11,
     "Master": 9,
+    "Absoluto": 11,
     "Base (Sub)": 3
    },
-   "posicao_brasil": 321,
+   "posicao_brasil": 319,
    "posicao_estado": 16,
    "id": "associacao-do-vale-do-rio-doce-de-tenis-de-mesa-e-esporte-mg"
   },
@@ -18859,127 +18745,9 @@
     "Absoluto": 10,
     "Master": 2
    },
-   "posicao_brasil": 322,
+   "posicao_brasil": 320,
    "posicao_estado": 5,
    "id": "acnttm-rn"
-  },
-  {
-   "nome": "JESUS TRANSFORMA TM",
-   "nome_cbtm": "JESUS TRANSFORMA TM - RO",
-   "uf": "RO",
-   "origem_uf": "atletas",
-   "atletas_ativos": 12,
-   "atletas_masculino": 10,
-   "atletas_feminino": 2,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 15,
-   "top100_rating": 0,
-   "forca": 205.3,
-   "elite": 12.8,
-   "profundidade": 3.6,
-   "volume": 65.2,
-   "forca_masculino": 192.7,
-   "forca_feminino": 68.4,
-   "rating_medio_masculino": 378,
-   "rating_mediano_masculino": 241,
-   "rating_medio_feminino": 250,
-   "rating_mediano_feminino": 250,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 1,
-    "H": 0,
-    "I": 0,
-    "J": 1,
-    "L": 1,
-    "M": 1,
-    "N": 0,
-    "O": 6
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 2
-   },
-   "faixas_etarias": {
-    "Base (Sub)": 9,
-    "Absoluto": 6,
-    "Adulto": 2,
-    "Master": 1
-   },
-   "posicao_brasil": 323,
-   "posicao_estado": 6,
-   "id": "jesus-transforma-tm-ro"
-  },
-  {
-   "nome": "ESPORTE CLUBE UNIÃO CORINTHIANS",
-   "nome_cbtm": "ESPORTE CLUBE UNIÃO CORINTHIANS - RS",
-   "uf": "RS",
-   "origem_uf": "atletas",
-   "atletas_ativos": 9,
-   "atletas_masculino": 9,
-   "atletas_feminino": 0,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 14,
-   "top100_rating": 0,
-   "forca": 205.2,
-   "elite": 16.9,
-   "profundidade": 1.1,
-   "volume": 58.6,
-   "forca_masculino": 205.2,
-   "forca_feminino": 0,
-   "rating_medio_masculino": 461,
-   "rating_mediano_masculino": 454,
-   "rating_medio_feminino": null,
-   "rating_mediano_feminino": null,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 1,
-    "H": 0,
-    "I": 1,
-    "J": 1,
-    "L": 2,
-    "M": 0,
-    "N": 0,
-    "O": 4
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0
-   },
-   "faixas_etarias": {
-    "Adulto": 3,
-    "Absoluto": 9,
-    "Base (Sub)": 2,
-    "Master": 3
-   },
-   "posicao_brasil": 324,
-   "posicao_estado": 15,
-   "id": "esporte-clube-uniao-corinthians-rs"
   },
   {
    "nome": "TM OESTE PAULISTA BASTOS - LIGA",
@@ -19034,8 +18802,8 @@
     "Master": 7,
     "Base (Sub)": 11
    },
-   "posicao_brasil": 325,
-   "posicao_estado": 109,
+   "posicao_brasil": 321,
+   "posicao_estado": 108,
    "id": "tm-oeste-paulista-bastos-liga-sp"
   },
   {
@@ -19090,7 +18858,7 @@
    "faixas_etarias": {
     "Base (Sub)": 21
    },
-   "posicao_brasil": 326,
+   "posicao_brasil": 322,
    "posicao_estado": 23,
    "id": "elite-rede-de-ensino"
   },
@@ -19148,9 +18916,67 @@
     "Absoluto": 7,
     "Master": 2
    },
-   "posicao_brasil": 327,
-   "posicao_estado": 110,
+   "posicao_brasil": 323,
+   "posicao_estado": 109,
    "id": "aabb-santos-sp"
+  },
+  {
+   "nome": "HORTOLÂNDIA TÊNIS DE MESA-LIGA",
+   "nome_cbtm": "HORTOLÂNDIA TÊNIS DE MESA-LIGA-SP",
+   "uf": "SP",
+   "origem_uf": "atletas",
+   "atletas_ativos": 13,
+   "atletas_masculino": 12,
+   "atletas_feminino": 1,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 26,
+   "top100_rating": 0,
+   "forca": 202.8,
+   "elite": 11.0,
+   "profundidade": 4.6,
+   "volume": 67.1,
+   "forca_masculino": 196.9,
+   "forca_feminino": 42.5,
+   "rating_medio_masculino": 337,
+   "rating_mediano_masculino": 292,
+   "rating_medio_feminino": 288,
+   "rating_mediano_feminino": 288,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 0,
+    "L": 4,
+    "M": 1,
+    "N": 2,
+    "O": 5
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 1,
+    "J": 0
+   },
+   "faixas_etarias": {
+    "Base (Sub)": 4,
+    "Master": 6,
+    "Adulto": 3
+   },
+   "posicao_brasil": 324,
+   "posicao_estado": 110,
+   "id": "hortolandia-tenis-de-mesa-liga-sp"
   },
   {
    "nome": "SORRISO HORNETS",
@@ -19207,7 +19033,7 @@
     "Master": 1,
     "Adulto": 2
    },
-   "posicao_brasil": 328,
+   "posicao_brasil": 325,
    "posicao_estado": 10,
    "id": "sorriso-hornets-mt"
   },
@@ -19263,7 +19089,7 @@
    "faixas_etarias": {
     "Base (Sub)": 19
    },
-   "posicao_brasil": 329,
+   "posicao_brasil": 326,
    "posicao_estado": 24,
    "id": "cerc"
   },
@@ -19321,9 +19147,65 @@
     "Absoluto": 8,
     "Base (Sub)": 4
    },
-   "posicao_brasil": 330,
+   "posicao_brasil": 327,
    "posicao_estado": 10,
    "id": "associacao-de-tenis-de-mesa-acaras-ce"
+  },
+  {
+   "nome": "ESCOLA ESTADUAL DE ENSINO MÉDIO PRESIDENTE KENNEDY",
+   "nome_cbtm": "ESCOLA ESTADUAL DE ENSINO MÉDIO PRESIDENTE KENNEDY",
+   "uf": "RS",
+   "origem_uf": "atletas",
+   "atletas_ativos": 17,
+   "atletas_masculino": 8,
+   "atletas_feminino": 9,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 51,
+   "top100_rating": 0,
+   "forca": 201.0,
+   "elite": 7.7,
+   "profundidade": 5.1,
+   "volume": 73.5,
+   "forca_masculino": 143.9,
+   "forca_feminino": 160.6,
+   "rating_medio_masculino": 222,
+   "rating_mediano_masculino": 216,
+   "rating_medio_feminino": 254,
+   "rating_mediano_feminino": 218,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 0,
+    "L": 0,
+    "M": 0,
+    "N": 3,
+    "O": 5
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 4,
+    "J": 5
+   },
+   "faixas_etarias": {
+    "Base (Sub)": 17
+   },
+   "posicao_brasil": 328,
+   "posicao_estado": 13,
+   "id": "escola-estadual-de-ensino-medio-presidente-kennedy"
   },
   {
    "nome": "SAYÃO FUTEBOL CLUBE - LIGA",
@@ -19379,9 +19261,68 @@
     "Adulto": 4,
     "Master": 6
    },
-   "posicao_brasil": 331,
+   "posicao_brasil": 329,
    "posicao_estado": 111,
    "id": "sayao-futebol-clube-liga-sp"
+  },
+  {
+   "nome": "JESUS TRANSFORMA TM",
+   "nome_cbtm": "JESUS TRANSFORMA TM - RO",
+   "uf": "RO",
+   "origem_uf": "atletas",
+   "atletas_ativos": 11,
+   "atletas_masculino": 9,
+   "atletas_feminino": 2,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 15,
+   "top100_rating": 0,
+   "forca": 199.7,
+   "elite": 12.8,
+   "profundidade": 3.1,
+   "volume": 63.2,
+   "forca_masculino": 186.3,
+   "forca_feminino": 68.4,
+   "rating_medio_masculino": 396,
+   "rating_mediano_masculino": 250,
+   "rating_medio_feminino": 250,
+   "rating_mediano_feminino": 250,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 1,
+    "H": 0,
+    "I": 0,
+    "J": 1,
+    "L": 1,
+    "M": 1,
+    "N": 0,
+    "O": 5
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 2
+   },
+   "faixas_etarias": {
+    "Base (Sub)": 9,
+    "Absoluto": 5,
+    "Adulto": 1,
+    "Master": 1
+   },
+   "posicao_brasil": 330,
+   "posicao_estado": 6,
+   "id": "jesus-transforma-tm-ro"
   },
   {
    "nome": "CT GUARATIBA TÊNIS DE MESA",
@@ -19437,7 +19378,7 @@
     "Absoluto": 7,
     "Master": 1
    },
-   "posicao_brasil": 332,
+   "posicao_brasil": 331,
    "posicao_estado": 25,
    "id": "ct-guaratiba-tenis-de-mesa-rj"
   },
@@ -19496,31 +19437,31 @@
     "Base (Sub)": 10,
     "Master": 1
    },
-   "posicao_brasil": 333,
+   "posicao_brasil": 332,
    "posicao_estado": 112,
    "id": "lar-table-tennis-sp"
   },
   {
-   "nome": "ROYAL PONG SANTA BÁRBARA D' OESTE",
-   "nome_cbtm": "ROYAL PONG SANTA BÁRBARA D' OESTE",
-   "uf": "SP",
+   "nome": "ESPORTE CLUBE UNIÃO CORINTHIANS",
+   "nome_cbtm": "ESPORTE CLUBE UNIÃO CORINTHIANS - RS",
+   "uf": "RS",
    "origem_uf": "atletas",
-   "atletas_ativos": 11,
-   "atletas_masculino": 10,
-   "atletas_feminino": 1,
+   "atletas_ativos": 8,
+   "atletas_masculino": 8,
+   "atletas_feminino": 0,
    "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 83,
+   "atletas_cadastrados": 14,
    "top100_rating": 0,
-   "forca": 198.7,
-   "elite": 12.3,
-   "profundidade": 3.6,
-   "volume": 63.2,
-   "forca_masculino": 192.5,
-   "forca_feminino": 41.2,
-   "rating_medio_masculino": 396,
-   "rating_mediano_masculino": 322,
-   "rating_medio_feminino": 238,
-   "rating_mediano_feminino": 238,
+   "forca": 199.2,
+   "elite": 16.9,
+   "profundidade": 0.9,
+   "volume": 55.9,
+   "forca_masculino": 199.2,
+   "forca_feminino": 0,
+   "rating_medio_masculino": 509,
+   "rating_mediano_masculino": 472,
+   "rating_medio_feminino": null,
+   "rating_mediano_feminino": null,
    "classes_masculino": {
     "A": 0,
     "B": 0,
@@ -19528,14 +19469,14 @@
     "D": 0,
     "E": 0,
     "F": 0,
-    "G": 0,
+    "G": 1,
     "H": 0,
-    "I": 0,
-    "J": 2,
+    "I": 1,
+    "J": 1,
     "L": 2,
     "M": 0,
-    "N": 2,
-    "O": 4
+    "N": 0,
+    "O": 3
    },
    "classes_feminino": {
     "A": 0,
@@ -19547,16 +19488,17 @@
     "G": 0,
     "H": 0,
     "I": 0,
-    "J": 1
+    "J": 0
    },
    "faixas_etarias": {
-    "Adulto": 4,
-    "Master": 5,
-    "Base (Sub)": 2
+    "Adulto": 3,
+    "Absoluto": 8,
+    "Base (Sub)": 2,
+    "Master": 2
    },
-   "posicao_brasil": 334,
-   "posicao_estado": 113,
-   "id": "royal-pong-santa-barbara-d-oeste"
+   "posicao_brasil": 333,
+   "posicao_estado": 14,
+   "id": "esporte-clube-uniao-corinthians-rs"
   },
   {
    "nome": "ASSOCIAÇÃO CULTURAL ESPORTIVA DE SANTANA - ACESA - LIGA",
@@ -19613,8 +19555,8 @@
     "Master": 4,
     "Base (Sub)": 2
    },
-   "posicao_brasil": 335,
-   "posicao_estado": 114,
+   "posicao_brasil": 334,
+   "posicao_estado": 113,
    "id": "associacao-cultural-esportiva-de-santana-acesa-liga-sp"
   },
   {
@@ -19668,11 +19610,11 @@
    },
    "faixas_etarias": {
     "Base (Sub)": 5,
-    "Absoluto": 8,
-    "Master": 6
+    "Master": 6,
+    "Absoluto": 8
    },
-   "posicao_brasil": 336,
-   "posicao_estado": 16,
+   "posicao_brasil": 335,
+   "posicao_estado": 15,
    "id": "nipo-ivoti-rs"
   },
   {
@@ -19725,11 +19667,11 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 9,
     "Master": 7,
+    "Absoluto": 9,
     "Base (Sub)": 2
    },
-   "posicao_brasil": 337,
+   "posicao_brasil": 336,
    "posicao_estado": 5,
    "id": "pendragon-sao-luis-ma"
   },
@@ -19785,7 +19727,7 @@
    "faixas_etarias": {
     "Base (Sub)": 17
    },
-   "posicao_brasil": 338,
+   "posicao_brasil": 337,
    "posicao_estado": 26,
    "id": "escola-sesi-maracana"
   },
@@ -19843,7 +19785,7 @@
     "Absoluto": 6,
     "Master": 4
    },
-   "posicao_brasil": 339,
+   "posicao_brasil": 338,
    "posicao_estado": 11,
    "id": "associacao-de-mesatenistas-de-parauapebas-pa"
   },
@@ -19899,7 +19841,7 @@
    "faixas_etarias": {
     "Base (Sub)": 17
    },
-   "posicao_brasil": 340,
+   "posicao_brasil": 339,
    "posicao_estado": 27,
    "id": "instituto-loide-martha"
   },
@@ -19957,8 +19899,8 @@
     "Base (Sub)": 13,
     "Absoluto": 1
    },
-   "posicao_brasil": 341,
-   "posicao_estado": 115,
+   "posicao_brasil": 340,
+   "posicao_estado": 114,
    "id": "tm-oeste-paulista-salto-grande-liga-sp"
   },
   {
@@ -20016,8 +19958,8 @@
     "Adulto": 2,
     "Absoluto": 1
    },
-   "posicao_brasil": 342,
-   "posicao_estado": 116,
+   "posicao_brasil": 341,
+   "posicao_estado": 115,
    "id": "lancepro-wave-nipo-ribeirao-preto-sp"
   },
   {
@@ -20070,12 +20012,12 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 4,
     "Master": 3,
+    "Absoluto": 4,
     "Base (Sub)": 9
    },
-   "posicao_brasil": 343,
-   "posicao_estado": 117,
+   "posicao_brasil": 342,
+   "posicao_estado": 116,
    "id": "associacao-cultural-e-esportiva-do-bonfiglioli-sp"
   },
   {
@@ -20129,11 +20071,11 @@
    },
    "faixas_etarias": {
     "Base (Sub)": 1,
-    "Absoluto": 9,
     "Master": 7,
+    "Absoluto": 9,
     "Adulto": 1
    },
-   "posicao_brasil": 344,
+   "posicao_brasil": 343,
    "posicao_estado": 6,
    "id": "academia-de-tenis-de-mesa-de-natal-rn"
   },
@@ -20191,8 +20133,8 @@
     "Base (Sub)": 4,
     "Adulto": 2
    },
-   "posicao_brasil": 345,
-   "posicao_estado": 118,
+   "posicao_brasil": 344,
+   "posicao_estado": 117,
    "id": "associacao-desportiva-itapirense-de-tenis-de-mesa-liga-sp"
   },
   {
@@ -20249,8 +20191,8 @@
     "Absoluto": 2,
     "Master": 1
    },
-   "posicao_brasil": 346,
-   "posicao_estado": 119,
+   "posicao_brasil": 345,
+   "posicao_estado": 118,
    "id": "tenis-de-mesa-de-votuporanga-liga"
   },
   {
@@ -20306,8 +20248,8 @@
     "Base (Sub)": 3,
     "Master": 8
    },
-   "posicao_brasil": 347,
-   "posicao_estado": 120,
+   "posicao_brasil": 346,
+   "posicao_estado": 119,
    "id": "lotus-tenis-de-mesa-sp"
   },
   {
@@ -20363,7 +20305,7 @@
     "Absoluto": 1,
     "Base (Sub)": 1
    },
-   "posicao_brasil": 348,
+   "posicao_brasil": 347,
    "posicao_estado": 10,
    "id": "associacao-ct-de-educacao-fisica-especial-df"
   },
@@ -20421,8 +20363,8 @@
     "Absoluto": 5,
     "Master": 1
    },
-   "posicao_brasil": 349,
-   "posicao_estado": 121,
+   "posicao_brasil": 348,
+   "posicao_estado": 120,
    "id": "associacao-esportiva-de-ubatuba-sp"
   },
   {
@@ -20475,12 +20417,12 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 2,
     "Master": 2,
+    "Absoluto": 2,
     "Base (Sub)": 6,
     "Adulto": 3
    },
-   "posicao_brasil": 350,
+   "posicao_brasil": 349,
    "posicao_estado": 11,
    "id": "mata-sul-pe"
   },
@@ -20536,7 +20478,7 @@
    "faixas_etarias": {
     "Base (Sub)": 14
    },
-   "posicao_brasil": 351,
+   "posicao_brasil": 350,
    "posicao_estado": 28,
    "id": "centro-de-formacao-nogueira-mineiro"
   },
@@ -20593,8 +20535,8 @@
     "Absoluto": 12,
     "Adulto": 2
    },
-   "posicao_brasil": 352,
-   "posicao_estado": 122,
+   "posicao_brasil": 351,
+   "posicao_estado": 121,
    "id": "assoc-atlet-academica-arnaldo-vieira-de-carvalho-liga-sp"
   },
   {
@@ -20651,68 +20593,9 @@
     "Absoluto": 6,
     "Master": 2
    },
-   "posicao_brasil": 353,
-   "posicao_estado": 17,
+   "posicao_brasil": 352,
+   "posicao_estado": 16,
    "id": "associacao-de-tenis-de-mesa-de-marau-atmm-rs"
-  },
-  {
-   "nome": "FRANTT- PIRACICABA-LIGA",
-   "nome_cbtm": "FRANTT- PIRACICABA-LIGA - SP",
-   "uf": "SP",
-   "origem_uf": "atletas",
-   "atletas_ativos": 12,
-   "atletas_masculino": 10,
-   "atletas_feminino": 2,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 153,
-   "top100_rating": 0,
-   "forca": 184.9,
-   "elite": 8.5,
-   "profundidade": 4.0,
-   "volume": 65.2,
-   "forca_masculino": 166.1,
-   "forca_feminino": 74.0,
-   "rating_medio_masculino": 280,
-   "rating_mediano_masculino": 275,
-   "rating_medio_feminino": 362,
-   "rating_mediano_feminino": 362,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0,
-    "L": 0,
-    "M": 1,
-    "N": 7,
-    "O": 2
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 1,
-    "H": 0,
-    "I": 0,
-    "J": 1
-   },
-   "faixas_etarias": {
-    "Master": 10,
-    "Absoluto": 1,
-    "Base (Sub)": 1,
-    "Adulto": 1
-   },
-   "posicao_brasil": 354,
-   "posicao_estado": 123,
-   "id": "frantt-piracicaba-liga-sp"
   },
   {
    "nome": "TENIS DE MESA SALINAS -TDMS",
@@ -20769,7 +20652,7 @@
     "Base (Sub)": 1,
     "Master": 1
    },
-   "posicao_brasil": 355,
+   "posicao_brasil": 353,
    "posicao_estado": 12,
    "id": "tenis-de-mesa-salinas-tdms-pa"
   },
@@ -20825,9 +20708,67 @@
    "faixas_etarias": {
     "Base (Sub)": 14
    },
-   "posicao_brasil": 356,
+   "posicao_brasil": 354,
    "posicao_estado": 29,
    "id": "centro-educacional-paes-barreto"
+  },
+  {
+   "nome": "ROYAL PONG SANTA BÁRBARA D' OESTE",
+   "nome_cbtm": "ROYAL PONG SANTA BÁRBARA D' OESTE",
+   "uf": "SP",
+   "origem_uf": "atletas",
+   "atletas_ativos": 10,
+   "atletas_masculino": 9,
+   "atletas_feminino": 1,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 83,
+   "top100_rating": 0,
+   "forca": 183.7,
+   "elite": 10.6,
+   "profundidade": 2.9,
+   "volume": 61.0,
+   "forca_masculino": 177.1,
+   "forca_feminino": 41.2,
+   "rating_medio_masculino": 366,
+   "rating_mediano_masculino": 303,
+   "rating_medio_feminino": 238,
+   "rating_mediano_feminino": 238,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 1,
+    "L": 2,
+    "M": 0,
+    "N": 2,
+    "O": 4
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 1
+   },
+   "faixas_etarias": {
+    "Adulto": 3,
+    "Master": 5,
+    "Base (Sub)": 2
+   },
+   "posicao_brasil": 355,
+   "posicao_estado": 122,
+   "id": "royal-pong-santa-barbara-d-oeste"
   },
   {
    "nome": "JARACATY",
@@ -20879,11 +20820,11 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Adulto": 1,
     "Base (Sub)": 9,
-    "Absoluto": 4
+    "Absoluto": 6,
+    "Adulto": 1
    },
-   "posicao_brasil": 357,
+   "posicao_brasil": 356,
    "posicao_estado": 6,
    "id": "jaracaty-ma"
   },
@@ -20941,8 +20882,8 @@
     "Absoluto": 8,
     "Master": 2
    },
-   "posicao_brasil": 358,
-   "posicao_estado": 124,
+   "posicao_brasil": 357,
+   "posicao_estado": 123,
    "id": "centro-esportivo-e-cultural-de-itapecerica-liga-sp"
   },
   {
@@ -20999,8 +20940,8 @@
     "Absoluto": 3,
     "Master": 3
    },
-   "posicao_brasil": 359,
-   "posicao_estado": 125,
+   "posicao_brasil": 358,
+   "posicao_estado": 124,
    "id": "tm-oeste-paulista-sp"
   },
   {
@@ -21057,7 +20998,7 @@
     "Absoluto": 7,
     "Adulto": 1
    },
-   "posicao_brasil": 360,
+   "posicao_brasil": 359,
    "posicao_estado": 11,
    "id": "matupa-tm-mt"
   },
@@ -21115,7 +21056,7 @@
     "Absoluto": 4,
     "Master": 3
    },
-   "posicao_brasil": 361,
+   "posicao_brasil": 360,
    "posicao_estado": 4,
    "id": "aabb-ap"
   },
@@ -21174,8 +21115,8 @@
     "Adulto": 3,
     "Base (Sub)": 6
    },
-   "posicao_brasil": 362,
-   "posicao_estado": 126,
+   "posicao_brasil": 361,
+   "posicao_estado": 125,
    "id": "hora-do-drive"
   },
   {
@@ -21228,10 +21169,9 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 2,
-    "Master": 1
+    "Absoluto": 2
    },
-   "posicao_brasil": 363,
+   "posicao_brasil": 362,
    "posicao_estado": 11,
    "id": "associacao-d-eficiencia-superando-limites-adesul-ce"
   },
@@ -21289,8 +21229,8 @@
     "Absoluto": 9,
     "Base (Sub)": 6
    },
-   "posicao_brasil": 364,
-   "posicao_estado": 127,
+   "posicao_brasil": 363,
+   "posicao_estado": 126,
    "id": "motiro-tt-liga-sp"
   },
   {
@@ -21345,8 +21285,8 @@
    "faixas_etarias": {
     "Master": 12
    },
-   "posicao_brasil": 365,
-   "posicao_estado": 128,
+   "posicao_brasil": 364,
+   "posicao_estado": 127,
    "id": "associacao-cultural-e-esportiva-nipo-brasileira-de-atibaia-acenbra-liga-sp"
   },
   {
@@ -21402,7 +21342,7 @@
     "Base (Sub)": 9,
     "Absoluto": 9
    },
-   "posicao_brasil": 366,
+   "posicao_brasil": 365,
    "posicao_estado": 27,
    "id": "atmex-associacao-de-tenis-de-mesa-do-extremo-oeste-catarinense-sc"
   },
@@ -21459,8 +21399,8 @@
     "Base (Sub)": 10,
     "Absoluto": 2
    },
-   "posicao_brasil": 367,
-   "posicao_estado": 129,
+   "posicao_brasil": 366,
+   "posicao_estado": 128,
    "id": "tm-oeste-paulista-alvinlandia-sp"
   },
   {
@@ -21516,66 +21456,9 @@
     "Adulto": 9,
     "Absoluto": 10
    },
-   "posicao_brasil": 368,
-   "posicao_estado": 130,
+   "posicao_brasil": 367,
+   "posicao_estado": 129,
    "id": "associacao-atletica-academica-medicina-sorocaba-ligasp"
-  },
-  {
-   "nome": "ESCOLA ESTADUAL ENSINO MÉDIO BERNARDO PETRY",
-   "nome_cbtm": "ESCOLA ESTADUAL ENSINO MÉDIO BERNARDO PETRY",
-   "uf": "RS",
-   "origem_uf": "atletas",
-   "atletas_ativos": 11,
-   "atletas_masculino": 11,
-   "atletas_feminino": 0,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 48,
-   "top100_rating": 0,
-   "forca": 173.0,
-   "elite": 7.4,
-   "profundidade": 3.3,
-   "volume": 63.2,
-   "forca_masculino": 173.0,
-   "forca_feminino": 0,
-   "rating_medio_masculino": 273,
-   "rating_mediano_masculino": 247,
-   "rating_medio_feminino": null,
-   "rating_mediano_feminino": null,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0,
-    "L": 0,
-    "M": 1,
-    "N": 3,
-    "O": 7
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0
-   },
-   "faixas_etarias": {
-    "Base (Sub)": 11,
-    "Absoluto": 1
-   },
-   "posicao_brasil": 369,
-   "posicao_estado": 18,
-   "id": "escola-estadual-ensino-medio-bernardo-petry"
   },
   {
    "nome": "ASSOCIAÇÃO ATLÉTICA BANCO DO BRASIL - PATOS",
@@ -21632,7 +21515,7 @@
     "Base (Sub)": 3,
     "Master": 2
    },
-   "posicao_brasil": 370,
+   "posicao_brasil": 368,
    "posicao_estado": 6,
    "id": "associacao-atletica-banco-do-brasil-patos-pb"
   },
@@ -21688,7 +21571,7 @@
    "faixas_etarias": {
     "Base (Sub)": 12
    },
-   "posicao_brasil": 371,
+   "posicao_brasil": 369,
    "posicao_estado": 30,
    "id": "centro-educacional-suzano-costa"
   },
@@ -21745,9 +21628,68 @@
     "Base (Sub)": 5,
     "Absoluto": 5
    },
-   "posicao_brasil": 372,
+   "posicao_brasil": 370,
    "posicao_estado": 7,
    "id": "tuntum"
+  },
+  {
+   "nome": "FRANTT- PIRACICABA-LIGA",
+   "nome_cbtm": "FRANTT- PIRACICABA-LIGA - SP",
+   "uf": "SP",
+   "origem_uf": "atletas",
+   "atletas_ativos": 10,
+   "atletas_masculino": 8,
+   "atletas_feminino": 2,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 153,
+   "top100_rating": 0,
+   "forca": 172.2,
+   "elite": 8.4,
+   "profundidade": 2.8,
+   "volume": 61.0,
+   "forca_masculino": 151.3,
+   "forca_feminino": 74.0,
+   "rating_medio_masculino": 279,
+   "rating_mediano_masculino": 263,
+   "rating_medio_feminino": 362,
+   "rating_mediano_feminino": 362,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 0,
+    "L": 0,
+    "M": 1,
+    "N": 5,
+    "O": 2
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 1,
+    "H": 0,
+    "I": 0,
+    "J": 1
+   },
+   "faixas_etarias": {
+    "Master": 8,
+    "Absoluto": 1,
+    "Base (Sub)": 1,
+    "Adulto": 1
+   },
+   "posicao_brasil": 371,
+   "posicao_estado": 130,
+   "id": "frantt-piracicaba-liga-sp"
   },
   {
    "nome": "CIEP BRIZOLÃO 016",
@@ -21801,7 +21743,7 @@
    "faixas_etarias": {
     "Base (Sub)": 12
    },
-   "posicao_brasil": 373,
+   "posicao_brasil": 372,
    "posicao_estado": 31,
    "id": "ciep-brizolao-016"
   },
@@ -21859,7 +21801,7 @@
     "Adulto": 1,
     "Base (Sub)": 1
    },
-   "posicao_brasil": 374,
+   "posicao_brasil": 373,
    "posicao_estado": 131,
    "id": "ct-paulo-camargo-tenis-de-mesa-sp-liga"
   },
@@ -21915,7 +21857,7 @@
    "faixas_etarias": {
     "Base (Sub)": 10
    },
-   "posicao_brasil": 375,
+   "posicao_brasil": 374,
    "posicao_estado": 132,
    "id": "tm-oeste-paulista-presidente-epitacio-sp"
   },
@@ -21972,7 +21914,7 @@
     "Base (Sub)": 8,
     "Absoluto": 3
    },
-   "posicao_brasil": 376,
+   "posicao_brasil": 375,
    "posicao_estado": 10,
    "id": "instituto-social-maos-da-amazonia-am"
   },
@@ -22028,7 +21970,7 @@
    "faixas_etarias": {
     "Base (Sub)": 11
    },
-   "posicao_brasil": 377,
+   "posicao_brasil": 376,
    "posicao_estado": 32,
    "id": "centro-educacional-luz-do-saber"
   },
@@ -22085,7 +22027,7 @@
     "Base (Sub)": 5,
     "Absoluto": 3
    },
-   "posicao_brasil": 378,
+   "posicao_brasil": 377,
    "posicao_estado": 28,
    "id": "clube-rioestense-de-tenis-de-mesa-sc"
   },
@@ -22143,7 +22085,7 @@
     "Absoluto": 6,
     "Master": 1
    },
-   "posicao_brasil": 379,
+   "posicao_brasil": 378,
    "posicao_estado": 29,
    "id": "associacao-de-tenis-de-mesa-barra-velha-sc"
   },
@@ -22197,11 +22139,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 2,
     "Master": 6,
+    "Absoluto": 2,
     "Base (Sub)": 1
    },
-   "posicao_brasil": 380,
+   "posicao_brasil": 379,
    "posicao_estado": 133,
    "id": "associacao-cultural-e-esportiva-nikei-de-jandira-liga-sp"
   },
@@ -22258,7 +22200,7 @@
     "Adulto": 2,
     "Absoluto": 10
    },
-   "posicao_brasil": 381,
+   "posicao_brasil": 380,
    "posicao_estado": 134,
    "id": "associacao-atletica-academica-antonio-prudente-liga-sp"
   },
@@ -22312,11 +22254,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 3,
     "Master": 2,
+    "Absoluto": 3,
     "Base (Sub)": 3
    },
-   "posicao_brasil": 382,
+   "posicao_brasil": 381,
    "posicao_estado": 33,
    "id": "associacao-carioca-de-tenis-de-mesa-rj"
   },
@@ -22370,12 +22312,12 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 7,
     "Master": 2,
+    "Absoluto": 7,
     "Base (Sub)": 6,
     "Adulto": 1
    },
-   "posicao_brasil": 383,
+   "posicao_brasil": 382,
    "posicao_estado": 30,
    "id": "centro-de-iniciacao-esportiva-acqua-centro-sc-dme-ituporanga-sc"
   },
@@ -22432,7 +22374,7 @@
     "Absoluto": 10,
     "Adulto": 2
    },
-   "posicao_brasil": 384,
+   "posicao_brasil": 383,
    "posicao_estado": 135,
    "id": "atletica-tecnologia-mackenzie-liga-sp"
   },
@@ -22487,11 +22429,11 @@
    },
    "faixas_etarias": {
     "Base (Sub)": 7,
-    "Absoluto": 3,
     "Master": 3,
+    "Absoluto": 3,
     "Adulto": 1
    },
-   "posicao_brasil": 385,
+   "posicao_brasil": 384,
    "posicao_estado": 17,
    "id": "associacao-ctw-tenis-de-mesa-mg"
   },
@@ -22548,7 +22490,7 @@
     "Adulto": 2,
     "Absoluto": 10
    },
-   "posicao_brasil": 386,
+   "posicao_brasil": 385,
    "posicao_estado": 136,
    "id": "medicina-santo-amaro-liga-sp"
   },
@@ -22606,7 +22548,7 @@
     "Base (Sub)": 2,
     "Absoluto": 2
    },
-   "posicao_brasil": 387,
+   "posicao_brasil": 386,
    "posicao_estado": 137,
    "id": "tm-alvares-machado-liga-sp"
   },
@@ -22662,9 +22604,66 @@
    "faixas_etarias": {
     "Base (Sub)": 10
    },
-   "posicao_brasil": 388,
+   "posicao_brasil": 387,
    "posicao_estado": 34,
    "id": "geo-nicaragua"
+  },
+  {
+   "nome": "ESCOLA ESTADUAL ENSINO MÉDIO BERNARDO PETRY",
+   "nome_cbtm": "ESCOLA ESTADUAL ENSINO MÉDIO BERNARDO PETRY",
+   "uf": "RS",
+   "origem_uf": "atletas",
+   "atletas_ativos": 9,
+   "atletas_masculino": 9,
+   "atletas_feminino": 0,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 48,
+   "top100_rating": 0,
+   "forca": 160.5,
+   "elite": 7.4,
+   "profundidade": 2.2,
+   "volume": 58.6,
+   "forca_masculino": 160.5,
+   "forca_feminino": 0,
+   "rating_medio_masculino": 283,
+   "rating_mediano_masculino": 250,
+   "rating_medio_feminino": null,
+   "rating_mediano_feminino": null,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 0,
+    "L": 0,
+    "M": 1,
+    "N": 3,
+    "O": 5
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 0
+   },
+   "faixas_etarias": {
+    "Base (Sub)": 9,
+    "Absoluto": 1
+   },
+   "posicao_brasil": 388,
+   "posicao_estado": 17,
+   "id": "escola-estadual-ensino-medio-bernardo-petry"
   },
   {
    "nome": "ATIVA",
@@ -22772,8 +22771,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 3,
     "Master": 4,
+    "Absoluto": 3,
     "Adulto": 1,
     "Base (Sub)": 1
    },
@@ -23060,8 +23059,8 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Adulto": 3,
     "Base (Sub)": 5,
+    "Adulto": 3,
     "Master": 1
    },
    "posicao_brasil": 395,
@@ -23177,8 +23176,8 @@
     "J": 3
    },
    "faixas_etarias": {
-    "Absoluto": 1,
     "Master": 4,
+    "Absoluto": 1,
     "Base (Sub)": 3,
     "Adulto": 1
    },
@@ -23297,7 +23296,7 @@
     "Base (Sub)": 1
    },
    "posicao_brasil": 399,
-   "posicao_estado": 19,
+   "posicao_estado": 18,
    "id": "associacao-atletica-banco-do-brasil-aabb-canoas-rs"
   },
   {
@@ -23583,8 +23582,8 @@
    },
    "faixas_etarias": {
     "Base (Sub)": 3,
-    "Absoluto": 2,
-    "Master": 2
+    "Master": 2,
+    "Absoluto": 2
    },
    "posicao_brasil": 404,
    "posicao_estado": 7,
@@ -23705,64 +23704,6 @@
    "id": "spinnova-esportes-ltda"
   },
   {
-   "nome": "INSTITUTO SOCIAL, CULTURAL E ESPORTIVO DE SERTÃOZINHO",
-   "nome_cbtm": "INSTITUTO SOCIAL, CULTURAL E ESPORTIVO DE SERTÃOZINHO-SP",
-   "uf": "SP",
-   "origem_uf": "atletas",
-   "atletas_ativos": 8,
-   "atletas_masculino": 5,
-   "atletas_feminino": 3,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 27,
-   "top100_rating": 0,
-   "forca": 146.4,
-   "elite": 6.0,
-   "profundidade": 1.5,
-   "volume": 55.9,
-   "forca_masculino": 117.9,
-   "forca_feminino": 89.2,
-   "rating_medio_masculino": 232,
-   "rating_mediano_masculino": 227,
-   "rating_medio_feminino": 248,
-   "rating_mediano_feminino": 266,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0,
-    "L": 0,
-    "M": 0,
-    "N": 1,
-    "O": 4
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 2,
-    "J": 1
-   },
-   "faixas_etarias": {
-    "Adulto": 1,
-    "Master": 2,
-    "Base (Sub)": 5
-   },
-   "posicao_brasil": 407,
-   "posicao_estado": 147,
-   "id": "instituto-social-cultural-e-esportivo-de-sertaozinho-sp"
-  },
-  {
    "nome": "MÁRIO LEÃO",
    "nome_cbtm": "MÁRIO LEÃO - MG",
    "uf": "MG",
@@ -23812,11 +23753,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 5,
     "Master": 1,
+    "Absoluto": 5,
     "Base (Sub)": 4
    },
-   "posicao_brasil": 408,
+   "posicao_brasil": 407,
    "posicao_estado": 20,
    "id": "mario-leao-mg"
   },
@@ -23874,8 +23815,8 @@
     "Base (Sub)": 2,
     "Master": 1
    },
-   "posicao_brasil": 409,
-   "posicao_estado": 8,
+   "posicao_brasil": 408,
+   "posicao_estado": 9,
    "id": "instituto-mucuriense-de-tenis-de-mesa"
   },
   {
@@ -23930,7 +23871,7 @@
    "faixas_etarias": {
     "Base (Sub)": 7
    },
-   "posicao_brasil": 410,
+   "posicao_brasil": 409,
    "posicao_estado": 36,
    "id": "centro-educacional-monteiro-de-carvalho"
   },
@@ -23988,8 +23929,8 @@
     "Base (Sub)": 4,
     "Master": 1
    },
-   "posicao_brasil": 411,
-   "posicao_estado": 148,
+   "posicao_brasil": 410,
+   "posicao_estado": 147,
    "id": "tm-oeste-paulista-fernandopolis-liga-sp"
   },
   {
@@ -24044,7 +23985,7 @@
    "faixas_etarias": {
     "Base (Sub)": 7
    },
-   "posicao_brasil": 412,
+   "posicao_brasil": 411,
    "posicao_estado": 37,
    "id": "geo-fernando-de-azevedo-emfa"
   },
@@ -24102,7 +24043,7 @@
     "Absoluto": 4,
     "Adulto": 1
    },
-   "posicao_brasil": 413,
+   "posicao_brasil": 412,
    "posicao_estado": 12,
    "id": "agape-sinop-mt"
   },
@@ -24159,8 +24100,8 @@
     "Absoluto": 5,
     "Base (Sub)": 2
    },
-   "posicao_brasil": 414,
-   "posicao_estado": 149,
+   "posicao_brasil": 413,
+   "posicao_estado": 148,
    "id": "instituto-j-f-liga-sp"
   },
   {
@@ -24216,8 +24157,8 @@
     "Adulto": 2,
     "Absoluto": 6
    },
-   "posicao_brasil": 415,
-   "posicao_estado": 150,
+   "posicao_brasil": 414,
+   "posicao_estado": 149,
    "id": "medicina-jundiai-liga-sp"
   },
   {
@@ -24270,69 +24211,13 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 6,
     "Master": 2,
+    "Absoluto": 6,
     "Base (Sub)": 4
    },
-   "posicao_brasil": 416,
+   "posicao_brasil": 415,
    "posicao_estado": 21,
    "id": "associacao-atletica-caldense"
-  },
-  {
-   "nome": "SOCIEDADE PORVIR CIENTÍFICO LA SALLE SÃO JOÃO",
-   "nome_cbtm": "SOCIEDADE PORVIR CIENTÍFICO LA SALLE SÃO JOÃO",
-   "uf": "RS",
-   "origem_uf": "atletas",
-   "atletas_ativos": 6,
-   "atletas_masculino": 6,
-   "atletas_feminino": 0,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 6,
-   "top100_rating": 0,
-   "forca": 135.8,
-   "elite": 7.1,
-   "profundidade": 0.5,
-   "volume": 49.5,
-   "forca_masculino": 135.8,
-   "forca_feminino": 0,
-   "rating_medio_masculino": 292,
-   "rating_mediano_masculino": 267,
-   "rating_medio_feminino": null,
-   "rating_mediano_feminino": null,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0,
-    "L": 1,
-    "M": 0,
-    "N": 2,
-    "O": 3
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0
-   },
-   "faixas_etarias": {
-    "Base (Sub)": 6
-   },
-   "posicao_brasil": 417,
-   "posicao_estado": 20,
-   "id": "sociedade-porvir-cientifico-la-salle-sao-joao"
   },
   {
    "nome": "CENTRO ESPORTIVO E CULTURAL DO TABOÃO-CECT-LIGA",
@@ -24388,8 +24273,8 @@
     "Absoluto": 2,
     "Master": 2
    },
-   "posicao_brasil": 418,
-   "posicao_estado": 151,
+   "posicao_brasil": 416,
+   "posicao_estado": 150,
    "id": "centro-esportivo-e-cultural-do-taboao-cect-liga-sp"
   },
   {
@@ -24445,8 +24330,8 @@
     "Adulto": 5,
     "Absoluto": 6
    },
-   "posicao_brasil": 419,
-   "posicao_estado": 152,
+   "posicao_brasil": 417,
+   "posicao_estado": 151,
    "id": "associacao-atletica-academica-rolando-tenuto-liga-sp"
   },
   {
@@ -24502,8 +24387,8 @@
     "Absoluto": 6,
     "Adulto": 2
    },
-   "posicao_brasil": 420,
-   "posicao_estado": 153,
+   "posicao_brasil": 418,
+   "posicao_estado": 152,
    "id": "associacao-atletica-academica-espm-liga-sp"
   },
   {
@@ -24558,7 +24443,7 @@
    "faixas_etarias": {
     "Base (Sub)": 6
    },
-   "posicao_brasil": 421,
+   "posicao_brasil": 419,
    "posicao_estado": 5,
    "id": "dom-barreto"
   },
@@ -24615,7 +24500,7 @@
     "Adulto": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 422,
+   "posicao_brasil": 420,
    "posicao_estado": 32,
    "id": "associacao-cultural-e-esportiva-de-maravilha-sc"
   },
@@ -24671,8 +24556,8 @@
    "faixas_etarias": {
     "Base (Sub)": 7
    },
-   "posicao_brasil": 423,
-   "posicao_estado": 154,
+   "posicao_brasil": 421,
+   "posicao_estado": 153,
    "id": "tm-oeste-paulista-lucelia-sp-liga"
   },
   {
@@ -24727,7 +24612,7 @@
    "faixas_etarias": {
     "Base (Sub)": 6
    },
-   "posicao_brasil": 424,
+   "posicao_brasil": 422,
    "posicao_estado": 3,
    "id": "colegio-adventista-de-palmas"
   },
@@ -24783,8 +24668,8 @@
    "faixas_etarias": {
     "Base (Sub)": 6
    },
-   "posicao_brasil": 425,
-   "posicao_estado": 21,
+   "posicao_brasil": 423,
+   "posicao_estado": 19,
    "id": "colegio-estadual-12-de-maio"
   },
   {
@@ -24839,7 +24724,7 @@
    "faixas_etarias": {
     "Base (Sub)": 6
    },
-   "posicao_brasil": 426,
+   "posicao_brasil": 424,
    "posicao_estado": 4,
    "id": "colegio-militar-do-estado-do-tocantins"
   },
@@ -24895,8 +24780,8 @@
    "faixas_etarias": {
     "Base (Sub)": 6
    },
-   "posicao_brasil": 427,
-   "posicao_estado": 22,
+   "posicao_brasil": 425,
+   "posicao_estado": 20,
    "id": "escola-estadual-de-ensino-medio-irmao-irineu"
   },
   {
@@ -24949,11 +24834,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 4,
     "Master": 3,
+    "Absoluto": 4,
     "Base (Sub)": 1
    },
-   "posicao_brasil": 428,
+   "posicao_brasil": 426,
    "posicao_estado": 33,
    "id": "fmel-canoinhas-sc"
   },
@@ -25007,10 +24892,10 @@
     "J": 1
    },
    "faixas_etarias": {
-    "Absoluto": 1,
-    "Master": 2
+    "Master": 2,
+    "Absoluto": 1
    },
-   "posicao_brasil": 429,
+   "posicao_brasil": 427,
    "posicao_estado": 7,
    "id": "sadef-natal-rn"
   },
@@ -25068,8 +24953,8 @@
     "Absoluto": 3,
     "Master": 1
    },
-   "posicao_brasil": 430,
-   "posicao_estado": 155,
+   "posicao_brasil": 428,
+   "posicao_estado": 154,
    "id": "up-table-tennis-team-liga-sp"
   },
   {
@@ -25126,7 +25011,7 @@
     "Master": 2,
     "Absoluto": 2
    },
-   "posicao_brasil": 431,
+   "posicao_brasil": 429,
    "posicao_estado": 22,
    "id": "associacao-espontanea-de-tenis-de-mesa-amigos-do-barro-preto"
   },
@@ -25184,7 +25069,7 @@
     "Absoluto": 5,
     "Master": 3
    },
-   "posicao_brasil": 432,
+   "posicao_brasil": 430,
    "posicao_estado": 7,
    "id": "associacao-atletica-banco-do-brasil-ji-parana"
   },
@@ -25241,8 +25126,8 @@
     "Master": 2,
     "Adulto": 1
    },
-   "posicao_brasil": 433,
-   "posicao_estado": 156,
+   "posicao_brasil": 431,
+   "posicao_estado": 155,
    "id": "fire-spin-araraquara"
   },
   {
@@ -25299,7 +25184,7 @@
     "Absoluto": 2,
     "Adulto": 2
    },
-   "posicao_brasil": 434,
+   "posicao_brasil": 432,
    "posicao_estado": 34,
    "id": "associacao-de-tenis-de-mesa-gemeos-tt-sc"
   },
@@ -25355,7 +25240,7 @@
    "faixas_etarias": {
     "Base (Sub)": 5
    },
-   "posicao_brasil": 435,
+   "posicao_brasil": 433,
    "posicao_estado": 8,
    "id": "joao-lisboa"
   },
@@ -25409,11 +25294,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 3,
     "Master": 2,
+    "Absoluto": 3,
     "Adulto": 1
    },
-   "posicao_brasil": 436,
+   "posicao_brasil": 434,
    "posicao_estado": 13,
    "id": "assembleia-paraense-pa"
   },
@@ -25471,7 +25356,7 @@
     "Master": 1,
     "Adulto": 1
    },
-   "posicao_brasil": 437,
+   "posicao_brasil": 435,
    "posicao_estado": 13,
    "id": "associacao-recreativa-tabuleirense-ce"
   },
@@ -25529,8 +25414,8 @@
     "Absoluto": 4,
     "Adulto": 1
    },
-   "posicao_brasil": 438,
-   "posicao_estado": 23,
+   "posicao_brasil": 436,
+   "posicao_estado": 21,
    "id": "unipampa-universidade-federal-do-pampa"
   },
   {
@@ -25585,7 +25470,7 @@
    "faixas_etarias": {
     "Base (Sub)": 5
    },
-   "posicao_brasil": 439,
+   "posicao_brasil": 437,
    "posicao_estado": 9,
    "id": "matinha"
   },
@@ -25643,8 +25528,8 @@
     "Adulto": 2,
     "Master": 1
    },
-   "posicao_brasil": 440,
-   "posicao_estado": 157,
+   "posicao_brasil": 438,
+   "posicao_estado": 156,
    "id": "angus-tt-liga-sp"
   },
   {
@@ -25699,7 +25584,7 @@
    "faixas_etarias": {
     "Base (Sub)": 5
    },
-   "posicao_brasil": 441,
+   "posicao_brasil": 439,
    "posicao_estado": 5,
    "id": "cemil-santa-rita-de-cassia"
   },
@@ -25757,7 +25642,7 @@
     "Absoluto": 3,
     "Master": 1
    },
-   "posicao_brasil": 442,
+   "posicao_brasil": 440,
    "posicao_estado": 12,
    "id": "clube-sociedade-vinte-e-um-de-setembro-petrolina-pe"
   },
@@ -25814,8 +25699,8 @@
     "Absoluto": 3,
     "Master": 1
    },
-   "posicao_brasil": 443,
-   "posicao_estado": 158,
+   "posicao_brasil": 441,
+   "posicao_estado": 157,
    "id": "francisco-morato-liga-sp"
   },
   {
@@ -25868,35 +25753,35 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 5,
     "Master": 2,
+    "Absoluto": 5,
     "Base (Sub)": 2
    },
-   "posicao_brasil": 444,
+   "posicao_brasil": 442,
    "posicao_estado": 23,
    "id": "associacao-espontanea-de-tenis-de-mesa-hyper-pong-mg"
   },
   {
-   "nome": "SAGRADO TM - BENTO GONÇALVES",
-   "nome_cbtm": "SAGRADO TM - BENTO GONÇALVES - RS",
+   "nome": "COLÉGIO SAGRADO CORAÇÃO DE JESUS",
+   "nome_cbtm": "COLÉGIO SAGRADO CORAÇÃO DE JESUS-RS",
    "uf": "RS",
    "origem_uf": "atletas",
    "atletas_ativos": 5,
-   "atletas_masculino": 1,
-   "atletas_feminino": 4,
+   "atletas_masculino": 5,
+   "atletas_feminino": 0,
    "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 40,
+   "atletas_cadastrados": 49,
    "top100_rating": 0,
-   "forca": 117.5,
-   "elite": 5.3,
+   "forca": 119.7,
+   "elite": 5.7,
    "profundidade": 0.0,
    "volume": 45.6,
-   "forca_masculino": 42.3,
-   "forca_feminino": 101.2,
-   "rating_medio_masculino": 304,
-   "rating_mediano_masculino": 304,
-   "rating_medio_feminino": 193,
-   "rating_mediano_feminino": 230,
+   "forca_masculino": 119.7,
+   "forca_feminino": 0,
+   "rating_medio_masculino": 248,
+   "rating_mediano_masculino": 246,
+   "rating_medio_feminino": null,
+   "rating_mediano_feminino": null,
    "classes_masculino": {
     "A": 0,
     "B": 0,
@@ -25910,8 +25795,8 @@
     "J": 0,
     "L": 0,
     "M": 0,
-    "N": 1,
-    "O": 0
+    "N": 2,
+    "O": 3
    },
    "classes_feminino": {
     "A": 0,
@@ -25922,17 +25807,15 @@
     "F": 0,
     "G": 0,
     "H": 0,
-    "I": 1,
-    "J": 3
+    "I": 0,
+    "J": 0
    },
    "faixas_etarias": {
-    "Master": 4,
-    "Absoluto": 3,
-    "Base (Sub)": 1
+    "Base (Sub)": 5
    },
-   "posicao_brasil": 445,
-   "posicao_estado": 24,
-   "id": "sagrado-tm-bento-goncalves-rs"
+   "posicao_brasil": 443,
+   "posicao_estado": 22,
+   "id": "colegio-sagrado-coracao-de-jesus-rs"
   },
   {
    "nome": "ASSOCIAÇÃO MESATENISTA DE IÇARA",
@@ -25984,11 +25867,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 3,
     "Master": 2,
+    "Absoluto": 3,
     "Adulto": 1
    },
-   "posicao_brasil": 446,
+   "posicao_brasil": 444,
    "posicao_estado": 35,
    "id": "associacao-mesatenista-de-icara-sc"
   },
@@ -26045,7 +25928,7 @@
     "Base (Sub)": 3,
     "Absoluto": 2
    },
-   "posicao_brasil": 447,
+   "posicao_brasil": 445,
    "posicao_estado": 1,
    "id": "sergipe"
   },
@@ -26099,10 +25982,10 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 2,
-    "Master": 3
+    "Master": 3,
+    "Absoluto": 2
    },
-   "posicao_brasil": 448,
+   "posicao_brasil": 446,
    "posicao_estado": 3,
    "id": "associacao-dos-servidores-do-tribunal-de-contas-do-estado-do-acre"
   },
@@ -26156,10 +26039,10 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 3,
-    "Master": 3
+    "Master": 3,
+    "Absoluto": 3
    },
-   "posicao_brasil": 449,
+   "posicao_brasil": 447,
    "posicao_estado": 10,
    "id": "associacao-desportiva-caxiense-ma"
   },
@@ -26216,66 +26099,9 @@
     "Base (Sub)": 3,
     "Absoluto": 2
    },
-   "posicao_brasil": 450,
-   "posicao_estado": 159,
+   "posicao_brasil": 448,
+   "posicao_estado": 158,
    "id": "associacao-dos-servidores-municipais-de-ribeirao-preto-sp"
-  },
-  {
-   "nome": "COSTA VERDE TENNIS CLUBE",
-   "nome_cbtm": "COSTA VERDE TENNIS CLUBE - BA",
-   "uf": "BA",
-   "origem_uf": "atletas",
-   "atletas_ativos": 2,
-   "atletas_masculino": 2,
-   "atletas_feminino": 0,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 3,
-   "top100_rating": 0,
-   "forca": 111.3,
-   "elite": 11.1,
-   "profundidade": 0.0,
-   "volume": 27.9,
-   "forca_masculino": 111.3,
-   "forca_feminino": 0,
-   "rating_medio_masculino": 1200,
-   "rating_mediano_masculino": 1200,
-   "rating_medio_feminino": null,
-   "rating_mediano_feminino": null,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 1,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0,
-    "L": 0,
-    "M": 0,
-    "N": 1,
-    "O": 0
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0
-   },
-   "faixas_etarias": {
-    "Absoluto": 2,
-    "Master": 1
-   },
-   "posicao_brasil": 451,
-   "posicao_estado": 9,
-   "id": "costa-verde-tennis-clube-ba"
   },
   {
    "nome": "EQUIPE DE TÊNIS DE MESA DE LARANJAL PAULISTA-SP-LIGA",
@@ -26329,8 +26155,8 @@
    "faixas_etarias": {
     "Master": 4
    },
-   "posicao_brasil": 452,
-   "posicao_estado": 160,
+   "posicao_brasil": 449,
+   "posicao_estado": 159,
    "id": "equipe-de-tenis-de-mesa-de-laranjal-paulista-sp-liga"
   },
   {
@@ -26383,11 +26209,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 3,
     "Master": 2,
+    "Absoluto": 3,
     "Base (Sub)": 2
    },
-   "posicao_brasil": 453,
+   "posicao_brasil": 450,
    "posicao_estado": 24,
    "id": "academia-betinho-de-tenis-de-mesa-cataguases"
   },
@@ -26445,7 +26271,7 @@
     "Absoluto": 4,
     "Master": 3
    },
-   "posicao_brasil": 454,
+   "posicao_brasil": 451,
    "posicao_estado": 38,
    "id": "ostraspin-rj"
   },
@@ -26503,8 +26329,8 @@
     "Absoluto": 3,
     "Master": 1
    },
-   "posicao_brasil": 455,
-   "posicao_estado": 161,
+   "posicao_brasil": 452,
+   "posicao_estado": 160,
    "id": "itiban-table-tennis"
   },
   {
@@ -26559,7 +26385,7 @@
    "faixas_etarias": {
     "Base (Sub)": 4
    },
-   "posicao_brasil": 456,
+   "posicao_brasil": 453,
    "posicao_estado": 11,
    "id": "codo"
   },
@@ -26613,11 +26439,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 2,
     "Master": 2,
+    "Absoluto": 2,
     "Adulto": 1
    },
-   "posicao_brasil": 457,
+   "posicao_brasil": 454,
    "posicao_estado": 5,
    "id": "caveira-hard-core-tenis-de-mesa"
   },
@@ -26671,11 +26497,11 @@
     "J": 2
    },
    "faixas_etarias": {
-    "Absoluto": 4,
-    "Master": 2
+    "Master": 2,
+    "Absoluto": 4
    },
-   "posicao_brasil": 458,
-   "posicao_estado": 162,
+   "posicao_brasil": 455,
+   "posicao_estado": 161,
    "id": "h0ly-spin-sp"
   },
   {
@@ -26730,7 +26556,7 @@
    "faixas_etarias": {
     "Base (Sub)": 4
    },
-   "posicao_brasil": 459,
+   "posicao_brasil": 456,
    "posicao_estado": 12,
    "id": "cem-estefania-rosa-da-silva"
   },
@@ -26785,10 +26611,10 @@
    },
    "faixas_etarias": {
     "Adulto": 2,
-    "Base (Sub)": 2,
+    "Base (Sub)": 1,
     "Master": 2
    },
-   "posicao_brasil": 460,
+   "posicao_brasil": 457,
    "posicao_estado": 5,
    "id": "associacao-mundo-moderno-de-futsal-es"
   },
@@ -26845,8 +26671,8 @@
     "Absoluto": 3,
     "Base (Sub)": 1
    },
-   "posicao_brasil": 461,
-   "posicao_estado": 163,
+   "posicao_brasil": 458,
+   "posicao_estado": 162,
    "id": "moranguinho-tenis-de-mesa-liga-sp"
   },
   {
@@ -26901,8 +26727,8 @@
    "faixas_etarias": {
     "Base (Sub)": 4
    },
-   "posicao_brasil": 462,
-   "posicao_estado": 25,
+   "posicao_brasil": 459,
+   "posicao_estado": 23,
    "id": "cnec-colegio-cenecista-frederico-michaelsen"
   },
   {
@@ -26957,7 +26783,7 @@
    "faixas_etarias": {
     "Base (Sub)": 4
    },
-   "posicao_brasil": 463,
+   "posicao_brasil": 460,
    "posicao_estado": 39,
    "id": "escola-sesi-tijuca"
   },
@@ -27013,8 +26839,8 @@
    "faixas_etarias": {
     "Base (Sub)": 4
    },
-   "posicao_brasil": 464,
-   "posicao_estado": 26,
+   "posicao_brasil": 461,
+   "posicao_estado": 24,
    "id": "associacao-educadora-sao-carlos"
   },
   {
@@ -27069,7 +26895,7 @@
    "faixas_etarias": {
     "Base (Sub)": 4
    },
-   "posicao_brasil": 465,
+   "posicao_brasil": 462,
    "posicao_estado": 6,
    "id": "proposito-leste-iii"
   },
@@ -27125,7 +26951,7 @@
    "faixas_etarias": {
     "Base (Sub)": 4
    },
-   "posicao_brasil": 466,
+   "posicao_brasil": 463,
    "posicao_estado": 40,
    "id": "centro-educacional-luiz-de-camoes"
   },
@@ -27181,7 +27007,7 @@
    "faixas_etarias": {
     "Base (Sub)": 4
    },
-   "posicao_brasil": 467,
+   "posicao_brasil": 464,
    "posicao_estado": 13,
    "id": "senador-la-rocque"
   },
@@ -27237,7 +27063,7 @@
    "faixas_etarias": {
     "Base (Sub)": 4
    },
-   "posicao_brasil": 468,
+   "posicao_brasil": 465,
    "posicao_estado": 6,
    "id": "eti-monsenhor-pedro-pereira-piagem"
   },
@@ -27294,7 +27120,7 @@
     "Master": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 469,
+   "posicao_brasil": 466,
    "posicao_estado": 24,
    "id": "associacao-dos-mesatenistas-de-matinhos-pr"
   },
@@ -27350,8 +27176,8 @@
    "faixas_etarias": {
     "Base (Sub)": 4
    },
-   "posicao_brasil": 470,
-   "posicao_estado": 164,
+   "posicao_brasil": 467,
+   "posicao_estado": 163,
    "id": "clube-mogiano-liga-sp"
   },
   {
@@ -27407,8 +27233,8 @@
     "Master": 4,
     "Absoluto": 2
    },
-   "posicao_brasil": 471,
-   "posicao_estado": 165,
+   "posicao_brasil": 468,
+   "posicao_estado": 164,
    "id": "associacao-showa-liga-sp"
   },
   {
@@ -27463,8 +27289,8 @@
    "faixas_etarias": {
     "Base (Sub)": 4
    },
-   "posicao_brasil": 472,
-   "posicao_estado": 27,
+   "posicao_brasil": 469,
+   "posicao_estado": 25,
    "id": "universidade-federal-do-pampa-unipampa"
   },
   {
@@ -27520,7 +27346,7 @@
     "Base (Sub)": 4,
     "Absoluto": 1
    },
-   "posicao_brasil": 473,
+   "posicao_brasil": 470,
    "posicao_estado": 25,
    "id": "clube-duque-de-caxias-curitiba-pr"
   },
@@ -27577,7 +27403,7 @@
     "Base (Sub)": 3,
     "Absoluto": 2
    },
-   "posicao_brasil": 474,
+   "posicao_brasil": 471,
    "posicao_estado": 7,
    "id": "assoc-dos-docentes-univ-fed-do-piaui-pi"
   },
@@ -27634,7 +27460,7 @@
     "Adulto": 2,
     "Absoluto": 3
    },
-   "posicao_brasil": 475,
+   "posicao_brasil": 472,
    "posicao_estado": 7,
    "id": "instituto-oseias-performance-ltda-to"
   },
@@ -27692,7 +27518,7 @@
     "Absoluto": 2,
     "Master": 1
    },
-   "posicao_brasil": 476,
+   "posicao_brasil": 473,
    "posicao_estado": 11,
    "id": "apcef-manaus-am"
   },
@@ -27746,13 +27572,13 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 2,
     "Master": 1,
+    "Absoluto": 2,
     "Base (Sub)": 1,
     "Adulto": 1
    },
-   "posicao_brasil": 477,
-   "posicao_estado": 166,
+   "posicao_brasil": 474,
+   "posicao_estado": 165,
    "id": "concept-pong-clube-de-tenis-de-mesa-liga-sp"
   },
   {
@@ -27808,7 +27634,7 @@
     "Base (Sub)": 2,
     "Absoluto": 1
    },
-   "posicao_brasil": 478,
+   "posicao_brasil": 475,
    "posicao_estado": 14,
    "id": "presidente-dutra"
   },
@@ -27864,8 +27690,8 @@
    "faixas_etarias": {
     "Absoluto": 3
    },
-   "posicao_brasil": 479,
-   "posicao_estado": 167,
+   "posicao_brasil": 476,
+   "posicao_estado": 166,
    "id": "hajime-liga-sp"
   },
   {
@@ -27920,8 +27746,8 @@
    "faixas_etarias": {
     "Master": 3
    },
-   "posicao_brasil": 480,
-   "posicao_estado": 168,
+   "posicao_brasil": 477,
+   "posicao_estado": 167,
    "id": "associacao-atletica-academica-fernando-costa-a-a-a-f-c-mztt-pirassununga-sp"
   },
   {
@@ -27976,8 +27802,8 @@
    "faixas_etarias": {
     "Base (Sub)": 3
    },
-   "posicao_brasil": 481,
-   "posicao_estado": 28,
+   "posicao_brasil": 478,
+   "posicao_estado": 26,
    "id": "assoc-cult-e-recreativa-de-nova-petropolis-rs"
   },
   {
@@ -28030,12 +27856,12 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 1,
     "Master": 1,
+    "Absoluto": 1,
     "Base (Sub)": 2
    },
-   "posicao_brasil": 482,
-   "posicao_estado": 169,
+   "posicao_brasil": 479,
+   "posicao_estado": 168,
    "id": "amarena-sports-liga"
   },
   {
@@ -28092,8 +27918,8 @@
     "Absoluto": 2,
     "Master": 1
    },
-   "posicao_brasil": 483,
-   "posicao_estado": 170,
+   "posicao_brasil": 480,
+   "posicao_estado": 169,
    "id": "joy-tenis-de-mesa-liga-sp"
   },
   {
@@ -28148,7 +27974,7 @@
    "faixas_etarias": {
     "Base (Sub)": 3
    },
-   "posicao_brasil": 484,
+   "posicao_brasil": 481,
    "posicao_estado": 15,
    "id": "carolina"
   },
@@ -28205,7 +28031,7 @@
     "Base (Sub)": 2,
     "Absoluto": 1
    },
-   "posicao_brasil": 485,
+   "posicao_brasil": 482,
    "posicao_estado": 16,
    "id": "sao-luis"
   },
@@ -28262,9 +28088,65 @@
     "Base (Sub)": 3,
     "Absoluto": 1
    },
-   "posicao_brasil": 486,
-   "posicao_estado": 29,
+   "posicao_brasil": 483,
+   "posicao_estado": 27,
    "id": "escola-estadual-de-ensino-medio-paulo-frontin"
+  },
+  {
+   "nome": "SOCIEDADE PORVIR CIENTÍFICO LA SALLE SÃO JOÃO",
+   "nome_cbtm": "SOCIEDADE PORVIR CIENTÍFICO LA SALLE SÃO JOÃO",
+   "uf": "RS",
+   "origem_uf": "atletas",
+   "atletas_ativos": 3,
+   "atletas_masculino": 3,
+   "atletas_feminino": 0,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 6,
+   "top100_rating": 0,
+   "forca": 90.9,
+   "elite": 4.1,
+   "profundidade": 0.0,
+   "volume": 35.3,
+   "forca_masculino": 90.9,
+   "forca_feminino": 0,
+   "rating_medio_masculino": 295,
+   "rating_mediano_masculino": 236,
+   "rating_medio_feminino": null,
+   "rating_mediano_feminino": null,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 0,
+    "L": 1,
+    "M": 0,
+    "N": 0,
+    "O": 2
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 0
+   },
+   "faixas_etarias": {
+    "Base (Sub)": 3
+   },
+   "posicao_brasil": 484,
+   "posicao_estado": 28,
+   "id": "sociedade-porvir-cientifico-la-salle-sao-joao"
   },
   {
    "nome": "ASSOCIAÇÃO ESPONTÂNEA DE TÊNIS DE MESA GET.TT",
@@ -28319,7 +28201,7 @@
     "Base (Sub)": 2,
     "Absoluto": 1
    },
-   "posicao_brasil": 487,
+   "posicao_brasil": 485,
    "posicao_estado": 25,
    "id": "associacao-espontanea-de-tenis-de-mesa-get-tt-mg"
   },
@@ -28375,7 +28257,7 @@
    "faixas_etarias": {
     "Base (Sub)": 3
    },
-   "posicao_brasil": 488,
+   "posicao_brasil": 486,
    "posicao_estado": 17,
    "id": "ifma-campus-sao-luis-monte-castelo"
   },
@@ -28431,8 +28313,8 @@
    "faixas_etarias": {
     "Absoluto": 3
    },
-   "posicao_brasil": 489,
-   "posicao_estado": 171,
+   "posicao_brasil": 487,
+   "posicao_estado": 170,
    "id": "tmufabc-sp-liga"
   },
   {
@@ -28488,8 +28370,8 @@
     "Adulto": 2,
     "Base (Sub)": 1
    },
-   "posicao_brasil": 490,
-   "posicao_estado": 172,
+   "posicao_brasil": 488,
+   "posicao_estado": 171,
    "id": "nstm-itatinga"
   },
   {
@@ -28544,7 +28426,7 @@
    "faixas_etarias": {
     "Base (Sub)": 3
    },
-   "posicao_brasil": 491,
+   "posicao_brasil": 489,
    "posicao_estado": 18,
    "id": "colegio-adventista"
   },
@@ -28600,7 +28482,7 @@
    "faixas_etarias": {
     "Base (Sub)": 3
    },
-   "posicao_brasil": 492,
+   "posicao_brasil": 490,
    "posicao_estado": 8,
    "id": "proposito-centro-i"
   },
@@ -28657,8 +28539,8 @@
     "Master": 2,
     "Base (Sub)": 1
    },
-   "posicao_brasil": 493,
-   "posicao_estado": 173,
+   "posicao_brasil": 491,
+   "posicao_estado": 172,
    "id": "okinawa-de-santa-clara-tenis-de-mesa-liga-sp"
   },
   {
@@ -28714,7 +28596,7 @@
     "Adulto": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 494,
+   "posicao_brasil": 492,
    "posicao_estado": 41,
    "id": "calderano-tm-rj"
   },
@@ -28770,7 +28652,7 @@
    "faixas_etarias": {
     "Base (Sub)": 3
    },
-   "posicao_brasil": 495,
+   "posicao_brasil": 493,
    "posicao_estado": 19,
    "id": "vargem-grande"
   },
@@ -28827,7 +28709,7 @@
     "Base (Sub)": 2,
     "Master": 1
    },
-   "posicao_brasil": 496,
+   "posicao_brasil": 494,
    "posicao_estado": 26,
    "id": "assoc-mariana-de-assist-crianca-e-ao-adolescente-mg"
   },
@@ -28883,8 +28765,8 @@
    "faixas_etarias": {
     "Base (Sub)": 3
    },
-   "posicao_brasil": 497,
-   "posicao_estado": 30,
+   "posicao_brasil": 495,
+   "posicao_estado": 29,
    "id": "colegio-militar-de-santa-maria"
   },
   {
@@ -28940,8 +28822,8 @@
     "Master": 2,
     "Absoluto": 1
    },
-   "posicao_brasil": 498,
-   "posicao_estado": 174,
+   "posicao_brasil": 496,
+   "posicao_estado": 173,
    "id": "grupo-de-apoio-e-amparo-a-juventude-roseirense-liga-sp"
   },
   {
@@ -28997,7 +28879,7 @@
     "Base (Sub)": 3,
     "Absoluto": 3
    },
-   "posicao_brasil": 499,
+   "posicao_brasil": 497,
    "posicao_estado": 27,
    "id": "associacao-espontanea-de-tenis-de-mesa-popott-mg"
   },
@@ -29051,11 +28933,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 1,
     "Master": 1,
+    "Absoluto": 1,
     "Base (Sub)": 1
    },
-   "posicao_brasil": 500,
+   "posicao_brasil": 498,
    "posicao_estado": 8,
    "id": "igreja-batista-emanuel"
   },
@@ -29111,7 +28993,7 @@
    "faixas_etarias": {
     "Master": 1
    },
-   "posicao_brasil": 501,
+   "posicao_brasil": 499,
    "posicao_estado": 28,
    "id": "aabb-juiz-de-fora-mg"
   },
@@ -29168,8 +29050,8 @@
     "Master": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 502,
-   "posicao_estado": 175,
+   "posicao_brasil": 500,
+   "posicao_estado": 174,
    "id": "fabricio-silva-tt-liga-sp"
   },
   {
@@ -29224,8 +29106,8 @@
    "faixas_etarias": {
     "Master": 2
    },
-   "posicao_brasil": 503,
-   "posicao_estado": 176,
+   "posicao_brasil": 501,
+   "posicao_estado": 175,
    "id": "associacao-riopretense-de-tenis-de-mesa-liga-sp"
   },
   {
@@ -29281,7 +29163,7 @@
     "Base (Sub)": 2,
     "Absoluto": 2
    },
-   "posicao_brasil": 504,
+   "posicao_brasil": 502,
    "posicao_estado": 29,
    "id": "associacao-espontanea-de-tenis-de-mesa-de-pouso-alegre-mg"
   },
@@ -29337,8 +29219,8 @@
    "faixas_etarias": {
     "Master": 2
    },
-   "posicao_brasil": 505,
-   "posicao_estado": 177,
+   "posicao_brasil": 503,
+   "posicao_estado": 176,
    "id": "associacao-cultural-e-esportiva-jaguare"
   },
   {
@@ -29394,7 +29276,7 @@
     "Base (Sub)": 2,
     "Absoluto": 1
    },
-   "posicao_brasil": 506,
+   "posicao_brasil": 504,
    "posicao_estado": 20,
    "id": "escola-dom-pedro-ii"
   },
@@ -29448,11 +29330,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Adulto": 1,
     "Base (Sub)": 1,
-    "Absoluto": 1
+    "Absoluto": 1,
+    "Adulto": 1
    },
-   "posicao_brasil": 507,
+   "posicao_brasil": 505,
    "posicao_estado": 42,
    "id": "ce-vicente-jannuzzi"
   },
@@ -29509,7 +29391,7 @@
     "Base (Sub)": 2,
     "Absoluto": 1
    },
-   "posicao_brasil": 508,
+   "posicao_brasil": 506,
    "posicao_estado": 13,
    "id": "associacao-bongi-de-tenis-de-mesa-pe"
   },
@@ -29566,8 +29448,8 @@
     "Base (Sub)": 2,
     "Absoluto": 1
    },
-   "posicao_brasil": 509,
-   "posicao_estado": 178,
+   "posicao_brasil": 507,
+   "posicao_estado": 177,
    "id": "instituto-marcia-ferrari-osasco-tm-liga-sp"
   },
   {
@@ -29622,65 +29504,9 @@
    "faixas_etarias": {
     "Base (Sub)": 2
    },
-   "posicao_brasil": 510,
+   "posicao_brasil": 508,
    "posicao_estado": 21,
    "id": "santa-ines"
-  },
-  {
-   "nome": "COLÉGIO JOÃO PAULO - HIGIENÓPOLIS",
-   "nome_cbtm": "COLÉGIO JOÃO PAULO - HIGIENÓPOLIS",
-   "uf": "RS",
-   "origem_uf": "atletas",
-   "atletas_ativos": 2,
-   "atletas_masculino": 1,
-   "atletas_feminino": 1,
-   "atletas_paralimpicos": 0,
-   "atletas_cadastrados": 2,
-   "top100_rating": 0,
-   "forca": 69.7,
-   "elite": 2.8,
-   "profundidade": 0.0,
-   "volume": 27.9,
-   "forca_masculino": 41.5,
-   "forca_feminino": 42.9,
-   "rating_medio_masculino": 270,
-   "rating_mediano_masculino": 270,
-   "rating_medio_feminino": 304,
-   "rating_mediano_feminino": 304,
-   "classes_masculino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 0,
-    "J": 0,
-    "L": 0,
-    "M": 0,
-    "N": 1,
-    "O": 0
-   },
-   "classes_feminino": {
-    "A": 0,
-    "B": 0,
-    "C": 0,
-    "D": 0,
-    "E": 0,
-    "F": 0,
-    "G": 0,
-    "H": 0,
-    "I": 1,
-    "J": 0
-   },
-   "faixas_etarias": {
-    "Base (Sub)": 2
-   },
-   "posicao_brasil": 511,
-   "posicao_estado": 31,
-   "id": "colegio-joao-paulo-higienopolis"
   },
   {
    "nome": "COLÉGIO ANCHIETA",
@@ -29735,8 +29561,8 @@
     "Base (Sub)": 2,
     "Absoluto": 1
    },
-   "posicao_brasil": 512,
-   "posicao_estado": 32,
+   "posicao_brasil": 509,
+   "posicao_estado": 30,
    "id": "colegio-anchieta"
   },
   {
@@ -29789,10 +29615,10 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 1,
-    "Master": 1
+    "Master": 1,
+    "Absoluto": 1
    },
-   "posicao_brasil": 513,
+   "posicao_brasil": 510,
    "posicao_estado": 43,
    "id": "hebraica-rio-rj"
   },
@@ -29848,7 +29674,7 @@
    "faixas_etarias": {
     "Base (Sub)": 2
    },
-   "posicao_brasil": 514,
+   "posicao_brasil": 511,
    "posicao_estado": 44,
    "id": "higino-da-silveira"
   },
@@ -29906,8 +29732,8 @@
     "Adulto": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 515,
-   "posicao_estado": 179,
+   "posicao_brasil": 512,
+   "posicao_estado": 178,
    "id": "associacao-desportiva-campos-do-jordao-liga-sp"
   },
   {
@@ -29963,7 +29789,7 @@
     "Absoluto": 1,
     "Base (Sub)": 1
    },
-   "posicao_brasil": 516,
+   "posicao_brasil": 513,
    "posicao_estado": 26,
    "id": "backspin-tt-ltda"
   },
@@ -30019,8 +29845,8 @@
    "faixas_etarias": {
     "Base (Sub)": 2
    },
-   "posicao_brasil": 517,
-   "posicao_estado": 180,
+   "posicao_brasil": 514,
+   "posicao_estado": 179,
    "id": "cruzeirense-de-tenis-de-mesa-liga-sp"
   },
   {
@@ -30075,7 +29901,7 @@
    "faixas_etarias": {
     "Base (Sub)": 2
    },
-   "posicao_brasil": 518,
+   "posicao_brasil": 515,
    "posicao_estado": 45,
    "id": "escola-bilingue-serrana"
   },
@@ -30131,8 +29957,8 @@
    "faixas_etarias": {
     "Base (Sub)": 2
    },
-   "posicao_brasil": 519,
-   "posicao_estado": 181,
+   "posicao_brasil": 516,
+   "posicao_estado": 180,
    "id": "ipe-clube-sp"
   },
   {
@@ -30187,7 +30013,7 @@
    "faixas_etarias": {
     "Base (Sub)": 2
    },
-   "posicao_brasil": 520,
+   "posicao_brasil": 517,
    "posicao_estado": 3,
    "id": "roraima"
   },
@@ -30243,7 +30069,7 @@
    "faixas_etarias": {
     "Base (Sub)": 2
    },
-   "posicao_brasil": 521,
+   "posicao_brasil": 518,
    "posicao_estado": 22,
    "id": "cidelandia"
   },
@@ -30299,7 +30125,7 @@
    "faixas_etarias": {
     "Base (Sub)": 2
    },
-   "posicao_brasil": 522,
+   "posicao_brasil": 519,
    "posicao_estado": 8,
    "id": "escola-de-tempo-integral-senhor-domingos-da-cruz-machado"
   },
@@ -30356,8 +30182,8 @@
     "Base (Sub)": 1,
     "Master": 1
    },
-   "posicao_brasil": 523,
-   "posicao_estado": 182,
+   "posicao_brasil": 520,
+   "posicao_estado": 181,
    "id": "uniao-cult-esportiva-nipo-brasileira-sorocaba-liga-sp"
   },
   {
@@ -30412,7 +30238,7 @@
    "faixas_etarias": {
     "Base (Sub)": 2
    },
-   "posicao_brasil": 524,
+   "posicao_brasil": 521,
    "posicao_estado": 23,
    "id": "instituto-estadual-de-educacao-ciencia-e-tecnologia-do-ma-iema-pleno-sao-luis-rio-anil"
   },
@@ -30468,7 +30294,7 @@
    "faixas_etarias": {
     "Base (Sub)": 2
    },
-   "posicao_brasil": 525,
+   "posicao_brasil": 522,
    "posicao_estado": 24,
    "id": "buriticupu"
   },
@@ -30524,7 +30350,7 @@
    "faixas_etarias": {
     "Base (Sub)": 2
    },
-   "posicao_brasil": 526,
+   "posicao_brasil": 523,
    "posicao_estado": 25,
    "id": "sao-mateus-do-maranhao"
   },
@@ -30581,8 +30407,8 @@
     "Base (Sub)": 1,
     "Master": 1
    },
-   "posicao_brasil": 527,
-   "posicao_estado": 183,
+   "posicao_brasil": 524,
+   "posicao_estado": 182,
    "id": "c-e-e-senador-jose-ermirio-de-moraes-clube-curuca-liga-sp"
   },
   {
@@ -30635,10 +30461,10 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 1,
-    "Master": 1
+    "Master": 1,
+    "Absoluto": 1
    },
-   "posicao_brasil": 528,
+   "posicao_brasil": 525,
    "posicao_estado": 30,
    "id": "clube-dos-oficiais-da-policia-militar-de-minas-gerais"
   },
@@ -30694,7 +30520,7 @@
    "faixas_etarias": {
     "Base (Sub)": 2
    },
-   "posicao_brasil": 529,
+   "posicao_brasil": 526,
    "posicao_estado": 9,
    "id": "escola-municipal-de-tempo-integral-padre-josimo-tavares"
   },
@@ -30750,8 +30576,8 @@
    "faixas_etarias": {
     "Base (Sub)": 2
    },
-   "posicao_brasil": 530,
-   "posicao_estado": 33,
+   "posicao_brasil": 527,
+   "posicao_estado": 31,
    "id": "escola-estadual-de-ensino-fundamental-erico-verissimo"
   },
   {
@@ -30804,10 +30630,10 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 2,
-    "Master": 1
+    "Master": 1,
+    "Absoluto": 2
    },
-   "posicao_brasil": 531,
+   "posicao_brasil": 528,
    "posicao_estado": 27,
    "id": "academia-gioppo-pr"
   },
@@ -30864,7 +30690,7 @@
     "Base (Sub)": 2,
     "Absoluto": 2
    },
-   "posicao_brasil": 532,
+   "posicao_brasil": 529,
    "posicao_estado": 36,
    "id": "associacao-sul-americana-de-esportes-cultura-turismo-e-lazer-sc"
   },
@@ -30920,8 +30746,8 @@
    "faixas_etarias": {
     "Base (Sub)": 2
    },
-   "posicao_brasil": 533,
-   "posicao_estado": 34,
+   "posicao_brasil": 530,
+   "posicao_estado": 32,
    "id": "escola-municipal-de-ensino-fundamental-progresso"
   },
   {
@@ -30976,7 +30802,7 @@
    "faixas_etarias": {
     "Absoluto": 2
    },
-   "posicao_brasil": 534,
+   "posicao_brasil": 531,
    "posicao_estado": 31,
    "id": "champions-esporte-clube-mg"
   },
@@ -31033,7 +30859,7 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 535,
+   "posicao_brasil": 532,
    "posicao_estado": 8,
    "id": "academia-de-tenis-de-mesa-luziania-go"
   },
@@ -31090,7 +30916,7 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 536,
+   "posicao_brasil": 533,
    "posicao_estado": 26,
    "id": "imperatriz"
   },
@@ -31144,11 +30970,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Adulto": 1,
     "Base (Sub)": 1,
-    "Absoluto": 1
+    "Absoluto": 1,
+    "Adulto": 1
    },
-   "posicao_brasil": 537,
+   "posicao_brasil": 534,
    "posicao_estado": 27,
    "id": "tenis-de-mesa-virtual-ma"
   },
@@ -31204,7 +31030,7 @@
    "faixas_etarias": {
     "Absoluto": 2
    },
-   "posicao_brasil": 538,
+   "posicao_brasil": 535,
    "posicao_estado": 10,
    "id": "akademia-clube-esportivo-sertanejo-ba"
   },
@@ -31261,7 +31087,7 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 539,
+   "posicao_brasil": 536,
    "posicao_estado": 28,
    "id": "sao-jose-de-ribamar"
   },
@@ -31317,7 +31143,7 @@
    "faixas_etarias": {
     "Master": 1
    },
-   "posicao_brasil": 540,
+   "posicao_brasil": 537,
    "posicao_estado": 32,
    "id": "aparu-mg"
   },
@@ -31373,7 +31199,7 @@
    "faixas_etarias": {
     "Master": 1
    },
-   "posicao_brasil": 541,
+   "posicao_brasil": 538,
    "posicao_estado": 28,
    "id": "cascavel-tenis-de-mesa-pr"
   },
@@ -31427,11 +31253,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 1,
-    "Master": 1
+    "Master": 1,
+    "Absoluto": 1
    },
-   "posicao_brasil": 542,
-   "posicao_estado": 184,
+   "posicao_brasil": 539,
+   "posicao_estado": 183,
    "id": "dobrada-tm-liga-sp"
   },
   {
@@ -31487,7 +31313,7 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 543,
+   "posicao_brasil": 540,
    "posicao_estado": 46,
    "id": "colegio-nos"
   },
@@ -31544,7 +31370,7 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 544,
+   "posicao_brasil": 541,
    "posicao_estado": 9,
    "id": "great-internacional"
   },
@@ -31601,7 +31427,7 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 545,
+   "posicao_brasil": 542,
    "posicao_estado": 29,
    "id": "ce-novo-millenium"
   },
@@ -31658,7 +31484,7 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 546,
+   "posicao_brasil": 543,
    "posicao_estado": 14,
    "id": "associacao-de-tenis-de-mesa-do-careca-pe"
   },
@@ -31714,8 +31540,8 @@
    "faixas_etarias": {
     "Master": 1
    },
-   "posicao_brasil": 547,
-   "posicao_estado": 185,
+   "posicao_brasil": 544,
+   "posicao_estado": 184,
    "id": "associacao-recreativa-e-beneficente-nipo-brasileira-de-campo-limpo-paulista-sp"
   },
   {
@@ -31770,8 +31596,8 @@
    "faixas_etarias": {
     "Master": 1
    },
-   "posicao_brasil": 548,
-   "posicao_estado": 186,
+   "posicao_brasil": 545,
+   "posicao_estado": 185,
    "id": "associacao-nikkey-sao-jose-dos-campos-sp"
   },
   {
@@ -31824,11 +31650,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 1,
-    "Master": 1
+    "Master": 1,
+    "Absoluto": 1
    },
-   "posicao_brasil": 549,
-   "posicao_estado": 187,
+   "posicao_brasil": 546,
+   "posicao_estado": 186,
    "id": "tenis-de-mesa-ceu-uirapuru-liga-sp"
   },
   {
@@ -31883,8 +31709,8 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 550,
-   "posicao_estado": 35,
+   "posicao_brasil": 547,
+   "posicao_estado": 33,
    "id": "colegio-sinodal-rui-barbosa"
   },
   {
@@ -31940,8 +31766,8 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 551,
-   "posicao_estado": 188,
+   "posicao_brasil": 548,
+   "posicao_estado": 187,
    "id": "colegio-singular-sao-caetano-sp-liga"
   },
   {
@@ -31996,7 +31822,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 552,
+   "posicao_brasil": 549,
    "posicao_estado": 30,
    "id": "rf-educacao"
   },
@@ -32052,7 +31878,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 553,
+   "posicao_brasil": 550,
    "posicao_estado": 31,
    "id": "balsas"
   },
@@ -32109,8 +31935,8 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 554,
-   "posicao_estado": 36,
+   "posicao_brasil": 551,
+   "posicao_estado": 34,
    "id": "escola-instituto-rio-branco-rs"
   },
   {
@@ -32166,8 +31992,8 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 555,
-   "posicao_estado": 37,
+   "posicao_brasil": 552,
+   "posicao_estado": 35,
    "id": "free-pong-esportes"
   },
   {
@@ -32223,8 +32049,8 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 556,
-   "posicao_estado": 38,
+   "posicao_brasil": 553,
+   "posicao_estado": 36,
    "id": "colegio-riachuelo-santa-maria"
   },
   {
@@ -32279,7 +32105,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 557,
+   "posicao_brasil": 554,
    "posicao_estado": 32,
    "id": "timon"
   },
@@ -32335,7 +32161,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 558,
+   "posicao_brasil": 555,
    "posicao_estado": 10,
    "id": "colegio-bernardo-sayao"
   },
@@ -32391,9 +32217,65 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 559,
+   "posicao_brasil": 556,
    "posicao_estado": 11,
    "id": "unidade-escolar-colegio-marista-palmas"
+  },
+  {
+   "nome": "INSTITUTO SOCIAL, CULTURAL E ESPORTIVO DE SERTÃOZINHO",
+   "nome_cbtm": "INSTITUTO SOCIAL, CULTURAL E ESPORTIVO DE SERTÃOZINHO-SP",
+   "uf": "SP",
+   "origem_uf": "atletas",
+   "atletas_ativos": 1,
+   "atletas_masculino": 0,
+   "atletas_feminino": 1,
+   "atletas_paralimpicos": 0,
+   "atletas_cadastrados": 27,
+   "top100_rating": 0,
+   "forca": 42.1,
+   "elite": 1.4,
+   "profundidade": 0.0,
+   "volume": 17.6,
+   "forca_masculino": 0,
+   "forca_feminino": 42.1,
+   "rating_medio_masculino": null,
+   "rating_mediano_masculino": null,
+   "rating_medio_feminino": 275,
+   "rating_mediano_feminino": 275,
+   "classes_masculino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 0,
+    "J": 0,
+    "L": 0,
+    "M": 0,
+    "N": 0,
+    "O": 0
+   },
+   "classes_feminino": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "E": 0,
+    "F": 0,
+    "G": 0,
+    "H": 0,
+    "I": 1,
+    "J": 0
+   },
+   "faixas_etarias": {
+    "Adulto": 1
+   },
+   "posicao_brasil": 557,
+   "posicao_estado": 188,
+   "id": "instituto-social-cultural-e-esportivo-de-sertaozinho-sp"
   },
   {
    "nome": "ALAGOAS",
@@ -32447,7 +32329,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 560,
+   "posicao_brasil": 558,
    "posicao_estado": 2,
    "id": "alagoas"
   },
@@ -32501,11 +32383,11 @@
     "J": 0
    },
    "faixas_etarias": {
-    "Absoluto": 1,
-    "Master": 1
+    "Master": 1,
+    "Absoluto": 1
    },
-   "posicao_brasil": 561,
-   "posicao_estado": 39,
+   "posicao_brasil": 559,
+   "posicao_estado": 37,
    "id": "associacao-esportiva-dimenores"
   },
   {
@@ -32560,8 +32442,8 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 562,
-   "posicao_estado": 40,
+   "posicao_brasil": 560,
+   "posicao_estado": 38,
    "id": "escola-municipal-de-ensino-fundamental-luiz-loeser"
   },
   {
@@ -32616,7 +32498,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 563,
+   "posicao_brasil": 561,
    "posicao_estado": 33,
    "id": "nova-olinda"
   },
@@ -32672,7 +32554,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 564,
+   "posicao_brasil": 562,
    "posicao_estado": 34,
    "id": "caxias"
   },
@@ -32728,7 +32610,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 565,
+   "posicao_brasil": 563,
    "posicao_estado": 35,
    "id": "dom-pedro"
   },
@@ -32784,7 +32666,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 566,
+   "posicao_brasil": 564,
    "posicao_estado": 36,
    "id": "itapecuru-mirim"
   },
@@ -32840,7 +32722,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 567,
+   "posicao_brasil": 565,
    "posicao_estado": 14,
    "id": "para"
   },
@@ -32897,7 +32779,7 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 568,
+   "posicao_brasil": 566,
    "posicao_estado": 37,
    "id": "ueb-alberto-pinheiro-conselho-escolar-alberto-pinheiro"
   },
@@ -32953,7 +32835,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 569,
+   "posicao_brasil": 567,
    "posicao_estado": 11,
    "id": "distrito-federal"
   },
@@ -33009,7 +32891,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 570,
+   "posicao_brasil": 568,
    "posicao_estado": 9,
    "id": "goias"
   },
@@ -33065,7 +32947,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 571,
+   "posicao_brasil": 569,
    "posicao_estado": 38,
    "id": "vitorino-freire"
   },
@@ -33122,7 +33004,7 @@
     "Adulto": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 572,
+   "posicao_brasil": 570,
    "posicao_estado": 189,
    "id": "aceni-associacao-cultural-beneficente-e-esportiva-nissei-liga-sp"
   },
@@ -33178,7 +33060,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 573,
+   "posicao_brasil": 571,
    "posicao_estado": 39,
    "id": "colegio-batista-maranhense"
   },
@@ -33234,7 +33116,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 574,
+   "posicao_brasil": 572,
    "posicao_estado": 40,
    "id": "colegio-dom-bosco"
   },
@@ -33290,7 +33172,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 575,
+   "posicao_brasil": 573,
    "posicao_estado": 41,
    "id": "colegio-literato"
   },
@@ -33346,7 +33228,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 576,
+   "posicao_brasil": 574,
    "posicao_estado": 42,
    "id": "iema-pleno-sao-luis-itaqui-bacanga"
   },
@@ -33402,7 +33284,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 577,
+   "posicao_brasil": 575,
    "posicao_estado": 12,
    "id": "servico-social-da-industria-sesi-departamento-regional-do-tocantins"
   },
@@ -33458,7 +33340,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 578,
+   "posicao_brasil": 576,
    "posicao_estado": 43,
    "id": "sesi-sao-luis"
   },
@@ -33514,7 +33396,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 579,
+   "posicao_brasil": 577,
    "posicao_estado": 44,
    "id": "viana"
   },
@@ -33570,7 +33452,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 580,
+   "posicao_brasil": 578,
    "posicao_estado": 45,
    "id": "olho-d-agua-das-cunhas"
   },
@@ -33627,7 +33509,7 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 581,
+   "posicao_brasil": 579,
    "posicao_estado": 33,
    "id": "associacao-espontanea-de-tenis-de-mesa-aatm-mg"
   },
@@ -33683,7 +33565,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 582,
+   "posicao_brasil": 580,
    "posicao_estado": 190,
    "id": "circulo-militar-de-campinas"
   },
@@ -33739,8 +33621,8 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 583,
-   "posicao_estado": 41,
+   "posicao_brasil": 581,
+   "posicao_estado": 39,
    "id": "colegio-nossa-senhora-medianeira"
   },
   {
@@ -33795,8 +33677,8 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 584,
-   "posicao_estado": 42,
+   "posicao_brasil": 582,
+   "posicao_estado": 40,
    "id": "ecovox-i-e"
   },
   {
@@ -33851,8 +33733,8 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 585,
-   "posicao_estado": 43,
+   "posicao_brasil": 583,
+   "posicao_estado": 41,
    "id": "escola-municipal-de-ensino-fundamental-joao-xxiii"
   },
   {
@@ -33908,8 +33790,8 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 586,
-   "posicao_estado": 44,
+   "posicao_brasil": 584,
+   "posicao_estado": 42,
    "id": "apm-da-emef-padre-reus"
   },
   {
@@ -33964,7 +33846,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 587,
+   "posicao_brasil": 585,
    "posicao_estado": 46,
    "id": "centro-educacional-dr-clarindo-santiago"
   },
@@ -34020,7 +33902,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 588,
+   "posicao_brasil": 586,
    "posicao_estado": 47,
    "id": "centro-novo-do-maranhao"
   },
@@ -34076,7 +33958,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 589,
+   "posicao_brasil": 587,
    "posicao_estado": 47,
    "id": "ciph-centro-integrado-de-performance-humana"
   },
@@ -34133,8 +34015,8 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 590,
-   "posicao_estado": 45,
+   "posicao_brasil": 588,
+   "posicao_estado": 43,
    "id": "colegio-estadual-tiradentes-da-brigada-militar-de-ijui"
   },
   {
@@ -34189,7 +34071,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 591,
+   "posicao_brasil": 589,
    "posicao_estado": 13,
    "id": "escola-estadual-professora-elizangela-gloria-cardoso"
   },
@@ -34245,8 +34127,8 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 592,
-   "posicao_estado": 46,
+   "posicao_brasil": 590,
+   "posicao_estado": 44,
    "id": "instituto-federal-farroupilha"
   },
   {
@@ -34301,7 +34183,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 593,
+   "posicao_brasil": 591,
    "posicao_estado": 48,
    "id": "audaz-colegio"
   },
@@ -34357,7 +34239,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 594,
+   "posicao_brasil": 592,
    "posicao_estado": 49,
    "id": "centro-educa-mais-professor-mario-martins-meireles"
   },
@@ -34413,7 +34295,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 595,
+   "posicao_brasil": 593,
    "posicao_estado": 50,
    "id": "colegio-adventista-da-cohab"
   },
@@ -34469,7 +34351,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 596,
+   "posicao_brasil": 594,
    "posicao_estado": 51,
    "id": "colegio-universitario-colun-ufma"
   },
@@ -34525,7 +34407,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 597,
+   "posicao_brasil": 595,
    "posicao_estado": 52,
    "id": "fortaleza-dos-nogueiras"
   },
@@ -34581,7 +34463,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 598,
+   "posicao_brasil": 596,
    "posicao_estado": 53,
    "id": "centro-educa-mais-professora-margarida-pires-leal"
   },
@@ -34637,8 +34519,8 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 599,
-   "posicao_estado": 47,
+   "posicao_brasil": 597,
+   "posicao_estado": 45,
    "id": "emef-marechal-candido-rondon"
   },
   {
@@ -34693,8 +34575,8 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 600,
-   "posicao_estado": 48,
+   "posicao_brasil": 598,
+   "posicao_estado": 46,
    "id": "emef-aguas-brancas"
   },
   {
@@ -34749,7 +34631,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 601,
+   "posicao_brasil": 599,
    "posicao_estado": 12,
    "id": "centro-de-iniciacao-desportiva-de-tenis-de-mesa-df"
   },
@@ -34805,8 +34687,8 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 602,
-   "posicao_estado": 49,
+   "posicao_brasil": 600,
+   "posicao_estado": 47,
    "id": "colegio-antonio-alves-ramos-pallotti"
   },
   {
@@ -34862,8 +34744,8 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 603,
-   "posicao_estado": 50,
+   "posicao_brasil": 601,
+   "posicao_estado": 48,
    "id": "colegio-la-salle-carmo-soc-porvir-cientifico"
   },
   {
@@ -34918,7 +34800,7 @@
    "faixas_etarias": {
     "Base (Sub)": 1
    },
-   "posicao_brasil": 604,
+   "posicao_brasil": 602,
    "posicao_estado": 6,
    "id": "clube-de-natacao-e-regatas-alvares-cabral-es"
   },
@@ -34974,7 +34856,7 @@
    "faixas_etarias": {
     "Adulto": 1
    },
-   "posicao_brasil": 605,
+   "posicao_brasil": 603,
    "posicao_estado": 191,
    "id": "medicina-sao-caetano-liga-sp"
   },
@@ -35031,7 +34913,7 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 606,
+   "posicao_brasil": 604,
    "posicao_estado": 10,
    "id": "educandario-santa-maria-goretti"
   },
@@ -35088,7 +34970,7 @@
     "Base (Sub)": 1,
     "Absoluto": 1
    },
-   "posicao_brasil": 607,
+   "posicao_brasil": 605,
    "posicao_estado": 54,
    "id": "escola-portal-do-saber"
   },
@@ -35144,7 +35026,7 @@
    "faixas_etarias": {
     "Master": 1
    },
-   "posicao_brasil": 608,
+   "posicao_brasil": 606,
    "posicao_estado": 9,
    "id": "sociedade-vida-ativa-sport-club"
   }
@@ -35157,11 +35039,11 @@
     "nome_cbtm": "FEDERAÇÃO DE TÊNIS DE MESA DO ESTADO DE SÃO PAULO - SP",
     "uf": "SP",
     "origem_uf": "atletas",
-    "atletas_ativos": 138,
-    "atletas_masculino": 109,
+    "atletas_ativos": 140,
+    "atletas_masculino": 111,
     "atletas_feminino": 29,
     "atletas_paralimpicos": 0,
-    "atletas_cadastrados": 1510,
+    "atletas_cadastrados": 1511,
     "top100_rating": 0,
     "forca": 257.9,
     "elite": 7.6,
@@ -35187,7 +35069,7 @@
      "L": 0,
      "M": 1,
      "N": 25,
-     "O": 83
+     "O": 85
     },
     "classes_feminino": {
      "A": 0,
@@ -35202,8 +35084,8 @@
      "J": 24
     },
     "faixas_etarias": {
-     "Base (Sub)": 68,
-     "Absoluto": 45,
+     "Base (Sub)": 69,
+     "Absoluto": 47,
      "Adulto": 6,
      "Master": 33
     },
@@ -35260,7 +35142,7 @@
     },
     "faixas_etarias": {
      "Base (Sub)": 78,
-     "Absoluto": 7,
+     "Absoluto": 8,
      "Master": 2
     },
     "id": "federacao-maranhense-de-tenis-de-mesa-ma"
@@ -35316,9 +35198,9 @@
     },
     "faixas_etarias": {
      "Base (Sub)": 29,
+     "Adulto": 1,
      "Absoluto": 7,
-     "Master": 4,
-     "Adulto": 1
+     "Master": 4
     },
     "id": "federacao-esport-e-paradesport-de-t-m-do-rio-grande-do-sul-rs"
    },
@@ -35331,7 +35213,7 @@
     "atletas_masculino": 26,
     "atletas_feminino": 6,
     "atletas_paralimpicos": 0,
-    "atletas_cadastrados": 282,
+    "atletas_cadastrados": 281,
     "top100_rating": 0,
     "forca": 229.0,
     "elite": 6.8,
@@ -35372,8 +35254,8 @@
      "J": 5
     },
     "faixas_etarias": {
-     "Absoluto": 10,
      "Master": 7,
+     "Absoluto": 10,
      "Base (Sub)": 25
     },
     "id": "federacao-catarinense-de-tenis-de-mesa-sc"
@@ -35434,6 +35316,63 @@
     "id": "federacao-de-tenis-de-mesa-do-parana-pr"
    },
    {
+    "nome": "FEDERAÇÃO MINEIRA DE T.M. OLIMPICO E PARALIMPICA",
+    "nome_cbtm": "FEDERAÇÃO MINEIRA DE T.M. OLIMPICO E PARALIMPICA - MG",
+    "uf": "MG",
+    "origem_uf": "atletas",
+    "atletas_ativos": 22,
+    "atletas_masculino": 15,
+    "atletas_feminino": 7,
+    "atletas_paralimpicos": 0,
+    "atletas_cadastrados": 374,
+    "top100_rating": 0,
+    "forca": 211.2,
+    "elite": 6.8,
+    "profundidade": 6.0,
+    "volume": 79.7,
+    "forca_masculino": 188.8,
+    "forca_feminino": 141.1,
+    "rating_medio_masculino": 241,
+    "rating_mediano_masculino": 248,
+    "rating_medio_feminino": 251,
+    "rating_mediano_feminino": 250,
+    "classes_masculino": {
+     "A": 0,
+     "B": 0,
+     "C": 0,
+     "D": 0,
+     "E": 0,
+     "F": 0,
+     "G": 0,
+     "H": 0,
+     "I": 0,
+     "J": 0,
+     "L": 0,
+     "M": 0,
+     "N": 3,
+     "O": 12
+    },
+    "classes_feminino": {
+     "A": 0,
+     "B": 0,
+     "C": 0,
+     "D": 0,
+     "E": 0,
+     "F": 0,
+     "G": 0,
+     "H": 0,
+     "I": 2,
+     "J": 5
+    },
+    "faixas_etarias": {
+     "Base (Sub)": 16,
+     "Adulto": 2,
+     "Absoluto": 9,
+     "Master": 4
+    },
+    "id": "federacao-mineira-de-t-m-olimpico-e-paralimpica-mg"
+   },
+   {
     "nome": "FEDERAÇÃO DOS MESATENISTAS DO CEARÁ",
     "nome_cbtm": "FEDERAÇÃO DOS MESATENISTAS DO CEARÁ - CE",
     "uf": "CE",
@@ -35483,8 +35422,8 @@
      "J": 5
     },
     "faixas_etarias": {
-     "Absoluto": 11,
      "Master": 5,
+     "Absoluto": 11,
      "Base (Sub)": 8,
      "Adulto": 1
     },
@@ -35544,63 +35483,6 @@
      "Absoluto": 7
     },
     "id": "federacao-de-tenis-de-mesa-do-piaui-pi"
-   },
-   {
-    "nome": "FEDERAÇÃO MINEIRA DE T.M. OLIMPICO E PARALIMPICA",
-    "nome_cbtm": "FEDERAÇÃO MINEIRA DE T.M. OLIMPICO E PARALIMPICA - MG",
-    "uf": "MG",
-    "origem_uf": "atletas",
-    "atletas_ativos": 21,
-    "atletas_masculino": 15,
-    "atletas_feminino": 6,
-    "atletas_paralimpicos": 0,
-    "atletas_cadastrados": 374,
-    "top100_rating": 0,
-    "forca": 208.8,
-    "elite": 6.8,
-    "profundidade": 5.9,
-    "volume": 78.6,
-    "forca_masculino": 188.8,
-    "forca_feminino": 132.4,
-    "rating_medio_masculino": 241,
-    "rating_mediano_masculino": 248,
-    "rating_medio_feminino": 251,
-    "rating_mediano_feminino": 250,
-    "classes_masculino": {
-     "A": 0,
-     "B": 0,
-     "C": 0,
-     "D": 0,
-     "E": 0,
-     "F": 0,
-     "G": 0,
-     "H": 0,
-     "I": 0,
-     "J": 0,
-     "L": 0,
-     "M": 0,
-     "N": 3,
-     "O": 12
-    },
-    "classes_feminino": {
-     "A": 0,
-     "B": 0,
-     "C": 0,
-     "D": 0,
-     "E": 0,
-     "F": 0,
-     "G": 0,
-     "H": 0,
-     "I": 2,
-     "J": 4
-    },
-    "faixas_etarias": {
-     "Base (Sub)": 16,
-     "Absoluto": 8,
-     "Master": 4,
-     "Adulto": 1
-    },
-    "id": "federacao-mineira-de-t-m-olimpico-e-paralimpica-mg"
    },
    {
     "nome": "FEDERAÇÃO DE TÊNIS DE MESA DO AMAZONAS",
@@ -35712,63 +35594,6 @@
      "Master": 5
     },
     "id": "federacao-de-t-m-do-estado-do-rio-de-janeiro-rj"
-   },
-   {
-    "nome": "FEDERAÇÃO RONDONIENSE DE TÊNIS DE MESA",
-    "nome_cbtm": "FEDERAÇÃO RONDONIENSE DE TÊNIS DE MESA-RO",
-    "uf": "RO",
-    "origem_uf": "atletas",
-    "atletas_ativos": 14,
-    "atletas_masculino": 6,
-    "atletas_feminino": 8,
-    "atletas_paralimpicos": 0,
-    "atletas_cadastrados": 135,
-    "top100_rating": 0,
-    "forca": 185.6,
-    "elite": 6.4,
-    "profundidade": 5.3,
-    "volume": 68.9,
-    "forca_masculino": 129.5,
-    "forca_feminino": 149.4,
-    "rating_medio_masculino": 248,
-    "rating_mediano_masculino": 250,
-    "rating_medio_feminino": 253,
-    "rating_mediano_feminino": 250,
-    "classes_masculino": {
-     "A": 0,
-     "B": 0,
-     "C": 0,
-     "D": 0,
-     "E": 0,
-     "F": 0,
-     "G": 0,
-     "H": 0,
-     "I": 0,
-     "J": 0,
-     "L": 0,
-     "M": 0,
-     "N": 0,
-     "O": 6
-    },
-    "classes_feminino": {
-     "A": 0,
-     "B": 0,
-     "C": 0,
-     "D": 0,
-     "E": 0,
-     "F": 0,
-     "G": 0,
-     "H": 0,
-     "I": 1,
-     "J": 7
-    },
-    "faixas_etarias": {
-     "Absoluto": 5,
-     "Master": 1,
-     "Base (Sub)": 11,
-     "Adulto": 1
-    },
-    "id": "federacao-rondoniense-de-tenis-de-mesa-ro"
    },
    {
     "nome": "FEDERAÇÃO DE TÊNIS DE MESA DO MATO GROSSO DO SUL",
@@ -35934,8 +35759,8 @@
     },
     "faixas_etarias": {
      "Base (Sub)": 6,
-     "Absoluto": 9,
-     "Master": 5
+     "Master": 5,
+     "Absoluto": 9
     },
     "id": "federacao-de-tenis-de-mesa-do-para-pa"
    },
@@ -35989,12 +35814,69 @@
      "J": 3
     },
     "faixas_etarias": {
-     "Adulto": 2,
-     "Master": 1,
      "Base (Sub)": 9,
+     "Master": 1,
+     "Adulto": 2,
      "Absoluto": 2
     },
     "id": "federacao-do-tocantins-de-tenis-de-mesa-to"
+   },
+   {
+    "nome": "FEDERAÇÃO RONDONIENSE DE TÊNIS DE MESA",
+    "nome_cbtm": "FEDERAÇÃO RONDONIENSE DE TÊNIS DE MESA-RO",
+    "uf": "RO",
+    "origem_uf": "atletas",
+    "atletas_ativos": 11,
+    "atletas_masculino": 6,
+    "atletas_feminino": 5,
+    "atletas_paralimpicos": 0,
+    "atletas_cadastrados": 135,
+    "top100_rating": 0,
+    "forca": 168.7,
+    "elite": 6.4,
+    "profundidade": 3.4,
+    "volume": 63.2,
+    "forca_masculino": 129.5,
+    "forca_feminino": 123.1,
+    "rating_medio_masculino": 248,
+    "rating_mediano_masculino": 250,
+    "rating_medio_feminino": 255,
+    "rating_mediano_feminino": 250,
+    "classes_masculino": {
+     "A": 0,
+     "B": 0,
+     "C": 0,
+     "D": 0,
+     "E": 0,
+     "F": 0,
+     "G": 0,
+     "H": 0,
+     "I": 0,
+     "J": 0,
+     "L": 0,
+     "M": 0,
+     "N": 0,
+     "O": 6
+    },
+    "classes_feminino": {
+     "A": 0,
+     "B": 0,
+     "C": 0,
+     "D": 0,
+     "E": 0,
+     "F": 0,
+     "G": 0,
+     "H": 0,
+     "I": 1,
+     "J": 4
+    },
+    "faixas_etarias": {
+     "Master": 1,
+     "Absoluto": 5,
+     "Base (Sub)": 8,
+     "Adulto": 1
+    },
+    "id": "federacao-rondoniense-de-tenis-de-mesa-ro"
    },
    {
     "nome": "FEDERAÇÃO DE TÊNIS DE MESA DO DISTRITO FEDERAL",
@@ -36005,7 +35887,7 @@
     "atletas_masculino": 8,
     "atletas_feminino": 0,
     "atletas_paralimpicos": 0,
-    "atletas_cadastrados": 97,
+    "atletas_cadastrados": 98,
     "top100_rating": 0,
     "forca": 147.0,
     "elite": 6.1,
@@ -36158,8 +36040,8 @@
      "J": 1
     },
     "faixas_etarias": {
-     "Absoluto": 5,
      "Master": 2,
+     "Absoluto": 5,
      "Base (Sub)": 5
     },
     "id": "federacao-de-tenis-de-mesa-do-estado-de-goias-go"
@@ -36285,7 +36167,7 @@
     "atletas_masculino": 1,
     "atletas_feminino": 2,
     "atletas_paralimpicos": 0,
-    "atletas_cadastrados": 83,
+    "atletas_cadastrados": 85,
     "top100_rating": 0,
     "forca": 88.8,
     "elite": 3.7,
@@ -36340,7 +36222,7 @@
     "atletas_masculino": 2,
     "atletas_feminino": 0,
     "atletas_paralimpicos": 0,
-    "atletas_cadastrados": 83,
+    "atletas_cadastrados": 85,
     "top100_rating": 0,
     "forca": 67.8,
     "elite": 2.4,
@@ -36604,14 +36486,14 @@
   ]
  },
  "resumo": {
-  "atletas_no_rating": 41585,
-  "atletas_ativos": 12529,
-  "atletas_ativos_em_clubes": 12004,
+  "atletas_no_rating": 41594,
+  "atletas_ativos": 12416,
+  "atletas_ativos_em_clubes": 11891,
   "atletas_ativos_em_federacoes": 525,
-  "clubes_no_ranking": 608,
+  "clubes_no_ranking": 606,
   "clubes_sem_estado": 0,
   "origem_uf": {
-   "atletas": 517,
+   "atletas": 515,
    "federados": 91
   }
  },
