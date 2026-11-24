@@ -1,69 +1,69 @@
 {
  "meta": {
-  "gerado_em": "2026-11-16T23:11:30+00:00",
+  "gerado_em": "2026-11-24T01:13:09+00:00",
   "rating_oficial_ate": "2026-09-27",
   "ano_ranking": 2026,
   "fonte": "CBTM – rankings e rating públicos (live.cbtm.org.br) e clubes federados (cbtm.org.br)",
   "aviso": "Os dados usam os números dos atletas do último ano (últimas 52 semanas).",
   "perfis_amostrados": 300
  },
- "b0": 0.19953,
- "b1": 0.36756,
- "jogos": 11935,
+ "b0": 0.28527,
+ "b1": 0.34963,
+ "jogos": 11692,
  "calibracao": [
   {
    "delta": 12.0,
-   "jogos": 711,
-   "observado": 0.56,
-   "previsto": 0.561
+   "jogos": 682,
+   "observado": 0.595,
+   "previsto": 0.581
   },
   {
    "delta": 37.0,
-   "jogos": 599,
-   "observado": 0.526,
-   "previsto": 0.583
+   "jogos": 606,
+   "observado": 0.545,
+   "previsto": 0.602
   },
   {
    "delta": 74.5,
-   "jogos": 1076,
-   "observado": 0.652,
-   "previsto": 0.616
+   "jogos": 1080,
+   "observado": 0.649,
+   "previsto": 0.633
   },
   {
    "delta": 124.5,
-   "jogos": 829,
-   "observado": 0.626,
-   "previsto": 0.659
+   "jogos": 831,
+   "observado": 0.647,
+   "previsto": 0.673
   },
   {
    "delta": 174.5,
-   "jogos": 809,
-   "observado": 0.775,
-   "previsto": 0.699
+   "jogos": 890,
+   "observado": 0.77,
+   "previsto": 0.71
   },
   {
    "delta": 249.5,
-   "jogos": 1127,
-   "observado": 0.71,
-   "previsto": 0.753
+   "jogos": 1096,
+   "observado": 0.736,
+   "previsto": 0.761
   },
   {
    "delta": 349.5,
-   "jogos": 1012,
-   "observado": 0.84,
-   "previsto": 0.815
+   "jogos": 1013,
+   "observado": 0.848,
+   "previsto": 0.819
   },
   {
    "delta": 449.5,
-   "jogos": 696,
-   "observado": 0.835,
-   "previsto": 0.864
+   "jogos": 652,
+   "observado": 0.811,
+   "previsto": 0.865
   },
   {
    "delta": 650.0,
-   "jogos": 5076,
-   "observado": 0.931,
-   "previsto": 0.93
+   "jogos": 4842,
+   "observado": 0.93,
+   "previsto": 0.928
   }
  ]
 }
